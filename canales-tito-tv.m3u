@@ -1,7 +1,7 @@
 #EXTM3U
 
 
->>>Entre Rios<<<
+>>>>>Entre Rios<<<<<
 
 #EXTINF:31,RemansoTV
 #EXTVLCOPT:network-caching=10000
@@ -56,7 +56,7 @@ https://5cbda9ff89c34.streamlock.net/fmhasenkamp/fmhasenkamp.stream/chunklist_w6
 http://node-07.zeno.fm/bnhvyvxn64zuv?zs=52xm2PmHQweRiJNWGRLEeg&rj-tok=AAABf35jabcA1NGjUxsMMc0waw&rj-ttl=5
 
 
->>>AMBA<<<
+>>>>>AMBA<<<<<
 
 #EXTINF:29,Quilmes Visión - 29 TV - Quilmes - GB Gran Bs As
 #EXTVLCOPT:network-caching=10000
@@ -87,7 +87,7 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0072
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0005
 
 
->>>Nacionales<<<
+>>>>>Nacionales<<<<<
 
 #EXTINF:30,America
 #EXTVLCOPT:network-caching=10000
@@ -159,7 +159,7 @@ http://live-edge01.telecentro.net.ar:1935/live/msctphd-720/playlist.m3u8
 
 
 
->>>Deportes<<<
+>>>>>Deportes<<<<<
 
 #EXTINF:120,TyC Sports
 #EXTVLCOPT:network-caching=10000
@@ -202,7 +202,7 @@ https://edge03-cde-py.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_SAGEMCOM/FoxSport
 https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/live-audio_track_0_0_und=128000-video_track=4500000.m3u8
 
 
->>>Noticias<<<
+>>>>>Noticias<<<<<
 
 #EXTINF:31,Cronica TV
 #EXTVLCOPT:network-caching=10000
@@ -249,7 +249,7 @@ http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w1700708876_b1
 http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
 
 
->>>Cable<<<
+>>>>>Cable<<<<<
 
 #EXTINF:60,Gourmet
 #EXTVLCOPT:network-caching=10000
@@ -320,7 +320,7 @@ https://edge03-cde-py.cvattv.com.ar/live/c6eds/Tooncast/SA_SAGEMCOM/Tooncast-avc
 https://edge03-cde-py.cvattv.com.ar/live/c7eds/Boomerang/SA_SAGEMCOM/Boomerang-avc1_2100000=10003-mp4a_144800_spa=20000.m3u8
 
 
->>>Interior<<<
+>>>>>Interior<<<<<
 
 #EXTINF:31,TV Universidad La Plata
 #EXTVLCOPT:network-caching=10000
