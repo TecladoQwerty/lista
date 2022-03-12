@@ -233,6 +233,15 @@ https://edge03-cde-py.cvattv.com.ar/live/c3eds/Space/SA_SAGEMCOM/Space-avc1_2740
 #EXTVLCOPT:network-caching=10000
 https://edge03-cde-py.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_SAGEMCOM/TNT_HD_Arg-avc1_2420000=10009-mp4a_144800_spa=20001.m3u8
 
+#EXTINF:29, Cinemax
+#EXTVLCOPT:network-caching=10000
+https://edge03-cde-py.cvattv.com.ar/live/c6eds/Cinemax/SA_SAGEMCOM/Cinemax-avc1_1499968=10002-mp4a_145200_spa=20001.m3u8
+
+#EXTINF:29, Star Channel Latino
+#EXTVLCOPT:network-caching=10000
+https://edge03-cde-py.cvattv.com.ar/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD-avc1_1499968=10002-mp4a_145200_spa=20002.m3u8
+
+
 
 
 #EXTINF:30,Argentinísima Satelital
