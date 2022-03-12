@@ -1,28 +1,32 @@
 #EXTM3U
 
-#EXTINF:31,Canal 9 Litoral Entre Rios
+#EXTINF:31,RemansoTV
 #EXTVLCOPT:network-caching=10000
-https://stream.arcast.live/ahora/ahora/chunklist_w1616138585.m3u8
+https://stmvideo1.livecastv.com/remansotv/remansotv/chunklist_w931496501.m3u8
 
 #EXTINF:31,Canal 2 Gualeguay Entre Rios
 #EXTVLCOPT:network-caching=10000
 https://59d52c5a5ce5e.streamlock.net:4443/gualeguay/gualeguay/chunklist_w1633951586.m3u8
 
+#EXTINF:31,Canal 5 Colonia Avellaneda Entre Rios
+#EXTVLCOPT:network-caching=10000
+https://srv3.zcast.com.br/carlosr/carlosr/chunklist_w1101071630.m3u8
+
+#EXTINF:31,Canal 6 Entre Rios
+#EXTVLCOPT:network-caching=10000
+https://stmvideo1.livecastv.com/canal6er/canal6er/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:31,Canal 9 Litoral Entre Rios
+#EXTVLCOPT:network-caching=10000
+https://stream.arcast.live/ahora/ahora/chunklist_w1616138585.m3u8
+
 #EXTINF:31,ElOnceTV Parana Entre Rios
 #EXTVLCOPT:network-caching=10000
 https://elonceovh.elonce.com/hls/live_240p1700kbs/index.m3u8
 
-#EXTINF:31,RemansoTV
-#EXTVLCOPT:network-caching=10000
-https://stmvideo1.livecastv.com/remansotv/remansotv/chunklist_w931496501.m3u8
-
 #EXTINF:31,ItelTV Chajari Entre Rios
 #EXTVLCOPT:network-caching=10000
 http://66.128.32.245/output/iteltv/track_2_4500/playlist.m3u8
-
-#EXTINF:31,Canal 5 Colonia Avellaneda Entre Rios
-#EXTVLCOPT:network-caching=10000
-https://srv3.zcast.com.br/carlosr/carlosr/chunklist_w1101071630.m3u8
 
 #EXTINF:31,FM Brisas Santa Elena Entre Rios
 #EXTVLCOPT:network-caching=10000
@@ -44,61 +48,63 @@ https://5cbda9ff89c34.streamlock.net/fmhasenkamp/fmhasenkamp.stream/chunklist_w6
 #EXTVLCOPT:network-caching=10000
 http://node-07.zeno.fm/bnhvyvxn64zuv?zs=52xm2PmHQweRiJNWGRLEeg&rj-tok=AAABf35jabcA1NGjUxsMMc0waw&rj-ttl=5
 
-#EXTINF:31,TV Universidad La Plata
+#EXTINF:30,Tv Publica Argentina
 #EXTVLCOPT:network-caching=10000
-https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
+https://cntlnk-main-edge-access.secure.footprint.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_720p.m3u8
 
-#EXTINF:31,Unq TV
+#EXTINF:30,Telefe Rosario
 #EXTVLCOPT:network-caching=10000
-https://www.youtube.com/watch?v=uyg50p7psUY&ab_channel=UNQtv
+http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8?PlaylistM3UCL
 
-#EXTINF:31,TN
+#EXTINF:29,Canal 13 Argentina
 #EXTVLCOPT:network-caching=10000
-https://youtu.be/wHn1_QVoXGM
+https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CrEFq_QF9MFg-qwrD1-xq9-uqzbbK1JqsEbKsoV1F6k6aTN_-_uK-sg9vU1YY90uL4slb7PaGkMsrNQSe8XKffWC0MRvI4bVffsTGR7RZCVUF8UaN6xoGGV79TiAAw1x7A-fCW67tvSU7FXiNCQCk28wz2l0DpZsaQBjCckWBEVGQGrztQbq3UOXXOnHJWe7s59-V3bw56Onb093GgRJ4iHLSUMvCAy8t4KCpOiv4_wEqT9Zs3ZUL3qwz4c1G6sBuZxs8cYiV_NNwZZYtdbP_AdWJPGt7eWMbL9VTGVo7zTBaJGUBJ2gDjCVEb674NlJLVRwr4HLY35pzYpxvy_47ACRskklpUkOJuDOG3h_JeFdeZGf0jQY-fUv724gQBv_6v_XaQFADz9ovW5wPgLyEag3FsS1HnYix1e7wkFb_anPY0DRJwChxCkp_Wnl20PObr5wa4FUbvF9xdFem2eGoHlasVQAT4_g4xQLhVB6A5VzzTNPppc9E6yzgs0L3HnkMU6l7pjti1XZN7VSkLBypqXWPqrkjZDMRjBjLZSdFVYaNnJtJDhxBJIDsLcqbUGYZcJISsOeRc7Rd6TciW1vfjqtkwizXWBTyU8f0mYGpV5gr8t0VFV4B6PBDz4af672Xgg4TCTPNvvFo_f6BG-1Cln7DH3lxXTsyS80zO88ZcEDrmDIKQEs5cRj0BmcIS_Ixb9fHbeN7iI4rPQ_sYtDjE1UzgWAbzT9x1XEFFWOrF65OnG63W_djEBSzEMt_zX2qR1wi_23w74SJz07OmTLAbBd7ayy1wDIoUUdu85OVI7BuRYCsrY8fo9WzzgIdfl4Hb6FcRQjza41fQ9RienG6V-hNx7CZS82bgEJV0LKAT1Bs8o8dgrkR1u4eiORssq5gAlEzZpVgP-2Vvnjr9xrEs1UPlUaDN1UfRgQVANZCYIODyABKglldS13ZXN0LTIwnAM.m3u8
 
-#EXTINF:0,ARGENTINA:Canal 26 1
+#EXTINF:120,TyC Sports
 #EXTVLCOPT:network-caching=10000
-http://200.115.193.177/live/26hd-480/.m3u8?iptvgratis?chile.m3u8
-
-#EXTINF:0,ARGENTINA:Canal 26 2
-#EXTVLCOPT:network-caching=10000
-http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w188793591_b1864000_sleng.m3u8?iptvgratis?chile.m3u8
-
-#EXTINF:0,ARGENTINA:Canal 26 3
-#EXTVLCOPT:network-caching=10000
-http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w1700708876_b1264000_sleng.m3u8?iptvgratis?chile.m3u8
-
-#EXTINF:29,Canal 26 (Argentina)
-#EXTVLCOPT:network-caching=10000
-http://live-edge01.telecentro.net.ar:1935/live/26hd-720/livestream.m3u8
-
-#EXTINF:31,Canal 26 HD
-#EXTVLCOPT:network-caching=10000
-http://200.115.193.177/live/26hd-720/.m3u8
-
-#EXTINF:0,ARGENTINA:TLX
-#EXTVLCOPT:network-caching=10000
-http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?iptvgratis?chile.m3u8
-
-#EXTINF:29,Canal Telemax HD
-#EXTVLCOPT:network-caching=10000
-http://live-edge01.telecentro.net.ar/live/tlxhd-720/playlist.m3u8
-
-#EXTINF:30,ARGENTINA:Canal 9 Salta
-#EXTVLCOPT:network-caching=10000
-http://panel.dattalive.com:1935/8250/8250/playlist.m3u8?iptvgratis?chile.m3u8
-
-#EXTINF:120,ARGENTINA:Canal Provincial
-#EXTVLCOPT:network-caching=10000
-http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
-
-#EXTINF:12,ARGENTINA:Litus Tv
-#EXTVLCOPT:network-caching=10000
-http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8
+https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_10.m3u8
 
 #EXTINF:29,Quilmes Visión - 29 TV - Quilmes - GB Gran Bs As
 #EXTVLCOPT:network-caching=10000
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0067
+
+#EXTINF:30,Canal 9 Salta
+#EXTVLCOPT:network-caching=10000
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:120,Canal Provincial Buenos Aires
+#EXTVLCOPT:network-caching=10000
+http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
+
+#EXTINF:12,Litus Tv Santa Fe
+#EXTVLCOPT:network-caching=10000
+http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8
+
+#EXTINF:29,Canal 7 Mendoza
+#EXTVLCOPT:network-caching=10000
+https://www.youtube.com/watch?v=LNn14YeAOQg
+
+#EXTINF:29,Aire de Santa Fe
+#EXTVLCOPT:network-caching=10000
+https://sc1.stweb.tv/airedigital/live/playlist.m3u8?PlaylistM3UCL
+
+
+
+#EXTINF:0,Telemax Argentina
+#EXTVLCOPT:network-caching=10000
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:29,Telemax HD Argentina
+#EXTVLCOPT:network-caching=10000
+http://live-edge01.telecentro.net.ar/live/tlxhd-720/playlist.m3u8
+
+#EXTINF:31,Cronica TV
+#EXTVLCOPT:network-caching=10000
+https://www.youtube.com/watch?v=InSydaLSSlw
+
+#EXTINF:31,TN
+#EXTVLCOPT:network-caching=10000
+https://youtu.be/wHn1_QVoXGM
 
 #EXTINF:29,RT Russian Today en Español
 #EXTVLCOPT:network-caching=10000
@@ -108,15 +114,41 @@ https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 #EXTVLCOPT:network-caching=10000
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream02/streamPlaylist.m3u8
 
+#EXTINF:29,France 24 en Español
+#EXTVLCOPT:network-caching=10000
+https://www.youtube.com/watch?v=lU8u1hEW8Ms
+
+#EXTINF:31,Canal 26 HD
+#EXTVLCOPT:network-caching=10000
+http://200.115.193.177/live/26hd-720/.m3u8
+
+#EXTINF:29,Canal 26
+#EXTVLCOPT:network-caching=10000
+http://live-edge01.telecentro.net.ar:1935/live/26hd-720/livestream.m3u8
+
+#EXTINF:0,Canal 26 1
+#EXTVLCOPT:network-caching=10000
+http://200.115.193.177/live/26hd-480/.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:0,Canal 26 2
+#EXTVLCOPT:network-caching=10000
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w188793591_b1864000_sleng.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:0,Canal 26 3
+#EXTVLCOPT:network-caching=10000
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w1700708876_b1264000_sleng.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:31,TV Universidad La Plata
+#EXTVLCOPT:network-caching=10000
+https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
+
+#EXTINF:31,Unq TV
+#EXTVLCOPT:network-caching=10000
+https://www.youtube.com/watch?v=uyg50p7psUY&ab_channel=UNQtv
+
 #EXTINF:29,DeporTV
 #EXTVLCOPT:network-caching=10000
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/chunklist_w1891726586.m3u8
-
-#EXTINF:29,Canal 13
-#EXTVLCOPT:network-caching=10000
-https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CrEFq_QF9MFg-qwrD1-xq9-uqzbbK1JqsEbKsoV1F6k6aTN_-_uK-sg9vU1YY90uL4slb7PaGkMsrNQSe8XKffWC0MRvI4bVffsTGR7RZCVUF8UaN6xoGGV79TiAAw1x7A-fCW67tvSU7FXiNCQCk28wz2l0DpZsaQBjCckWBEVGQGrztQbq3UOXXOnHJWe7s59-V3bw56Onb093GgRJ4iHLSUMvCAy8t4KCpOiv4_wEqT9Zs3ZUL3qwz4c1G6sBuZxs8cYiV_NNwZZYtdbP_AdWJPGt7eWMbL9VTGVo7zTBaJGUBJ2gDjCVEb674NlJLVRwr4HLY35pzYpxvy_47ACRskklpUkOJuDOG3h_JeFdeZGf0jQY-fUv724gQBv_6v_XaQFADz9ovW5wPgLyEag3FsS1HnYix1e7wkFb_anPY0DRJwChxCkp_Wnl20PObr5wa4FUbvF9xdFem2eGoHlasVQAT4_g4xQLhVB6A5VzzTNPppc9E6yzgs0L3HnkMU6l7pjti1XZN7VSkLBypqXWPqrkjZDMRjBjLZSdFVYaNnJtJDhxBJIDsLcqbUGYZcJISsOeRc7Rd6TciW1vfjqtkwizXWBTyU8f0mYGpV5gr8t0VFV4B6PBDz4af672Xgg4TCTPNvvFo_f6BG-1Cln7DH3lxXTsyS80zO88ZcEDrmDIKQEs5cRj0BmcIS_Ixb9fHbeN7iI4rPQ_sYtDjE1UzgWAbzT9x1XEFFWOrF65OnG63W_djEBSzEMt_zX2qR1wi_23w74SJz07OmTLAbBd7ayy1wDIoUUdu85OVI7BuRYCsrY8fo9WzzgIdfl4Hb6FcRQjza41fQ9RienG6V-hNx7CZS82bgEJV0LKAT1Bs8o8dgrkR1u4eiORssq5gAlEzZpVgP-2Vvnjr9xrEs1UPlUaDN1UfRgQVANZCYIODyABKglldS13ZXN0LTIwnAM.m3u8
-
-
 
 
 
@@ -486,10 +518,6 @@ http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8?iptvgratis?chile.m
 #EXTVLCOPT:network-caching=10000
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
 
-#EXTINF:30,Tv Publica Argentina
-#EXTVLCOPT:network-caching=10000
-https://cntlnk-main-edge-access.secure.footprint.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_720p.m3u8
-
 #EXTINF:40,MULTIMEDIOS
 #EXTVLCOPT:network-caching=10000
 http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
@@ -521,10 +549,6 @@ http://mdstrm.com/live-stream-playlist_400/57b4dbf5dbbfc8f16bb63ce1.m3u8?
 #EXTINF:30,TELEMAR CAMPECHE
 #EXTVLCOPT:network-caching=10000
 http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u
-
-#EXTINF:120,TyC Sports
-#EXTVLCOPT:network-caching=10000
-https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_10.m3u8
 
 #EXTINF:30,PIGUINO TV HD
 #EXTVLCOPT:network-caching=10000
