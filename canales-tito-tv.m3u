@@ -55,9 +55,21 @@ http://node-07.zeno.fm/bnhvyvxn64zuv?zs=52xm2PmHQweRiJNWGRLEeg&rj-tok=AAABf35jab
 #EXTVLCOPT:network-caching=10000
 https://cntlnk-main-edge-access.secure.footprint.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_720p.m3u8
 
+#EXTINF:30,Canal 9
+#EXTVLCOPT:network-caching=10000
+https://edge03-cde-py.cvattv.com.ar/live/c3eds/Canal9/SA_SAGEMCOM/Canal9-avc1_1499968=10002-mp4a_145200_eng=20003.m3u8
+
+#EXTINF:30,Telefe
+#EXTVLCOPT:network-caching=10000
+https://edge03-cde-py.cvattv.com.ar/live/c3eds/TelefeHD/SA_SAGEMCOM/TelefeHD-avc1_1499968=10014-mp4a_145200_spa=20002.m3u8
+
 #EXTINF:30,Telefe
 #EXTVLCOPT:network-caching=10000
 https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CoIFLQPhg_FM0T5D4-vfM8yGCOsDXZ52HGN-obuiFAjgHP7OlBBaaGxI-HejZj5h7JhO5Q7z401F0F-07RMGaiEhu3zJi5VblkLW8V1LM4KVhZ6iOdRWx2WttlOD7kHF-i9L5MbpgN0gdF7RfZ8gxnKb9Mxa8KPtWioV4uBa3NG0BBr-LyXIbEw3f4DeI43KddLEkx5_zBf1TwQcPDZSR_AE-Aj6b2F85FY4Wwsmbo_kwwbkBWnn0sTh_Io3Wdn99Tz3nPnuXCB6iU4r-z8j4AUq7COaeD7Nh2_SLyrn7sIJaz00tXla9BmPK65m3L1d3YOLAruvSSYEM8dw0P1hzZQt-hcL0gx5uENKBDGE_fqtimSsORoDT591uVkOZzwzP2UYUXk9rbWsTDsSmocT8tnbvSNelJBsG5-m0eocYxGdPS-6l6x-zxHos07ApTI4MsrtXsn5ipmKp3J7_kiddxxRz-1FJ754nJcQybwqWqFQIXg7wCFhjJpolLmHo0pQPx7wMGQdFuEkC8S2z5-58kof3r-mxbRL8uR72xIdaQNzcrgHXCnaGfVggslZraR2y9h0ZnoSVZZG-xqZd5S5qmisF6oIghwCidDfSzIU28HXLXQZLn4A3NhA10aaKH_D1JVnb_pvD3C77o3VA-Rg1IrrlpUX3qVeSUoQPs8s2r9-vB5-FxxJRZNE-1gU0dYevTztBWE_EaSWGvfUWNwWqkFWJBqQ0Gefw-SzFy0YH3Ni3tY5sJBez5EpYoTQp5w-o-p-nhf4CQMrlqoFLPS8iC9i6szgk6Q9P3c-3Ko1R_VjUVrip2uTcrzhYx_BH-JY1D2bpurSY7HA5S4hlNkrLpRTBBzyGgzaPFX6E8aszmb4hKUgASoJZXUtd2VzdC0yMJwD.m3u8
+
+#EXTINF:30,Canal 13
+#EXTVLCOPT:network-caching=10000
+https://edge03-cde-py.cvattv.com.ar/live/c3eds/ArtearHD/SA_SAGEMCOM/ArtearHD-avc1_1499968=10012-mp4a_145200_spa=20003.m3u8
 
 #EXTINF:29,Canal 13 Argentina
 #EXTVLCOPT:network-caching=10000
@@ -86,6 +98,18 @@ https://edge03-cde-py.cvattv.com.ar/live/c3eds/ESPN_PY/SA_SAGEMCOM/ESPN_PY-avc1_
 #EXTINF:120,ESPN 3
 #EXTVLCOPT:network-caching=10000
 https://edge03-cde-py.cvattv.com.ar/live/c3eds/ESPN3/SA_SAGEMCOM/ESPN3.m3u8
+
+#EXTINF:120,Fox Sports
+#EXTVLCOPT:network-caching=10000
+https://cdn.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8
+
+#EXTINF:120,Fox Sports 2
+#EXTVLCOPT:network-caching=10000
+https://edge03-cde-py.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_SAGEMCOM/FoxSports2HD-avc1_2740000=10003-mp4a_144800_spa=20000.m3u8
+
+#EXTINF:120,Fox Sports 3
+#EXTVLCOPT:network-caching=10000
+https://edge03-cde-py.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_SAGEMCOM/FoxSports3HD-avc1_2740000=10003-mp4a_144800_spa=20000.m3u8
 
 #EXTINF:29,Quilmes Visión - 29 TV - Quilmes - GB Gran Bs As
 #EXTVLCOPT:network-caching=10000
@@ -120,6 +144,26 @@ https://www.youtube.com/watch?v=LNn14YeAOQg
 https://sc1.stweb.tv/airedigital/live/playlist.m3u8?PlaylistM3UCL
 
 
+
+#EXTINF:29,Los Simpsons 24/7
+#EXTVLCOPT:network-caching=10000
+https://srv5.zcast.com.br/simpsons/simpsons/chunklist_w897083319.m3u8
+
+#EXTINF:29,NatGeo
+#EXTVLCOPT:network-caching=10000
+https://edge03-cde-py.cvattv.com.ar/live/c3eds/NatGeoHD/SA_SAGEMCOM/NatGeoHD-avc1_2100000=10003-mp4a_144800_spa=20000.m3u8
+
+#EXTINF:29,NatGeo Wild
+#EXTVLCOPT:network-caching=10000
+https://edge03-cde-py.cvattv.com.ar/live/c3eds/NatGeoWildHD/SA_SAGEMCOM/NatGeoWildHD-avc1_2100000=10003-mp4a_144800_spa=20000.m3u8
+
+#EXTINF:29,History
+#EXTVLCOPT:network-caching=10000
+https://edge03-cde-py.cvattv.com.ar/live/c7eds/HistoryHD/SA_SAGEMCOM/HistoryHD-avc1_2100000=10003-mp4a_144800_spa=20001.m3u8
+
+#EXTINF:29,History 2
+#EXTVLCOPT:network-caching=10000
+https://edge03-cde-py.cvattv.com.ar/live/c6eds/History_2/SA_SAGEMCOM/History_2-avc1_2100000=10003-mp4a_144800_spa=20000.m3u8
 
 #EXTINF:0,Telemax Argentina
 #EXTVLCOPT:network-caching=10000
@@ -181,7 +225,13 @@ https://www.youtube.com/watch?v=uyg50p7psUY&ab_channel=UNQtv
 #EXTVLCOPT:network-caching=10000
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/chunklist_w1891726586.m3u8
 
+#EXTINF:29, Space
+#EXTVLCOPT:network-caching=10000
+https://edge03-cde-py.cvattv.com.ar/live/c3eds/Space/SA_SAGEMCOM/Space-avc1_2740000=10004-mp4a_144800_spa=20000.m3u8
 
+#EXTINF:29, TNT
+#EXTVLCOPT:network-caching=10000
+https://edge03-cde-py.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_SAGEMCOM/TNT_HD_Arg-avc1_2420000=10009-mp4a_144800_spa=20001.m3u8
 
 
 
