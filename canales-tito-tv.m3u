@@ -1,8 +1,6 @@
 #EXTM3U
 
-#EXTINF:31,>>>Entre Rios<<<
-#EXTVLCOPT:network-caching=10000
-https://#
+>>>Entre Rios<<<
 
 #EXTINF:31,RemansoTV
 #EXTVLCOPT:network-caching=10000
