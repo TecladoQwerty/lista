@@ -48,6 +48,9 @@ https://5cbda9ff89c34.streamlock.net/fmhasenkamp/fmhasenkamp.stream/chunklist_w6
 #EXTVLCOPT:network-caching=10000
 http://node-07.zeno.fm/bnhvyvxn64zuv?zs=52xm2PmHQweRiJNWGRLEeg&rj-tok=AAABf35jabcA1NGjUxsMMc0waw&rj-ttl=5
 
+
+
+
 #EXTINF:30,Tv Publica Argentina
 #EXTVLCOPT:network-caching=10000
 https://cntlnk-main-edge-access.secure.footprint.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_720p.m3u8
@@ -63,6 +66,26 @@ https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CoUFK9MWjDnfYKRyXpX5HrDu6Q4
 #EXTINF:120,TyC Sports
 #EXTVLCOPT:network-caching=10000
 https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_10.m3u8
+
+#EXTINF:120,Fox Sports Premium
+#EXTVLCOPT:network-caching=10000
+https://cdn.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/Fox_Sports_Premiun_HD-avc1_1499968=10002-mp4a_145200_spa=20001.m3u8
+
+#EXTINF:120,TNT Sports
+#EXTVLCOPT:network-caching=10000
+https://cdn.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
+
+#EXTINF:120,ESPN
+#EXTVLCOPT:network-caching=10000
+https://cdn.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
+
+#EXTINF:120,ESPN 2
+#EXTVLCOPT:network-caching=10000
+https://edge03-cde-py.cvattv.com.ar/live/c3eds/ESPN_PY/SA_SAGEMCOM/ESPN_PY-avc1_899968=10003-mp4a_145200_eng=20001.m3u8
+
+#EXTINF:120,ESPN 3
+#EXTVLCOPT:network-caching=10000
+https://edge03-cde-py.cvattv.com.ar/live/c3eds/ESPN3/SA_SAGEMCOM/ESPN3.m3u8
 
 #EXTINF:29,Quilmes Visión - 29 TV - Quilmes - GB Gran Bs As
 #EXTVLCOPT:network-caching=10000
