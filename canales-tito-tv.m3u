@@ -1,5 +1,6 @@
 #EXTM3U
 
+
 >>>Entre Rios<<<
 
 #EXTINF:31,RemansoTV
@@ -21,6 +22,10 @@ https://stmvideo1.livecastv.com/canal6er/canal6er/playlist.m3u8?PlaylistM3UCL
 #EXTINF:31,Canal 9 Litoral Entre Rios
 #EXTVLCOPT:network-caching=10000
 https://stream.arcast.live/ahora/ahora/chunklist_w1616138585.m3u8
+
+#EXTINF:28,Litoral - 103.1 TV - Paraná - ER Entre Rios
+#EXTVLCOPT:network-caching=10000
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0146
 
 #EXTINF:31,ElOnceTV Parana Entre Rios
 #EXTVLCOPT:network-caching=10000
@@ -51,7 +56,42 @@ https://5cbda9ff89c34.streamlock.net/fmhasenkamp/fmhasenkamp.stream/chunklist_w6
 http://node-07.zeno.fm/bnhvyvxn64zuv?zs=52xm2PmHQweRiJNWGRLEeg&rj-tok=AAABf35jabcA1NGjUxsMMc0waw&rj-ttl=5
 
 
+>>>AMBA<<<
 
+#EXTINF:29,Quilmes Visión - 29 TV - Quilmes - GB Gran Bs As
+#EXTVLCOPT:network-caching=10000
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0067
+
+#EXTINF:29,Canal 5 de Lanus
+#EXTVLCOPT:network-caching=10000
+https://panel.dattalive.com/8012/8012/chunklist_w1483566101.m3u8
+
+#EXTINF:120,Señal Provincial San Miguel
+#EXTVLCOPT:network-caching=10000
+http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
+
+#EXTINF:120,Canal Provincial San Miguel
+#EXTVLCOPT:network-caching=10000
+http://www.trimi.com.ar/provincial/streaming/mystreamProvincialHSMed.m3u8
+
+#EXTINF:31,Unq TV
+#EXTVLCOPT:network-caching=10000
+https://www.youtube.com/watch?v=uyg50p7psUY&ab_channel=UNQtv
+
+#EXTINF:30,LRI351 Ser - 89.7 TV - Tristan Suarez - GB Gran Bs As
+#EXTVLCOPT:network-caching=10000
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0072
+
+#EXTINF:20,Radio Jai - La radio Judia de Latinoamerica
+#EXTVLCOPT:network-caching=10000
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0005
+
+
+>>>Nacionales<<<
+
+#EXTINF:30,America
+#EXTVLCOPT:network-caching=10000
+https://edge03-cde-py.cvattv.com.ar/live/c3eds/AmericaTV/SA_SAGEMCOM/AmericaTV-avc1_1499968=10008-mp4a_145200_spa=20001.m3u8
 
 #EXTINF:30,Tv Publica Argentina
 #EXTVLCOPT:network-caching=10000
@@ -76,6 +116,50 @@ https://edge03-cde-py.cvattv.com.ar/live/c3eds/ArtearHD/SA_SAGEMCOM/ArtearHD-avc
 #EXTINF:29,Canal 13 Argentina
 #EXTVLCOPT:network-caching=10000
 https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CoUFK9MWjDnfYKRyXpX5HrDu6Q4-X_yCpwB1YnA4X00AWJ-CZPMWFFzlTJ0bPPApe0msH1SCANlhqi6ihhSoesnTzVbTLYYQ6iJ90ZweX_DJZ0MFdOS2M7McI-Ty_QUucvvDzyoy2nGqU-jgC5nWxJ3qXD42Uyk1T0ZJZsHCzGxkvlk81Vy4Em_484qx1T2IpZIfkxbCnLvdyiCzWTT5TgFIQfZQo8F9ikz418BSiJPvCiN785KaSwgrsYQuGBl-Qy2BOWjlrYYLevROdtpDkHu35PTuKVJ8h3BreQ31LGwYM8BT46YtsG9okgQI9QwLGmsCE4YGHW0T9ybF8382ufOaObKVbJmuIbpmdLiJdtg5K1CjeqWz_jVbZ72zqYw0EEWQKfSHVGMPIYo5mKp3JypbVP7njmylJucVxD4prgDk7m1si5twCLrxSxQ8cjVJr2HtJ2gghkjfvx6Fq22Oe-2Kyls-E7BNO5UOrDHlliolQKgl2nU8O5-ab5q9zDGJEssG1_xuAn3Yr32qBGpQX2WDXT2CjvWJBytp2c2fRSYyol4JuI7aFjP82rYC2oyk9TfIZ6pkr65dske2hyiDUfkum7rs6maSn1ngK5q8BuZCmSpMSUnNfeluxlwlk1jlI7ss5tmx0iVacmw85LXSFIZoN3Fu5z0vv5IW2Z08aW26xAPIy6UWm0ezj6lfZHOgsI3xWWMa65L1gNzh0T28mPX4vRf6J58tGvLW7aRQ_mFQnFkOZf3l8ZhTlUNAbZA4YLDilM_Sfmnck6cFdWQ-BDPLovufjbcvg4nVdXBOC4Dy937iLNT_1NR4RD7z8XdAvdj20SCTiXrQxXFm4ARo0htkRjEzhERBGgwPlmDZfoNUroZFqy8gASoJZXUtd2VzdC0yMJ0D.m3u8
+
+#EXTINF:29,Telemax HD Argentina
+#EXTVLCOPT:network-caching=10000
+http://live-edge01.telecentro.net.ar/live/tlxhd-720/playlist.m3u8
+
+#EXTINF:0,Telemax
+#EXTVLCOPT:network-caching=10000
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:660,Telemax - 26.3 TV - CABA TV TDA - CD Cd Aut Bs As
+#EXTVLCOPT:network-caching=10000
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0050
+
+#EXTINF:28,Telemax
+#EXTVLCOPT:network-caching=10000
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0057
+
+#EXTINF:28, Telemax
+#EXTVLCOPT:network-caching=10000
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+
+#EXTINF:27,TLX
+#EXTVLCOPT:network-caching=10000
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:29,Tierramia TV
+#EXTVLCOPT:network-caching=10000
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0029
+
+#EXTINF:27,Music Top
+#EXTVLCOPT:network-caching=10000
+http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+
+#EXTINF:34,Music Top
+#EXTVLCOPT:network-caching=10000
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0025
+
+#EXTINF:30, Music Top (ARG)
+#EXTVLCOPT:network-caching=10000
+http://live-edge01.telecentro.net.ar:1935/live/msctphd-720/playlist.m3u8
+
+
+
+>>>Deportes<<<
 
 #EXTINF:120,TyC Sports
 #EXTVLCOPT:network-caching=10000
@@ -117,67 +201,8 @@ https://edge03-cde-py.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_SAGEMCOM/FoxSport
 #EXTVLCOPT:network-caching=10000
 https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/live-audio_track_0_0_und=128000-video_track=4500000.m3u8
 
-#EXTINF:29,Quilmes Visión - 29 TV - Quilmes - GB Gran Bs As
-#EXTVLCOPT:network-caching=10000
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0067
 
-#EXTINF:29,Canal 5 de Lanus
-#EXTVLCOPT:network-caching=10000
-https://panel.dattalive.com/8012/8012/chunklist_w1483566101.m3u8
-
-#EXTINF:29,Tv Publica Fueguina Tierra del Fuego
-#EXTVLCOPT:network-caching=10000
-https://vivo.solumedia.com:19360/tvpublicafueguina/tvpublicafueguina.m3u8
-
-#EXTINF:30,Canal 9 Salta
-#EXTVLCOPT:network-caching=10000
-http://panel.dattalive.com:1935/8250/8250/playlist.m3u8?iptvgratis?chile.m3u8
-
-#EXTINF:120,Canal Provincial Buenos Aires
-#EXTVLCOPT:network-caching=10000
-http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
-
-#EXTINF:12,Litus Tv Santa Fe
-#EXTVLCOPT:network-caching=10000
-http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8
-
-#EXTINF:29,Canal 7 Mendoza
-#EXTVLCOPT:network-caching=10000
-https://www.youtube.com/watch?v=LNn14YeAOQg
-
-#EXTINF:29,Aire de Santa Fe
-#EXTVLCOPT:network-caching=10000
-https://sc1.stweb.tv/airedigital/live/playlist.m3u8?PlaylistM3UCL
-
-
-
-#EXTINF:29,Los Simpsons 24/7
-#EXTVLCOPT:network-caching=10000
-https://srv5.zcast.com.br/simpsons/simpsons/chunklist_w897083319.m3u8
-
-#EXTINF:29,NatGeo
-#EXTVLCOPT:network-caching=10000
-https://edge03-cde-py.cvattv.com.ar/live/c3eds/NatGeoHD/SA_SAGEMCOM/NatGeoHD-avc1_2100000=10003-mp4a_144800_spa=20000.m3u8
-
-#EXTINF:29,NatGeo Wild
-#EXTVLCOPT:network-caching=10000
-https://edge03-cde-py.cvattv.com.ar/live/c3eds/NatGeoWildHD/SA_SAGEMCOM/NatGeoWildHD-avc1_2100000=10003-mp4a_144800_spa=20000.m3u8
-
-#EXTINF:29,History
-#EXTVLCOPT:network-caching=10000
-https://edge03-cde-py.cvattv.com.ar/live/c7eds/HistoryHD/SA_SAGEMCOM/HistoryHD-avc1_2100000=10003-mp4a_144800_spa=20001.m3u8
-
-#EXTINF:29,History 2
-#EXTVLCOPT:network-caching=10000
-https://edge03-cde-py.cvattv.com.ar/live/c6eds/History_2/SA_SAGEMCOM/History_2-avc1_2100000=10003-mp4a_144800_spa=20000.m3u8
-
-#EXTINF:0,Telemax Argentina
-#EXTVLCOPT:network-caching=10000
-http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?iptvgratis?chile.m3u8
-
-#EXTINF:29,Telemax HD Argentina
-#EXTVLCOPT:network-caching=10000
-http://live-edge01.telecentro.net.ar/live/tlxhd-720/playlist.m3u8
+>>>Noticias<<<
 
 #EXTINF:31,Cronica TV
 #EXTVLCOPT:network-caching=10000
@@ -219,13 +244,44 @@ http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w188793591_b18
 #EXTVLCOPT:network-caching=10000
 http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w1700708876_b1264000_sleng.m3u8?iptvgratis?chile.m3u8
 
-#EXTINF:31,TV Universidad La Plata
+#EXTINF:30,19 Canal 26 | HD
 #EXTVLCOPT:network-caching=10000
-https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
+http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
 
-#EXTINF:31,Unq TV
+
+>>>Cable<<<
+
+#EXTINF:60,Gourmet
 #EXTVLCOPT:network-caching=10000
-https://www.youtube.com/watch?v=uyg50p7psUY&ab_channel=UNQtv
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0018
+
+#EXTINF:30, Garage TV
+#EXTVLCOPT:network-caching=10000
+http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
+
+#EXTINF:30, Garage TV
+#EXTVLCOPT:network-caching=10000
+http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
+
+#EXTINF:29,Los Simpsons 24/7
+#EXTVLCOPT:network-caching=10000
+https://srv5.zcast.com.br/simpsons/simpsons/chunklist_w897083319.m3u8
+
+#EXTINF:29,NatGeo
+#EXTVLCOPT:network-caching=10000
+https://edge03-cde-py.cvattv.com.ar/live/c3eds/NatGeoHD/SA_SAGEMCOM/NatGeoHD-avc1_2100000=10003-mp4a_144800_spa=20000.m3u8
+
+#EXTINF:29,NatGeo Wild
+#EXTVLCOPT:network-caching=10000
+https://edge03-cde-py.cvattv.com.ar/live/c3eds/NatGeoWildHD/SA_SAGEMCOM/NatGeoWildHD-avc1_2100000=10003-mp4a_144800_spa=20000.m3u8
+
+#EXTINF:29,History
+#EXTVLCOPT:network-caching=10000
+https://edge03-cde-py.cvattv.com.ar/live/c7eds/HistoryHD/SA_SAGEMCOM/HistoryHD-avc1_2100000=10003-mp4a_144800_spa=20001.m3u8
+
+#EXTINF:29,History 2
+#EXTVLCOPT:network-caching=10000
+https://edge03-cde-py.cvattv.com.ar/live/c6eds/History_2/SA_SAGEMCOM/History_2-avc1_2100000=10003-mp4a_144800_spa=20000.m3u8
 
 #EXTINF:29,DeporTV
 #EXTVLCOPT:network-caching=10000
@@ -264,22 +320,35 @@ https://edge03-cde-py.cvattv.com.ar/live/c6eds/Tooncast/SA_SAGEMCOM/Tooncast-avc
 https://edge03-cde-py.cvattv.com.ar/live/c7eds/Boomerang/SA_SAGEMCOM/Boomerang-avc1_2100000=10003-mp4a_144800_spa=20000.m3u8
 
 
+>>>Interior<<<
+
+#EXTINF:31,TV Universidad La Plata
+#EXTVLCOPT:network-caching=10000
+https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
 
 #EXTINF:30,Argentinísima Satelital
 #EXTVLCOPT:network-caching=10000
 http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/playlist.m3u8
 
-#EXTINF:27,Music Top
+#EXTINF:29,Tv Publica Fueguina Tierra del Fuego
 #EXTVLCOPT:network-caching=10000
-http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+https://vivo.solumedia.com:19360/tvpublicafueguina/tvpublicafueguina.m3u8
 
-#EXTINF:120,Señal Provincial San Miguel
+#EXTINF:30,Canal 9 Salta
 #EXTVLCOPT:network-caching=10000
-http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8?iptvgratis?chile.m3u8
 
-#EXTINF:20,TV Universidad - 56.1 TV - La Plata
+#EXTINF:12,Litus Tv Santa Fe
 #EXTVLCOPT:network-caching=10000
-https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
+http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8
+
+#EXTINF:29,Canal 7 Mendoza
+#EXTVLCOPT:network-caching=10000
+https://www.youtube.com/watch?v=LNn14YeAOQg
+
+#EXTINF:29,Aire de Santa Fe
+#EXTVLCOPT:network-caching=10000
+https://sc1.stweb.tv/airedigital/live/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:31,TV Ciudad 92.3 Resistencia
 #EXTVLCOPT:network-caching=10000
@@ -309,33 +378,9 @@ http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 #EXTVLCOPT:network-caching=10000
 http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8
 
-#EXTINF:20,Radio Jai - La radio Judia de Latinoamerica
-#EXTVLCOPT:network-caching=10000
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0005
-
 #EXTINF:30,Argentinisima Satelital
 #EXTVLCOPT:network-caching=10000
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0009
-
-#EXTINF:60,Gourmet
-#EXTVLCOPT:network-caching=10000
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0018
-
-#EXTINF:34,Music Top
-#EXTVLCOPT:network-caching=10000
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0025
-
-#EXTINF:29,Tierramia TV
-#EXTVLCOPT:network-caching=10000
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0029
-
-#EXTINF:660,Telemax - 26.3 TV - CABA TV TDA - CD Cd Aut Bs As
-#EXTVLCOPT:network-caching=10000
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0050
-
-#EXTINF:28,Canal 22 - Web   TV - CABA TV Web - CD Cd Aut Bs As
-#EXTVLCOPT:network-caching=10000
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0057
 
 #EXTINF:40,Life Classic - Web   TV - CABA TV Web - CD Cd Aut Bs As
 #EXTVLCOPT:network-caching=10000
@@ -348,10 +393,6 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0063
 #EXTINF:30,El 1 webTV - ITV - San Justo - GB Gran Bs As
 #EXTVLCOPT:network-caching=10000
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0069
-
-#EXTINF:30,LRI351 Ser - 89.7 TV - Tristan Suarez - GB Gran Bs As
-#EXTVLCOPT:network-caching=10000
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0072
 
 #EXTINF:1200,RSTV - 105.1 TV - Berisso - BA Buenos Aires
 #EXTVLCOPT:network-caching=10000
@@ -497,33 +538,13 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0196
 #EXTVLCOPT:network-caching=10000
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0201
 
-#EXTINF:30,19 Canal 26 | HD
-#EXTVLCOPT:network-caching=10000
-http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
-
 #EXTINF:27,24 / 7 Noticias
 #EXTVLCOPT:network-caching=10000
 http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8
 
-#EXTINF:30, Music Top (ARG)
-#EXTVLCOPT:network-caching=10000
-http://live-edge01.telecentro.net.ar:1935/live/msctphd-720/playlist.m3u8
-
 #EXTINF:30, Canal 9 Salta
 #EXTVLCOPT:network-caching=10000
 http://panel.dattalive.com:1935/8250/8250/playlist.m3u8?iptvgratis?chile.m3u8
-
-#EXTINF:28, Telemax
-#EXTVLCOPT:network-caching=10000
-http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
-
-#EXTINF:30, Garage TV
-#EXTVLCOPT:network-caching=10000
-http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
-
-#EXTINF:27,TLX
-#EXTVLCOPT:network-caching=10000
-http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?iptvgratis?chile.m3u8
 
 #EXTINF:29,Canal 9 Salta
 #EXTVLCOPT:network-caching=10000
@@ -533,17 +554,9 @@ http://panel.dattalive.com:1935/8250/8250/playlist.m3u8?
 #EXTVLCOPT:network-caching=10000
 http://panel.dattalive.com:1935/8250/8250/chunklist_w1539863470.m3u8
 
-#EXTINF:120,Canal Provincial San Miguel
-#EXTVLCOPT:network-caching=10000
-http://www.trimi.com.ar/provincial/streaming/mystreamProvincialHSMed.m3u8
-
 #EXTINF:24, 5TV Corrientes
 #EXTVLCOPT:network-caching=10000
 http://www.coninfo.net:1935/tvcinco/live1/chunklist_w1546509083.m3u8
-
-#EXTINF:30, Garage TV
-#EXTVLCOPT:network-caching=10000
-http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
 
 #EXTINF:30, Radio TV Neuquen
 #EXTVLCOPT:network-caching=10000
@@ -565,33 +578,12 @@ http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
 #EXTVLCOPT:network-caching=10000
 http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
 
-#EXTINF:31,ARG CANAL 26 HD
-#EXTVLCOPT:network-caching=10000
-http://live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8
-
-#EXTINF:30, Garage TV
-#EXTVLCOPT:network-caching=10000
-http://186.0.233.76:1935/Garage/garage.smil/chunklist_w846352619_b446000_sleng.m3u8
-
 #EXTINF:39,CIUDAD TV CHACO
 #EXTVLCOPT:network-caching=10000
 http://coninfo.net:1935/chacodxdtv/live/chunklist_w1251301598.m3u8
 
-#EXTINF:32, TLX
-#EXTVLCOPT:network-caching=10000
-http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?eamogratis?Entretenimiento.m3u8
-
-#EXTINF:28,Litoral - 103.1 TV - Paraná - ER Entre Rios
-#EXTVLCOPT:network-caching=10000
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0146
-
 #EXTINF:0,RADIO FORMOSA 88.1
 #EXTVLCOPT:network-caching=10000
-https://aertvstream.com:444/live/59e14ad6074ce/index.m3u8
-
-#EXTINF:30,CANAL 9 LITORAL
-#EXTVLCOPT:network-caching=10000
-http://panel.dattalive.com:1935/8250/8250/chunklist_w1259692347.m3u8
 
 #EXTINF:7195,ETB SAT
 #EXTVLCOPT:network-caching=10000
@@ -600,10 +592,6 @@ http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
 #EXTINF:30,Extrema TV
 #EXTVLCOPT:network-caching=10000
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-
-#EXTINF:30,GARAGE TV AUTOS PLANETFOOLS
-#EXTVLCOPT:network-caching=10000
-http://186.0.233.76:1935/Garage/garage.smil/chunklist_w846352619_b446000_sleng.m3u8
 
 #EXTINF:28,wowtv
 #EXTVLCOPT:network-caching=10000
@@ -620,14 +608,6 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
 #EXTINF:40,MULTIMEDIOS
 #EXTVLCOPT:network-caching=10000
 http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
-
-#EXTINF:31,ARGENTINA:Canal 26
-#EXTVLCOPT:network-caching=10000
-http://200.115.193.177/live/26hd-720/.m3u8
-
-#EXTINF:29,ARGENTINA:TLX
-#EXTVLCOPT:network-caching=10000
-http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 
 #EXTINF:23,TELEMILENIO SANTIAGO CHILE
 #EXTVLCOPT:network-caching=10000
