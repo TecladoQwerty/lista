@@ -111,6 +111,10 @@ https://edge03-cde-py.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_SAGEMCOM/FoxSport
 #EXTVLCOPT:network-caching=10000
 https://edge03-cde-py.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_SAGEMCOM/FoxSports3HD-avc1_2740000=10003-mp4a_144800_spa=20000.m3u8
 
+#EXTINF:120,Claro Sports
+#EXTVLCOPT:network-caching=10000
+https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/live-audio_track_0_0_und=128000-video_track=4500000.m3u8
+
 #EXTINF:29,Quilmes Visión - 29 TV - Quilmes - GB Gran Bs As
 #EXTVLCOPT:network-caching=10000
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0067
@@ -241,6 +245,21 @@ https://edge03-cde-py.cvattv.com.ar/live/c6eds/Cinemax/SA_SAGEMCOM/Cinemax-avc1_
 #EXTVLCOPT:network-caching=10000
 https://edge03-cde-py.cvattv.com.ar/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD-avc1_1499968=10002-mp4a_145200_spa=20002.m3u8
 
+#EXTINF:29, Universal
+#EXTVLCOPT:network-caching=10000
+https://edge03-cde-py.cvattv.com.ar/live/c6eds/Universal_Channel_HD/SA_SAGEMCOM/Universal_Channel_HD-avc1_2100000=10003-mp4a_144800_spa=20000.m3u8
+
+#EXTINF:29, Warner
+#EXTVLCOPT:network-caching=10000
+https://edge03-cde-py.cvattv.com.ar/live/c7eds/WarnerHD/SA_SAGEMCOM/WarnerHD-avc1_2100000=10003-mp4a_144800_spa=20000.m3u8
+
+#EXTINF:29, Tooncast
+#EXTVLCOPT:network-caching=10000
+https://edge03-cde-py.cvattv.com.ar/live/c6eds/Tooncast/SA_SAGEMCOM/Tooncast-avc1_1532000=10004-mp4a_144800_spa=20000.m3u8
+
+#EXTINF:29, Boomerang
+#EXTVLCOPT:network-caching=10000
+https://edge03-cde-py.cvattv.com.ar/live/c7eds/Boomerang/SA_SAGEMCOM/Boomerang-avc1_2100000=10003-mp4a_144800_spa=20000.m3u8
 
 
 
@@ -288,35 +307,23 @@ http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 #EXTVLCOPT:network-caching=10000
 http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8
 
-#EXTINF:20,Top - 104.9 TV - CABA FM - CD Cd Aut Bs As
+#EXTINF:20,Radio Jai - La radio Judia de Latinoamerica
 #EXTVLCOPT:network-caching=10000
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0005
 
-#EXTINF:30,BBC World News - CTV - CABA TV Cable - CD Cd Aut Bs As
+#EXTINF:30,Argentinisima Satelital
 #EXTVLCOPT:network-caching=10000
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0009
 
-#EXTINF:60,DW - CTV - CABA TV Cable - CD Cd Aut Bs As
-#EXTVLCOPT:network-caching=10000
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0015
-
-#EXTINF:60,Fashion TV - CTV - CABA TV Cable - CD Cd Aut Bs As
+#EXTINF:60,Gourmet
 #EXTVLCOPT:network-caching=10000
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0018
 
-#EXTINF:34,NHK World - CTV - CABA TV Cable - CD Cd Aut Bs As
+#EXTINF:34,Music Top
 #EXTVLCOPT:network-caching=10000
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0025
 
-#EXTINF:60,Rai 5 - CTV - CABA TV Cable - CD Cd Aut Bs As
-#EXTVLCOPT:network-caching=10000
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0026
-
-#EXTINF:18,Rai Movie - CTV - CABA TV Cable - CD Cd Aut Bs As
-#EXTVLCOPT:network-caching=10000
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0028
-
-#EXTINF:29,Rai News24 - CTV - CABA TV Cable - CD Cd Aut Bs As
+#EXTINF:29,Tierramia TV
 #EXTVLCOPT:network-caching=10000
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0029
 
