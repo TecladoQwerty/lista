@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:31,>>>Entre Rios<<<
+#EXTVLCOPT:network-caching=10000
+
 #EXTINF:31,RemansoTV
 #EXTVLCOPT:network-caching=10000
 https://stmvideo1.livecastv.com/remansotv/remansotv/chunklist_w931496501.m3u8
