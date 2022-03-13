@@ -20,10 +20,6 @@ https://stmvideo1.livecastv.com/canal6er/canal6er/playlist.m3u8?PlaylistM3UCL
 #EXTVLCOPT:network-caching=10000
 https://stream.arcast.live/ahora/ahora/chunklist_w1616138585.m3u8
 
-#EXTINF:28,group-title="Entre Rios",Litoral - 103.1 TV - Paraná - ER Entre Rios
-#EXTVLCOPT:network-caching=10000
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0146
-
 #EXTINF:31,group-title="Entre Rios",ElOnceTV Parana Entre Rios
 #EXTVLCOPT:network-caching=10000
 https://www.youtube.com/watch?v=LvulSyWjnD4
@@ -135,6 +131,22 @@ https://edge03-cde-py.cvattv.com.ar/live/c3eds/ArtearHD/SA_SAGEMCOM/ArtearHD-avc
 #EXTVLCOPT:network-caching=10000
 https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CoUFK9MWjDnfYKRyXpX5HrDu6Q4-X_yCpwB1YnA4X00AWJ-CZPMWFFzlTJ0bPPApe0msH1SCANlhqi6ihhSoesnTzVbTLYYQ6iJ90ZweX_DJZ0MFdOS2M7McI-Ty_QUucvvDzyoy2nGqU-jgC5nWxJ3qXD42Uyk1T0ZJZsHCzGxkvlk81Vy4Em_484qx1T2IpZIfkxbCnLvdyiCzWTT5TgFIQfZQo8F9ikz418BSiJPvCiN785KaSwgrsYQuGBl-Qy2BOWjlrYYLevROdtpDkHu35PTuKVJ8h3BreQ31LGwYM8BT46YtsG9okgQI9QwLGmsCE4YGHW0T9ybF8382ufOaObKVbJmuIbpmdLiJdtg5K1CjeqWz_jVbZ72zqYw0EEWQKfSHVGMPIYo5mKp3JypbVP7njmylJucVxD4prgDk7m1si5twCLrxSxQ8cjVJr2HtJ2gghkjfvx6Fq22Oe-2Kyls-E7BNO5UOrDHlliolQKgl2nU8O5-ab5q9zDGJEssG1_xuAn3Yr32qBGpQX2WDXT2CjvWJBytp2c2fRSYyol4JuI7aFjP82rYC2oyk9TfIZ6pkr65dske2hyiDUfkum7rs6maSn1ngK5q8BuZCmSpMSUnNfeluxlwlk1jlI7ss5tmx0iVacmw85LXSFIZoN3Fu5z0vv5IW2Z08aW26xAPIy6UWm0ezj6lfZHOgsI3xWWMa65L1gNzh0T28mPX4vRf6J58tGvLW7aRQ_mFQnFkOZf3l8ZhTlUNAbZA4YLDilM_Sfmnck6cFdWQ-BDPLovufjbcvg4nVdXBOC4Dy937iLNT_1NR4RD7z8XdAvdj20SCTiXrQxXFm4ARo0htkRjEzhERBGgwPlmDZfoNUroZFqy8gASoJZXUtd2VzdC0yMJ0D.m3u8
 
+#EXTINF:27,group-title="Nacionales",CineAr
+#EXTVLCOPT:network-caching=10
+https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
+
+#EXTINF:27,group-title="Nacionales",Encuentro
+#EXTVLCOPT:network-caching=10
+https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/chunklist.m3u8
+
+#EXTINF:27,group-title="Nacionales",Mirador
+#EXTVLCOPT:network-caching=10
+https://5fb24b460df87.streamlock.net/live-cont.ar/mirador/chunklist_w35816343.m3u8
+
+#EXTINF:30,group-title="Nacionales",Argentinísima Satelital
+#EXTVLCOPT:network-caching=10000
+http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/playlist.m3u8
+
 #EXTINF:29,group-title="Nacionales",Telemax HD Argentina
 #EXTVLCOPT:network-caching=10000
 http://live-edge01.telecentro.net.ar/live/tlxhd-720/playlist.m3u8
@@ -155,18 +167,6 @@ http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 #EXTVLCOPT:network-caching=10000
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?iptvgratis?chile.m3u8
 
-#EXTINF:27,group-title="Nacionales",Encuentro
-#EXTVLCOPT:network-caching=10
-https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/chunklist.m3u8
-
-#EXTINF:27,group-title="Nacionales",Mirador
-#EXTVLCOPT:network-caching=10
-https://5fb24b460df87.streamlock.net/live-cont.ar/mirador/chunklist_w35816343.m3u8
-
-#EXTINF:27,group-title="Nacionales",CineAr
-#EXTVLCOPT:network-caching=10
-https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
-
 #EXTINF:29,group-title="Nacionales",Tierramia TV
 #EXTVLCOPT:network-caching=10000
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0029
@@ -179,7 +179,7 @@ http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
 #EXTVLCOPT:network-caching=10000
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0025
 
-#EXTINF:30,group-title="Nacionales", Music Top (ARG)
+#EXTINF:30,group-title="Nacionales",Music Top (ARG)
 #EXTVLCOPT:network-caching=10000
 http://live-edge01.telecentro.net.ar:1935/live/msctphd-720/playlist.m3u8
 
@@ -359,14 +359,17 @@ https://edge03-cde-py.cvattv.com.ar/live/c7eds/Boomerang/SA_SAGEMCOM/Boomerang-a
 
 
 
+#EXTINF:28,group-title="Otros",Canal 10 Cordoba
+#EXTVLCOPT:network-caching=10000
+https://vcp.myplaytv.com/canal10cba/smil:canal10cba.smil/chunklist_w1603065749_b1000000_slen.m3u8?WebM3UCL
+
+#EXTINF:28,group-title="Otros",Ciudad TV Resistencia Chaco
+#EXTVLCOPT:network-caching=10000
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0146
 
 #EXTINF:31,group-title="Otros",TV Universidad La Plata
 #EXTVLCOPT:network-caching=10000
 https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
-
-#EXTINF:30,group-title="Otros",Argentinísima Satelital
-#EXTVLCOPT:network-caching=10000
-http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/playlist.m3u8
 
 #EXTINF:29,group-title="Otros",Tv Publica Fueguina Tierra del Fuego
 #EXTVLCOPT:network-caching=10000
@@ -376,6 +379,10 @@ https://vivo.solumedia.com:19360/tvpublicafueguina/tvpublicafueguina.m3u8
 #EXTVLCOPT:network-caching=10000
 http://panel.dattalive.com:1935/8250/8250/playlist.m3u8?iptvgratis?chile.m3u8
 
+#EXTINF:29,group-title="Otros",Aire de Santa Fe
+#EXTVLCOPT:network-caching=10000
+https://sc1.stweb.tv/airedigital/live/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:12,group-title="Otros",Litus Tv Santa Fe
 #EXTVLCOPT:network-caching=10000
 http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8
@@ -383,10 +390,6 @@ http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8
 #EXTINF:29,group-title="Otros",Canal 7 Mendoza
 #EXTVLCOPT:network-caching=10000
 https://www.youtube.com/watch?v=LNn14YeAOQg
-
-#EXTINF:29,group-title="Otros",Aire de Santa Fe
-#EXTVLCOPT:network-caching=10000
-https://sc1.stweb.tv/airedigital/live/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:31,group-title="Otros",TV Ciudad 92.3 Resistencia
 #EXTVLCOPT:network-caching=10000
