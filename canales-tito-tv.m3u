@@ -36,6 +36,10 @@ https://elonceovh.elonce.com/hls/live_240p1700kbs/index.m3u8
 #EXTVLCOPT:network-caching=10000
 http://66.128.32.245/output/iteltv/track_2_4500/playlist.m3u8
 
+#EXTINF:31,group-title="Entre Rios",Canal de las Aldeas Alemanas FM Brasilera Entre Rios
+#EXTVLCOPT:network-caching=10000
+https://stmv1.srvstm.com/brasil/brasil/playlist.m3u8
+
 #EXTINF:31,group-title="Entre Rios",FM Brisas Santa Elena Entre Rios
 #EXTVLCOPT:network-caching=10000
 https://server7.hostradios.com/8072/stream
@@ -90,6 +94,11 @@ https://www.youtube.com/watch?v=uyg50p7psUY&ab_channel=UNQtv
 #EXTINF:30,group-title="AMBA",LRI351 Ser - 89.7 TV - Tristan Suarez - GB Gran Bs As
 #EXTVLCOPT:network-caching=10000
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0072
+
+
+#EXTINF:30,group-title="AMBA",UAI Conexion Abierta
+#EXTVLCOPT:network-caching=10000
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/af2996eb4205409d96f4072871b1cc9e/chunklist_b4628000.m3u8?p=79&s=1647178250&e=1647178370&h=818dba680dfa32d875d8cea48e9ae710
 
 #EXTINF:20,group-title="AMBA",Radio Jai - La radio Judia de Latinoamerica
 #EXTVLCOPT:network-caching=10000
@@ -149,6 +158,14 @@ http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1
 #EXTINF:27,group-title="Nacionales",Encuentro
 #EXTVLCOPT:network-caching=10
 https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/chunklist.m3u8
+
+#EXTINF:27,group-title="Nacionales",Mirador
+#EXTVLCOPT:network-caching=10
+https://5fb24b460df87.streamlock.net/live-cont.ar/mirador/chunklist_w35816343.m3u8
+
+#EXTINF:27,group-title="Nacionales",CineAr
+#EXTVLCOPT:network-caching=10
+https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 
 #EXTINF:29,group-title="Nacionales",Tierramia TV
 #EXTVLCOPT:network-caching=10000
@@ -226,15 +243,19 @@ https://www.youtube.com/watch?v=InSydaLSSlw
 #EXTVLCOPT:network-caching=10000
 https://youtu.be/wHn1_QVoXGM
 
-#EXTINF:29,group-title="Noticias",RT Russian Today en Español
+#EXTINF:29,group-title="Noticias",RT Russian Today Rusia en Español
 #EXTVLCOPT:network-caching=10000
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 
-#EXTINF:29,group-title="Noticias",DW en Español (Alemania)
+#EXTINF:29,group-title="Noticias",DW Alemania en Español
 #EXTVLCOPT:network-caching=10000
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream02/streamPlaylist.m3u8
 
-#EXTINF:29,group-title="Noticias",France 24 en Español
+#EXTINF:29,group-title="Noticias",CGTN China en Español
+#EXTVLCOPT:network-caching=10000
+https://livees.cgtn.com/1000e/prog_index.m3u8
+
+#EXTINF:29,group-title="Noticias",France 24 Francia en Español
 #EXTVLCOPT:network-caching=10000
 https://www.youtube.com/watch?v=lU8u1hEW8Ms
 
