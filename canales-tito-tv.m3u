@@ -32,6 +32,10 @@ https://elonceovh.elonce.com/hls/live_240p1700kbs/index.m3u8
 #EXTVLCOPT:network-caching=10000
 http://66.128.32.245/output/iteltv/track_2_4500/playlist.m3u8
 
+#EXTINF:31,group-title="Entre Rios",FM 103.1 Litoral
+#EXTVLCOPT:network-caching=10000
+https://stmv1.srvstm.com/litoral2/litoral2/playlist.m3u8
+
 #EXTINF:31,group-title="Entre Rios",Canal de las Aldeas Alemanas FM Brasilera Entre Rios
 #EXTVLCOPT:network-caching=10000
 https://stmv1.srvstm.com/brasil/brasil/playlist.m3u8
@@ -67,7 +71,7 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0067
 #EXTVLCOPT:network-caching=10000
 https://panel.dattalive.com/8012/8012/chunklist_w1483566101.m3u8
 
-#EXTINF:120,group-title="AMBA",Señal Provincial San Miguel
+#EXTINF:120,group-title="AMBA",Canal Provincial San Miguel
 #EXTVLCOPT:network-caching=10000
 http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
 
@@ -83,14 +87,21 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0050
 #EXTVLCOPT:network-caching=10000
 https://videohd.live:19360/8010/8010.m3u8
 
+#EXTINF:660,group-title="AMBA",Canal 4 Teleaire San Martin
+#EXTVLCOPT:network-caching=10000
+https://stmvideo2.livecastv.com/canal4/canal4/playlist.m3u8
+
+#EXTINF:660,group-title="AMBA",Canal 6 Moreno
+#EXTVLCOPT:network-caching=10000
+https://5975e06a1f292.streamlock.net:4443/canal6moreno/canal6moreno/.m3u8
+
 #EXTINF:31,group-title="AMBA",Unq TV
 #EXTVLCOPT:network-caching=10000
 https://www.youtube.com/watch?v=uyg50p7psUY&ab_channel=UNQtv
 
-#EXTINF:30,group-title="AMBA",LRI351 Ser - 89.7 TV - Tristan Suarez - GB Gran Bs As
+#EXTINF:30,group-title="AMBA",FM SER TV - Tristan Suarez - GB Gran Bs As
 #EXTVLCOPT:network-caching=10000
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0072
-
 
 #EXTINF:30,group-title="AMBA",UAI Conexion Abierta
 #EXTVLCOPT:network-caching=10000
