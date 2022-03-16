@@ -309,6 +309,14 @@ http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
 #EXTVLCOPT:network-caching=10000
 http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
 
+#EXTINF:30,group-title="Cable", Kids 90
+#EXTVLCOPT:network-caching=10000
+https://videostreaming.cloudserverlatam.com/Kids90/Kids90/chunklist_w253164525.m3u8?WebM3UCL
+
+#EXTINF:30,group-title="Cable", El Chavo 24/7
+#EXTVLCOPT:network-caching=10000
+https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w626249421.m3u8?WebM3UCL
+
 #EXTINF:29,group-title="Cable",Los Simpsons 24/7
 #EXTVLCOPT:network-caching=10000
 https://srv5.zcast.com.br/simpsons/simpsons/chunklist_w897083319.m3u8
@@ -316,6 +324,10 @@ https://srv5.zcast.com.br/simpsons/simpsons/chunklist_w897083319.m3u8
 #EXTINF:29,group-title="Cable",Los Simpsons 24/7
 #EXTVLCOPT:network-caching=10000
 https://srv5.zcast.com.br/simpsons/simpsons/playlist.m3u8
+
+#EXTINF:29,group-title="Cable",Animal Planet
+#EXTVLCOPT:network-caching=10000
+http://clubtv.link/iptv/mar11/tvpremium.php?c=3022&f=.m3u8
 
 #EXTINF:29,group-title="Cable",NatGeo
 #EXTVLCOPT:network-caching=10000
