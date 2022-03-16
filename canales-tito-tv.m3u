@@ -733,10 +733,6 @@ http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 #EXTVLCOPT:network-caching=10000
 http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?CeceGeek.m3u8
 
-#EXTINF:40,group-title="Otros",MEXICO:Multimedios Monterrey
-#EXTVLCOPT:network-caching=10000
-http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?iptvgratis?chile.m3u8
-
 #EXTINF:40,group-title="Otros",MEXICO:Multimedios
 #EXTVLCOPT:network-caching=10000
 http://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8?iptvgratis?chile.m3u8
@@ -765,26 +761,33 @@ http://evo.eltelon.com:1935/panderotop/smil:panderotop.smil/chunklist_w693853185
 #EXTVLCOPT:network-caching=10000
 http://evo.eltelon.com:1935/panderocl/smil:panderocl.smil/chunklist_w229718808_b1936705.m3u8
 
-#EXTINF:15,group-title="Otros",MUSICA:Retro Tv
-#EXTVLCOPT:network-caching=10000
-http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8?iptvgratis?chile.m3u8
 
-#EXTINF:0,group-title="Otros",MUSICA:California Music Channel
-#EXTVLCOPT:network-caching=10000
-http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
 
-#EXTINF:30,group-title="Otros",MUSICA:M2o Tv
+
+
+
+
+
+#EXTINF:40,group-title="Otros",Multimedios MEXICO
+#EXTVLCOPT:network-caching=10000
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:30,group-title="Extranjeros",UCV CHILE
+#EXTVLCOPT:network-caching=10000
+https://unlimited6-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:30,group-title="Extranjeros",M2OTV ITALIA
+#EXTVLCOPT:network-caching=10000
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:30,group-title="Extranjeros",M2OTV ITALIA
 #EXTVLCOPT:network-caching=10000
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?iptvgratis?chile.m3u8
 
-#EXTINF:18,group-title="Otros",RADIOTV:Radio Futuro Tv
+#EXTINF:18,group-title="Extranjeros",RADIOTV: Futuro Tv La Radio del Rock CHILE
 #EXTVLCOPT:network-caching=10000
 http://unlimited6-cl.dps.live/futurotv/futurotv.smil/playlist.m3u8?iptvgratis?chile.m3u8
 
-#EXTINF:32,group-title="Otros",LOGOS TV
+#EXTINF:15,group-title="Extranjeros",MUSICA:Retro Tv REP CHECA
 #EXTVLCOPT:network-caching=10000
-http://streamer1.streamhost.org:1935/salive/GMIalfah/livestream.m3u8
-
-#EXTINF:30,group-title="Otros",M2OTV
-#EXTVLCOPT:network-caching=10000
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
+http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8?iptvgratis?chile.m3u8
