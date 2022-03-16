@@ -254,6 +254,10 @@ https://edge03-cde-py.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_SAGEMCOM/FoxSport
 #EXTVLCOPT:network-caching=10000
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/chunklist_w1891726586.m3u8
 
+#EXTINF:29,group-title="Deportes",America Sports
+#EXTVLCOPT:network-caching=10000
+https://edge-live11-sl.cvattv.com.ar/live/c6eds/America_Sports/SA_SAGEMCOM/America_Sports-avc1_2499968=10001-mp4a_145200_spa=20000.m3u8
+
 #EXTINF:120,group-title="Deportes",Claro Sports
 #EXTVLCOPT:network-caching=10000
 https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/live-audio_track_0_0_und=128000-video_track=4500000.m3u8
@@ -365,6 +369,10 @@ https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/channel/609ae5cd48
 #EXTVLCOPT:network-caching=10000
 http://clubtv.link/iptv/mar11/tvpremium.php?c=3022&f=.m3u8
 
+#EXTINF:29,group-title="Cable",Discovery World
+#EXTVLCOPT:network-caching=10000
+https://edge01-fdo-py.cvattv.com.ar/live/c6eds/Discovery_World_HD/SA_SAGEMCOM/Discovery_World_HD-avc1_530000=10000-mp4a_144800_spa=20000.m3u8
+
 #EXTINF:29,group-title="Cable",NatGeo
 #EXTVLCOPT:network-caching=10000
 https://edge03-cde-py.cvattv.com.ar/live/c3eds/NatGeoHD/SA_SAGEMCOM/NatGeoHD-avc1_2100000=10003-mp4a_144800_spa=20000.m3u8
@@ -381,6 +389,10 @@ https://edge03-cde-py.cvattv.com.ar/live/c7eds/HistoryHD/SA_SAGEMCOM/HistoryHD-a
 #EXTVLCOPT:network-caching=10000
 https://edge03-cde-py.cvattv.com.ar/live/c6eds/History_2/SA_SAGEMCOM/History_2-avc1_2100000=10003-mp4a_144800_spa=20000.m3u8
 
+#EXTINF:29,group-title="Cable",TCM
+#EXTVLCOPT:network-caching=10000
+https://edge-live15-sl.cvattv.com.ar/live/c6eds/TCM/SA_SAGEMCOM/TCM-avc1_1532000=10004-mp4a_144800_spa=20000.m3u8
+
 #EXTINF:29,group-title="Cable",Space
 #EXTVLCOPT:network-caching=10000
 https://edge03-cde-py.cvattv.com.ar/live/c3eds/Space/SA_SAGEMCOM/Space-avc1_2740000=10004-mp4a_144800_spa=20000.m3u8
@@ -392,6 +404,18 @@ https://edge01-fdo-py.cvattv.com.ar/live/c3eds/CinecanalHD/SA_SAGEMCOM/Cinecanal
 #EXTINF:29,group-title="Cable",TNT
 #EXTVLCOPT:network-caching=10000
 https://edge03-cde-py.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_SAGEMCOM/TNT_HD_Arg-avc1_2420000=10009-mp4a_144800_spa=20001.m3u8
+
+#EXTINF:29,group-title="Cable",FX Movies
+#EXTVLCOPT:network-caching=10000
+https://edge01-fdo-py.cvattv.com.ar/live/c3eds/TheFilmZoneHD/SA_SAGEMCOM/TheFilmZoneHD-avc1_604000=10006-mp4a_144800_eng=20000.m3u8
+
+#EXTINF:29,group-title="Cable",Paramount Network
+#EXTVLCOPT:network-caching=10000
+https://edge01-fdo-py.cvattv.com.ar/live/c7eds/Paramount/SA_SAGEMCOM/Paramount-avc1_530000=10000-mp4a_144800_spa=20000.m3u8
+
+#EXTINF:29,group-title="Cable",Cinemax
+#EXTVLCOPT:network-caching=10000
+https://edge01-fdo-py.cvattv.com.ar/live/c6eds/Cinemax/SA_SAGEMCOM/Cinemax-avc1_379968=10005-mp4a_145200_spa=20001.m3u8
 
 #EXTINF:29,group-title="Cable",Cinemax
 #EXTVLCOPT:network-caching=10000
@@ -413,9 +437,6 @@ https://edge01-fdo-py.cvattv.com.ar/live/c6eds/HBO_Plus/SA_SAGEMCOM/HBO_Plus-avc
 #EXTVLCOPT:network-caching=10000
 https://edge01-fdo-py.cvattv.com.ar/live/c6eds/HBO_Family/SA_SAGEMCOM/HBO_Family-avc1_1480000=10002-mp4a_144800_eng=20000.m3u8
 
-
-
-
 #EXTINF:29,group-title="Cable",Star Channel
 #EXTVLCOPT:network-caching=10000
 https://edge03-cde-py.cvattv.com.ar/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD-avc1_1499968=10002-mp4a_145200_spa=20002.m3u8
@@ -423,6 +444,10 @@ https://edge03-cde-py.cvattv.com.ar/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD-avc1_1499
 #EXTINF:29,group-title="Cable",Universal
 #EXTVLCOPT:network-caching=10000
 https://edge03-cde-py.cvattv.com.ar/live/c6eds/Universal_Channel_HD/SA_SAGEMCOM/Universal_Channel_HD-avc1_2100000=10003-mp4a_144800_spa=20000.m3u8
+
+#EXTINF:29,group-title="Cable",Studio Universal
+#EXTVLCOPT:network-caching=10000
+https://edge01-fdo-py.cvattv.com.ar/live/c6eds/Studio_Universal/SA_SAGEMCOM/Studio_Universal-avc1_530000=10000-mp4a_144800_spa=20000.m3u8
 
 #EXTINF:29,group-title="Cable",Warner
 #EXTVLCOPT:network-caching=10000
