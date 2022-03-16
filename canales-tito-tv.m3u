@@ -87,6 +87,10 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0050
 #EXTVLCOPT:network-caching=10000
 https://videohd.live:19360/8010/8010.m3u8
 
+#EXTINF:660,group-title="AMBA",Ciudad Magazine CABA
+#EXTVLCOPT:network-caching=10000
+https://edge01-fdo-py.cvattv.com.ar/live/c3eds/Magazine/SA_SAGEMCOM/Magazine-avc1_899968=10009-mp4a_145200_spa=20001.m3u8
+
 #EXTINF:660,group-title="AMBA",Canal 4 Teleaire San Martin
 #EXTVLCOPT:network-caching=10000
 https://stmvideo2.livecastv.com/canal4/canal4/playlist.m3u8
@@ -222,6 +226,14 @@ https://edge03-cde-py.cvattv.com.ar/live/c3eds/ESPN_PY/SA_SAGEMCOM/ESPN_PY-avc1_
 #EXTVLCOPT:network-caching=10000
 https://edge03-cde-py.cvattv.com.ar/live/c3eds/ESPN3/SA_SAGEMCOM/ESPN3.m3u8
 
+#EXTINF:120,group-title="Deportes",ESPN 4
+#EXTVLCOPT:network-caching=10000
+https://edge01-fdo-py.cvattv.com.ar/live/c7eds/ESPN4/SA_SAGEMCOM/ESPN4-avc1_899968=10003-mp4a_145200_spa=20000.m3u8
+
+#EXTINF:120,group-title="Deportes",ESPN Extra
+#EXTVLCOPT:network-caching=10000
+https://edge01-fdo-py.cvattv.com.ar/live/c3eds/ESPNHD/SA_SAGEMCOM/ESPNHD-avc1_1726000=10002-mp4a_144800_spa=20000.m3u8
+
 #EXTINF:120,group-title="Deportes",Fox Sports
 #EXTVLCOPT:network-caching=10000
 https://cdn.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8
@@ -248,11 +260,27 @@ https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/live-audio_track_0_0
 
 #EXTINF:31,group-title="Noticias",Cronica TV
 #EXTVLCOPT:network-caching=10000
+https://edge01-fdo-py.cvattv.com.ar/live/c7eds/CronicaTV/SA_SAGEMCOM/CronicaTV-avc1_899968=10003-mp4a_145200_spa=20000.m3u8
+
+#EXTINF:31,group-title="Noticias",Cronica TV Youtube
+#EXTVLCOPT:network-caching=10000
 https://www.youtube.com/watch?v=InSydaLSSlw
 
 #EXTINF:31,group-title="Noticias",TN
 #EXTVLCOPT:network-caching=10000
+https://edge01-fdo-py.cvattv.com.ar/live/c3eds/TodoNoticias/SA_SAGEMCOM/TodoNoticias-avc1_899968=10000-mp4a_145200_spa=20001.m3u8
+
+#EXTINF:31,group-title="Noticias",TN Youtube
+#EXTVLCOPT:network-caching=10000
 https://youtu.be/wHn1_QVoXGM
+
+#EXTINF:31,group-title="Noticias",A24
+#EXTVLCOPT:network-caching=10000
+https://edge01-fdo-py.cvattv.com.ar/live/c7eds/America24/SA_SAGEMCOM/America24-avc1_899968=10003-mp4a_145200_spa=20000.m3u8
+
+#EXTINF:31,group-title="Noticias",C5N
+#EXTVLCOPT:network-caching=10000
+https://edge01-fdo-py.cvattv.com.ar/live/c7eds/C5N/SA_SAGEMCOM/C5N-avc1_899968=10003-mp4a_145200_spa=20000.m3u8
 
 #EXTINF:29,group-title="Noticias",RT Russian Today Rusia en Español
 #EXTVLCOPT:network-caching=10000
@@ -325,6 +353,10 @@ https://srv5.zcast.com.br/simpsons/simpsons/chunklist_w897083319.m3u8
 #EXTVLCOPT:network-caching=10000
 https://srv5.zcast.com.br/simpsons/simpsons/playlist.m3u8
 
+#EXTINF:29,group-title="Cable",Pluto TV Southpark 24/7
+#EXTVLCOPT:network-caching=10000
+https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/channel/609ae5cd48d3200007b0a98e/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=7d32bd8e-bce8-4d3f-ae9d-14281452b3c0&deviceVersion=98.0.0&appVersion=5.109.0-6577a51c82bdba0d9a0a2bab4950dd43d469ea83&deviceType=web&deviceMake=firefox&sid=bad7cbcb-a52c-11ec-b43f-0242ac110003&advertisingId=&deviceLat=-34.7395&deviceLon=-58.2573&deviceDNT=0&deviceModel=web&userId=&appName=web&e2eBeacons=false&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjE0NGYwMTZlLTg5OGQtNGNhOS04ZTU3LTg2ZWY3YTMwNzUwMiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiJiYWQ3Y2JjYi1hNTJjLTExZWMtYjQzZi0wMjQyYWMxMTAwMDMiLCJjbGllbnRJUCI6IjI4MDA6ODEwOjRiNDozZjI6NTU3OjhlMjM6YThiNDplOTdlIiwiY2l0eSI6IkJlcmF6YXRlZ3VpIiwicG9zdGFsQ29kZSI6IjE4ODQiLCJjb3VudHJ5IjoiQVIiLCJkbWEiOjAsImFjdGl2ZVJlZ2lvbiI6IlZFIiwiZGV2aWNlTGF0IjotMzQuNzM5NSwiZGV2aWNlTG9uIjotNTguMjU3MywicHJlZmVycmVkTGFuZ3VhZ2UiOiJlcyIsImRldmljZVR5cGUiOiJ3ZWIiLCJkZXZpY2VWZXJzaW9uIjoiOTguMC4wIiwiZGV2aWNlTWFrZSI6ImZpcmVmb3giLCJkZXZpY2VNb2RlbCI6IndlYiIsImFwcE5hbWUiOiJ3ZWIiLCJhcHBWZXJzaW9uIjoiNS4xMDkuMC02NTc3YTUxYzgyYmRiYTBkOWEwYTJiYWI0OTUwZGQ0M2Q0NjllYTgzIiwiY2xpZW50SUQiOiI3ZDMyYmQ4ZS1iY2U4LTRkM2YtYWU5ZC0xNDI4MTQ1MmIzYzAiLCJjbUF1ZGllbmNlSUQiOiIiLCJpc0NsaWVudEROVCI6ZmFsc2UsInVzZXJJRCI6IiIsImxvZ0xldmVsIjoiREVGQVVMVCIsInRpbWVab25lIjoiQW1lcmljYS9BcmdlbnRpbmEvQnVlbm9zX0FpcmVzIiwic2VydmVyU2lkZUFkcyI6dHJ1ZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7fSwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTY0NzQ2NjAwNywianRpIjoiNTUwOTQ2NzctNjdkNS00MTk4LWI1YWItMmJhM2M1MDQ0ZDNjIiwiaWF0IjoxNjQ3NDM3MjA3LCJpc3MiOiJib290LnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6VkU6TjJRek1tSmtPR1V0WW1ObE9DMDBaRE5tTFdGbE9XUXRNVFF5T0RFME5USmlNMk13In0.6c9LhkK0_85tdiWWLNZ1G_i-sukoQUAHi7okTEbIDRU
+
 #EXTINF:29,group-title="Cable",Animal Planet
 #EXTVLCOPT:network-caching=10000
 http://clubtv.link/iptv/mar11/tvpremium.php?c=3022&f=.m3u8
@@ -349,6 +381,10 @@ https://edge03-cde-py.cvattv.com.ar/live/c6eds/History_2/SA_SAGEMCOM/History_2-a
 #EXTVLCOPT:network-caching=10000
 https://edge03-cde-py.cvattv.com.ar/live/c3eds/Space/SA_SAGEMCOM/Space-avc1_2740000=10004-mp4a_144800_spa=20000.m3u8
 
+#EXTINF:29,group-title="Cable",Cinecanal
+#EXTVLCOPT:network-caching=10000
+https://edge01-fdo-py.cvattv.com.ar/live/c3eds/CinecanalHD/SA_SAGEMCOM/CinecanalHD-avc1_1972000=10002-mp4a_144800_eng=20000.m3u8
+
 #EXTINF:29,group-title="Cable",TNT
 #EXTVLCOPT:network-caching=10000
 https://edge03-cde-py.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_SAGEMCOM/TNT_HD_Arg-avc1_2420000=10009-mp4a_144800_spa=20001.m3u8
@@ -357,7 +393,26 @@ https://edge03-cde-py.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_SAGEMCOM/TNT_HD_Arg
 #EXTVLCOPT:network-caching=10000
 https://edge03-cde-py.cvattv.com.ar/live/c6eds/Cinemax/SA_SAGEMCOM/Cinemax-avc1_1499968=10002-mp4a_145200_spa=20001.m3u8
 
-#EXTINF:29,group-title="Cable",Star Channel Latino
+#EXTINF:29,group-title="Cable",HBO
+#EXTVLCOPT:network-caching=10000
+https://edge01-fdo-py.cvattv.com.ar/live/c3eds/HBOHD/SA_SAGEMCOM/HBOHD-avc1_1972000=10002-mp4a_144800_eng=20000.m3u8
+
+#EXTINF:29,group-title="Cable",HBO 2
+#EXTVLCOPT:network-caching=10000
+https://edge01-fdo-py.cvattv.com.ar/live/c6eds/HBO_2/SA_SAGEMCOM/HBO_2-avc1_1480000=10002-mp4a_144800_spa=20000.m3u8
+
+#EXTINF:29,group-title="Cable",HBO Plus
+#EXTVLCOPT:network-caching=10000
+https://edge01-fdo-py.cvattv.com.ar/live/c6eds/HBO_Plus/SA_SAGEMCOM/HBO_Plus-avc1_899968=10003-mp4a_145200_eng=20001.m3u8
+
+#EXTINF:29,group-title="Cable",HBO Family
+#EXTVLCOPT:network-caching=10000
+https://edge01-fdo-py.cvattv.com.ar/live/c6eds/HBO_Family/SA_SAGEMCOM/HBO_Family-avc1_1480000=10002-mp4a_144800_eng=20000.m3u8
+
+
+
+
+#EXTINF:29,group-title="Cable",Star Channel
 #EXTVLCOPT:network-caching=10000
 https://edge03-cde-py.cvattv.com.ar/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD-avc1_1499968=10002-mp4a_145200_spa=20002.m3u8
 
@@ -368,6 +423,10 @@ https://edge03-cde-py.cvattv.com.ar/live/c6eds/Universal_Channel_HD/SA_SAGEMCOM/
 #EXTINF:29,group-title="Cable",Warner
 #EXTVLCOPT:network-caching=10000
 https://edge03-cde-py.cvattv.com.ar/live/c7eds/WarnerHD/SA_SAGEMCOM/WarnerHD-avc1_2100000=10003-mp4a_144800_spa=20000.m3u8
+
+#EXTINF:29,group-title="Cable",Comedy Central
+#EXTVLCOPT:network-caching=10000
+https://edge01-fdo-py.cvattv.com.ar/live/c7eds/ComedyCentral/SA_SAGEMCOM/ComedyCentral-avc1_1480000=10002-mp4a_144800_eng=20001.m3u8
 
 #EXTINF:29,group-title="Cable",Tooncast
 #EXTVLCOPT:network-caching=10000
@@ -764,11 +823,15 @@ http://evo.eltelon.com:1935/panderocl/smil:panderocl.smil/chunklist_w229718808_b
 
 
 
+#EXTINF:40,group-title="Extranjeros",Telemundo EEUU
+#EXTVLCOPT:network-caching=10000
+https://edge01-fdo-py.cvattv.com.ar/live/c7eds/Telemundo_HD/SA_SAGEMCOM/Telemundo_HD-avc1_1480000=10002-mp4a_144800_spa=20000.m3u8
 
+#EXTINF:40,group-title="Extranjeros",El canal de las estrellas Mexico
+#EXTVLCOPT:network-caching=10000
+https://edge01-fdo-py.cvattv.com.ar/live/c6eds/Canal_de_las_estrellas/SA_SAGEMCOM/Canal_de_las_estrellas-avc1_1532000=10004-mp4a_144800_spa=20000.m3u8
 
-
-
-#EXTINF:40,group-title="Otros",Multimedios MEXICO
+#EXTINF:40,group-title="Extranjeros",Multimedios MEXICO
 #EXTVLCOPT:network-caching=10000
 http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?iptvgratis?chile.m3u8
 
