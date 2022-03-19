@@ -134,17 +134,9 @@ https://edge03-cde-py.cvattv.com.ar/live/c3eds/Canal9/SA_SAGEMCOM/Canal9-avc1_14
 #EXTVLCOPT:network-caching=10000
 https://edge03-cde-py.cvattv.com.ar/live/c3eds/TelefeHD/SA_SAGEMCOM/TelefeHD-avc1_1499968=10014-mp4a_145200_spa=20002.m3u8
 
-#EXTINF:30,group-title="Nacionales",Telefe
-#EXTVLCOPT:network-caching=10000
-https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CoIFLQPhg_FM0T5D4-vfM8yGCOsDXZ52HGN-obuiFAjgHP7OlBBaaGxI-HejZj5h7JhO5Q7z401F0F-07RMGaiEhu3zJi5VblkLW8V1LM4KVhZ6iOdRWx2WttlOD7kHF-i9L5MbpgN0gdF7RfZ8gxnKb9Mxa8KPtWioV4uBa3NG0BBr-LyXIbEw3f4DeI43KddLEkx5_zBf1TwQcPDZSR_AE-Aj6b2F85FY4Wwsmbo_kwwbkBWnn0sTh_Io3Wdn99Tz3nPnuXCB6iU4r-z8j4AUq7COaeD7Nh2_SLyrn7sIJaz00tXla9BmPK65m3L1d3YOLAruvSSYEM8dw0P1hzZQt-hcL0gx5uENKBDGE_fqtimSsORoDT591uVkOZzwzP2UYUXk9rbWsTDsSmocT8tnbvSNelJBsG5-m0eocYxGdPS-6l6x-zxHos07ApTI4MsrtXsn5ipmKp3J7_kiddxxRz-1FJ754nJcQybwqWqFQIXg7wCFhjJpolLmHo0pQPx7wMGQdFuEkC8S2z5-58kof3r-mxbRL8uR72xIdaQNzcrgHXCnaGfVggslZraR2y9h0ZnoSVZZG-xqZd5S5qmisF6oIghwCidDfSzIU28HXLXQZLn4A3NhA10aaKH_D1JVnb_pvD3C77o3VA-Rg1IrrlpUX3qVeSUoQPs8s2r9-vB5-FxxJRZNE-1gU0dYevTztBWE_EaSWGvfUWNwWqkFWJBqQ0Gefw-SzFy0YH3Ni3tY5sJBez5EpYoTQp5w-o-p-nhf4CQMrlqoFLPS8iC9i6szgk6Q9P3c-3Ko1R_VjUVrip2uTcrzhYx_BH-JY1D2bpurSY7HA5S4hlNkrLpRTBBzyGgzaPFX6E8aszmb4hKUgASoJZXUtd2VzdC0yMJwD.m3u8
-
 #EXTINF:30,group-title="Nacionales",Canal 13
 #EXTVLCOPT:network-caching=10000
 https://edge03-cde-py.cvattv.com.ar/live/c3eds/ArtearHD/SA_SAGEMCOM/ArtearHD-avc1_1499968=10012-mp4a_145200_spa=20003.m3u8
-
-#EXTINF:29,group-title="Nacionales",Canal 13 Argentina
-#EXTVLCOPT:network-caching=10000
-https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CoUFK9MWjDnfYKRyXpX5HrDu6Q4-X_yCpwB1YnA4X00AWJ-CZPMWFFzlTJ0bPPApe0msH1SCANlhqi6ihhSoesnTzVbTLYYQ6iJ90ZweX_DJZ0MFdOS2M7McI-Ty_QUucvvDzyoy2nGqU-jgC5nWxJ3qXD42Uyk1T0ZJZsHCzGxkvlk81Vy4Em_484qx1T2IpZIfkxbCnLvdyiCzWTT5TgFIQfZQo8F9ikz418BSiJPvCiN785KaSwgrsYQuGBl-Qy2BOWjlrYYLevROdtpDkHu35PTuKVJ8h3BreQ31LGwYM8BT46YtsG9okgQI9QwLGmsCE4YGHW0T9ybF8382ufOaObKVbJmuIbpmdLiJdtg5K1CjeqWz_jVbZ72zqYw0EEWQKfSHVGMPIYo5mKp3JypbVP7njmylJucVxD4prgDk7m1si5twCLrxSxQ8cjVJr2HtJ2gghkjfvx6Fq22Oe-2Kyls-E7BNO5UOrDHlliolQKgl2nU8O5-ab5q9zDGJEssG1_xuAn3Yr32qBGpQX2WDXT2CjvWJBytp2c2fRSYyol4JuI7aFjP82rYC2oyk9TfIZ6pkr65dske2hyiDUfkum7rs6maSn1ngK5q8BuZCmSpMSUnNfeluxlwlk1jlI7ss5tmx0iVacmw85LXSFIZoN3Fu5z0vv5IW2Z08aW26xAPIy6UWm0ezj6lfZHOgsI3xWWMa65L1gNzh0T28mPX4vRf6J58tGvLW7aRQ_mFQnFkOZf3l8ZhTlUNAbZA4YLDilM_Sfmnck6cFdWQ-BDPLovufjbcvg4nVdXBOC4Dy937iLNT_1NR4RD7z8XdAvdj20SCTiXrQxXFm4ARo0htkRjEzhERBGgwPlmDZfoNUroZFqy8gASoJZXUtd2VzdC0yMJ0D.m3u8
 
 #EXTINF:27,group-title="Nacionales",CineAr
 #EXTVLCOPT:network-caching=10
@@ -208,7 +200,11 @@ https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/in
 
 #EXTINF:120,group-title="Deportes",Fox Sports Premium
 #EXTVLCOPT:network-caching=10000
-https://edge-live32-hr.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/Fox_Sports_Premiun_HD-avc1_2499968=10007-mp4a_145200_eng=20002.m3u8
+https://cdn.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/Fox_Sports_Premiun_HD-avc1_1499968=10000-mp4a_145200_spa=20001.m3u8
+
+#EXTINF:120,group-title="Deportes",Fox Sports Premium
+#EXTVLCOPT:network-caching=10000
+https://cdn.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/Fox_Sports_Premiun_HD-avc1_1499968=10001-mp4a_145200_spa=20001.m3u8
 
 #EXTINF:120,group-title="Deportes",Fox Sports Premium
 #EXTVLCOPT:network-caching=10000
