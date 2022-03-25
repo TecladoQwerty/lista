@@ -461,7 +461,7 @@ https://edge6-hr.cvattv.com.ar/live/c7eds/ComedyCentral/SA_SAGEMCOM/ComedyCentra
 
 #EXTINF:29,group-title="Peliculas y Series",Studio Universal
 #EXTVLCOPT:network-caching=10000
-https://edge6-hr.cvattv.com.ar/live/c6eds/Studio_Universal/SA_SAGEMCOM/Studio_Universal-avc1_530000=10000-mp4a_144800_spa=20000.m3u8
+https://edge6-hr.cvattv.com.ar/live/c6eds/Studio_Universal/SA_SAGEMCOM/Studio_Universal-avc1_3000000=10003-mp4a_144800_spa=20000.m3u8
 
 #EXTINF:29,group-title="Peliculas y Series",Warner
 #EXTVLCOPT:network-caching=10000
