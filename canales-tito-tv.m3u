@@ -312,7 +312,7 @@ https://www.youtube.com/watch?v=InSydaLSSlw
 
 #EXTINF:31,group-title="Noticias",TN
 #EXTVLCOPT:network-caching=10000
-https://edge01-fdo-py.cvattv.com.ar/live/c3eds/TodoNoticias/SA_SAGEMCOM/TodoNoticias-avc1_899968=10000-mp4a_145200_spa=20001.m3u8
+https://edge4-hr.cvattv.com.ar/live/c3eds/TodoNoticias/SA_SAGEMCOM/TodoNoticias-avc1_899968=10000-mp4a_145200_spa=20001.m3u8
 
 #EXTINF:31,group-title="Noticias",TN Youtube
 #EXTVLCOPT:network-caching=10000
@@ -320,11 +320,11 @@ https://youtu.be/wHn1_QVoXGM
 
 #EXTINF:31,group-title="Noticias",A24
 #EXTVLCOPT:network-caching=10000
-https://edge01-fdo-py.cvattv.com.ar/live/c7eds/America24/SA_SAGEMCOM/America24-avc1_899968=10003-mp4a_145200_spa=20000.m3u8
+https://edge4-hr.cvattv.com.ar/live/c7eds/America24/SA_SAGEMCOM/America24-avc1_899968=10003-mp4a_145200_spa=20000.m3u8
 
 #EXTINF:31,group-title="Noticias",C5N
 #EXTVLCOPT:network-caching=10000
-https://edge01-fdo-py.cvattv.com.ar/live/c7eds/C5N/SA_SAGEMCOM/C5N-avc1_899968=10003-mp4a_145200_spa=20000.m3u8
+https://edge4-hr.cvattv.com.ar/live/c7eds/C5N/SA_SAGEMCOM/C5N-avc1_899968=10003-mp4a_145200_spa=20000.m3u8
 
 #EXTINF:29,group-title="Noticias",RT Russian Today Rusia en Español
 #EXTVLCOPT:network-caching=10000
@@ -340,7 +340,7 @@ https://livees.cgtn.com/1000e/prog_index.m3u8
 
 #EXTINF:29,group-title="Noticias",France 24 Francia en Español
 #EXTVLCOPT:network-caching=10000
-https://www.youtube.com/watch?v=lU8u1hEW8Ms
+https://www.youtube.com/watch?v=XDJPzMznAjU&ab_channel=FRANCE24Espa%C3%B1ol
 
 #EXTINF:31,group-title="Noticias",Canal 26 HD
 #EXTVLCOPT:network-caching=10000
@@ -371,7 +371,7 @@ http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
 
 #EXTINF:60,group-title="Cable",Gourmet
 #EXTVLCOPT:network-caching=10000
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0018
+https://edge6-hr.cvattv.com.ar/live/c3eds/Gourmet/SA_SAGEMCOM/Gourmet-avc1_3000000=10004-mp4a_144800_spa=20000.m3u8
 
 #EXTINF:30,group-title="Cable", Garage TV
 #EXTVLCOPT:network-caching=10000
@@ -384,10 +384,6 @@ http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
 #EXTINF:30,group-title="Cable", Kids 90
 #EXTVLCOPT:network-caching=10000
 https://videostreaming.cloudserverlatam.com/Kids90/Kids90/chunklist_w253164525.m3u8?WebM3UCL
-
-#EXTINF:30,group-title="Cable", El Chavo 24/7
-#EXTVLCOPT:network-caching=10000
-https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w626249421.m3u8?WebM3UCL
 
 #EXTINF:29,group-title="Cable",Los Simpsons 24/7
 #EXTVLCOPT:network-caching=10000
@@ -407,23 +403,23 @@ https://edge4-hr.cvattv.com.ar/live/c7eds/AnimalPlanet/SA_SAGEMCOM/AnimalPlanet-
 
 #EXTINF:29,group-title="Cable",Discovery World
 #EXTVLCOPT:network-caching=10000
-https://edge01-fdo-py.cvattv.com.ar/live/c6eds/Discovery_World_HD/SA_SAGEMCOM/Discovery_World_HD-avc1_530000=10000-mp4a_144800_spa=20000.m3u8
+https://edge4-hr.cvattv.com.ar/live/c6eds/Discovery_World_HD/SA_SAGEMCOM/Discovery_World_HD-avc1_530000=10000-mp4a_144800_spa=20000.m3u8
 
 #EXTINF:29,group-title="Cable",NatGeo
 #EXTVLCOPT:network-caching=10000
-https://edge03-cde-py.cvattv.com.ar/live/c3eds/NatGeoHD/SA_SAGEMCOM/NatGeoHD-avc1_2100000=10003-mp4a_144800_spa=20000.m3u8
+https://edge4-hr.cvattv.com.ar/live/c3eds/NatGeoHD/SA_SAGEMCOM/NatGeoHD-avc1_2100000=10003-mp4a_144800_spa=20000.m3u8
 
 #EXTINF:29,group-title="Cable",NatGeo Wild
 #EXTVLCOPT:network-caching=10000
-https://edge03-cde-py.cvattv.com.ar/live/c3eds/NatGeoWildHD/SA_SAGEMCOM/NatGeoWildHD-avc1_2100000=10003-mp4a_144800_spa=20000.m3u8
+https://edge4-hr.cvattv.com.ar/live/c3eds/NatGeoWildHD/SA_SAGEMCOM/NatGeoWildHD-avc1_2100000=10003-mp4a_144800_spa=20000.m3u8
 
 #EXTINF:29,group-title="Cable",History
 #EXTVLCOPT:network-caching=10000
-https://edge03-cde-py.cvattv.com.ar/live/c7eds/HistoryHD/SA_SAGEMCOM/HistoryHD-avc1_2100000=10003-mp4a_144800_spa=20001.m3u8
+https://edge4-hr.cvattv.com.ar/live/c7eds/HistoryHD/SA_SAGEMCOM/HistoryHD-avc1_2100000=10003-mp4a_144800_spa=20001.m3u8
 
 #EXTINF:29,group-title="Cable",History 2
 #EXTVLCOPT:network-caching=10000
-https://edge03-cde-py.cvattv.com.ar/live/c6eds/History_2/SA_SAGEMCOM/History_2-avc1_2100000=10003-mp4a_144800_spa=20000.m3u8
+https://edge4-hr.cvattv.com.ar/live/c6eds/History_2/SA_SAGEMCOM/History_2-avc1_2100000=10003-mp4a_144800_spa=20000.m3u8
 
 #EXTINF:29,group-title="Cable",TCM
 #EXTVLCOPT:network-caching=10000
