@@ -511,7 +511,7 @@ https://edge-live15-sl.cvattv.com.ar/live/c7eds/ComedyCentral/SA_SAGEMCOM/Comedy
 
 #EXTINF:29,group-title="Cable",Tooncast
 #EXTVLCOPT:network-caching=10000
-https://edge-live15-sl.cvattv.com.ar/live/c6eds/Tooncast/SA_SAGEMCOM/Tooncast-avc1_1532000=10004-mp4a_144800_spa=20000.m3u8
+https://edge-live12-hr.cvattv.com.ar/live/c6eds/Tooncast/SA_SAGEMCOM/Tooncast-avc1_3000000=10004-mp4a_144800_spa=20001.m3u8
 
 #EXTINF:29,group-title="Cable",Boomerang
 #EXTVLCOPT:network-caching=10000
