@@ -443,7 +443,7 @@ https://edge-live12-hr.cvattv.com.ar/live/c6eds/TLC/SA_SAGEMCOM/TLC-avc1_3000000
 
 #EXTINF:29,group-title="Cable",TCM
 #EXTVLCOPT:network-caching=10000
-https://edge-live15-sl.cvattv.com.ar/live/c6eds/TCM/SA_SAGEMCOM/TCM-avc1_1532000=10004-mp4a_144800_spa=20000.m3u8
+https://edge6-hr.cvattv.com.ar/live/c6eds/TCM/SA_SAGEMCOM/TCM-avc1_1532000=10004-mp4a_144800_spa=20000.m3u8
 
 #EXTINF:29,group-title="Cable",I-sat
 #EXTVLCOPT:network-caching=10000
@@ -451,15 +451,15 @@ https://edge6-hr.cvattv.com.ar/live/c6eds/ISAT/SA_SAGEMCOM/ISAT-avc1_1532000=100
 
 #EXTINF:29,group-title="Cable",Comedy Central
 #EXTVLCOPT:network-caching=10000
-https://edge-live15-sl.cvattv.com.ar/live/c7eds/ComedyCentral/SA_SAGEMCOM/ComedyCentral-avc1_1480000=10002-mp4a_144800_esp=20001.m3u8
+https://edge6-hr.cvattv.com.ar/live/c7eds/ComedyCentral/SA_SAGEMCOM/ComedyCentral-avc1_1480000=10002-mp4a_144800_esp=20001.m3u8
 
 #EXTINF:29,group-title="Cable",Studio Universal
 #EXTVLCOPT:network-caching=10000
-https://edge-live15-sl.cvattv.com.ar/live/c6eds/Studio_Universal/SA_SAGEMCOM/Studio_Universal-avc1_530000=10000-mp4a_144800_spa=20000.m3u8
+https://edge6-hr.cvattv.com.ar/live/c6eds/Studio_Universal/SA_SAGEMCOM/Studio_Universal-avc1_530000=10000-mp4a_144800_spa=20000.m3u8
 
 #EXTINF:29,group-title="Cable",Warner
 #EXTVLCOPT:network-caching=10000
-https://edge-live15-sl.cvattv.com.ar/live/c7eds/WarnerHD/SA_SAGEMCOM/WarnerHD-avc1_2100000=10003-mp4a_144800_spa=20000.m3u8
+https://edge6-hr.cvattv.com.ar/live/c7eds/WarnerHD/SA_SAGEMCOM/WarnerHD-avc1_2100000=10003-mp4a_144800_spa=20000.m3u8
 
 #EXTINF:29,group-title="Cable",AXN
 #EXTVLCOPT:network-caching=10000
@@ -471,19 +471,19 @@ https://edge-live12-hr.cvattv.com.ar/live/c6eds/TBS/SA_SAGEMCOM/TBS-avc1_3000000
 
 #EXTINF:29,group-title="Cable",Star Channel
 #EXTVLCOPT:network-caching=10000
-https://edge-live15-sl.cvattv.com.ar/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD-avc1_1499968=10002-mp4a_145200_spa=20002.m3u8
+https://edge6-hr.cvattv.com.ar/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD-avc1_1499968=10002-mp4a_145200_spa=20002.m3u8
 
 #EXTINF:29,group-title="Cable",Space
 #EXTVLCOPT:network-caching=10000
-https://edge-live15-sl.cvattv.com.ar/live/c3eds/Space/SA_SAGEMCOM/Space-avc1_2740000=10004-mp4a_144800_spa=20000.m3u8
+https://edge6-hr.cvattv.com.ar/live/c3eds/Space/SA_SAGEMCOM/Space-avc1_2740000=10004-mp4a_144800_spa=20000.m3u8
 
 #EXTINF:29,group-title="Cable",Cinecanal
 #EXTVLCOPT:network-caching=10000
-https://edge-live15-sl.cvattv.com.ar/live/c3eds/CinecanalHD/SA_SAGEMCOM/CinecanalHD-avc1_1972000=10002-mp4a_144800_esp=20000.m3u8
+https://edge6-hr.cvattv.com.ar/live/c3eds/CinecanalHD/SA_SAGEMCOM/CinecanalHD-avc1_1972000=10002-mp4a_144800_esp=20000.m3u8
 
 #EXTINF:29,group-title="Cable",TNT
 #EXTVLCOPT:network-caching=10000
-https://edge-live15-sl.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_SAGEMCOM/TNT_HD_Arg-avc1_2420000=10009-mp4a_144800_spa=20001.m3u8
+https://edge6-hr.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_SAGEMCOM/TNT_HD_Arg-avc1_2420000=10009-mp4a_144800_spa=20001.m3u8
 
 #EXTINF:29,group-title="Cable",FX Movies
 #EXTVLCOPT:network-caching=10000
@@ -491,39 +491,39 @@ https://edge6-hr.cvattv.com.ar/live/c3eds/TheFilmZoneHD/SA_SAGEMCOM/TheFilmZoneH
 
 #EXTINF:29,group-title="Cable",FX Movies
 #EXTVLCOPT:network-caching=10000
-https://edge-live15-sl.cvattv.com.ar/live/c3eds/TheFilmZoneHD/SA_SAGEMCOM/TheFilmZoneHD-avc1_604000=10006-mp4a_144800_esp=20000.m3u8
+https://edge6-hr.cvattv.com.ar/live/c3eds/TheFilmZoneHD/SA_SAGEMCOM/TheFilmZoneHD-avc1_604000=10006-mp4a_144800_esp=20000.m3u8
 
 #EXTINF:29,group-title="Cable",Universal
 #EXTVLCOPT:network-caching=10000
-https://edge-live15-sl.cvattv.com.ar/live/c6eds/Universal_Channel_HD/SA_SAGEMCOM/Universal_Channel_HD-avc1_2100000=10003-mp4a_144800_spa=20000.m3u8
+https://edge6-hr.cvattv.com.ar/live/c6eds/Universal_Channel_HD/SA_SAGEMCOM/Universal_Channel_HD-avc1_2100000=10003-mp4a_144800_spa=20000.m3u8
 
 #EXTINF:29,group-title="Cable",Paramount Network
 #EXTVLCOPT:network-caching=10000
-https://edge-live15-sl.cvattv.com.ar/live/c7eds/Paramount/SA_SAGEMCOM/Paramount-avc1_530000=10000-mp4a_144800_spa=20000.m3u8
+https://edge6-hr.cvattv.com.ar/live/c7eds/Paramount/SA_SAGEMCOM/Paramount-avc1_530000=10000-mp4a_144800_spa=20000.m3u8
 
 #EXTINF:29,group-title="Cable",Cinemax
 #EXTVLCOPT:network-caching=10000
-https://edge-live15-sl.cvattv.com.ar/live/c6eds/Cinemax/SA_SAGEMCOM/Cinemax-avc1_1499968=10002-mp4a_145200_spa=20001.m3u8
+https://edge6-hr.cvattv.com.ar/live/c6eds/Cinemax/SA_SAGEMCOM/Cinemax-avc1_1499968=10002-mp4a_145200_spa=20001.m3u8
 
 #EXTINF:29,group-title="Cable",Cinemax
 #EXTVLCOPT:network-caching=10000
-https://edge-live15-sl.cvattv.com.ar/live/c6eds/Cinemax/SA_SAGEMCOM/Cinemax-avc1_379968=10005-mp4a_145200_spa=20001.m3u8
+https://edge6-hr.cvattv.com.ar/live/c6eds/Cinemax/SA_SAGEMCOM/Cinemax-avc1_379968=10005-mp4a_145200_spa=20001.m3u8
 
 #EXTINF:29,group-title="Cable",HBO
 #EXTVLCOPT:network-caching=10000
-https://edge-live15-sl.cvattv.com.ar/live/c3eds/HBOHD/SA_SAGEMCOM/HBOHD-avc1_1972000=10002-mp4a_144800_esp=20000.m3u8
+https://edge6-hr.cvattv.com.ar/live/c3eds/HBOHD/SA_SAGEMCOM/HBOHD-avc1_1972000=10002-mp4a_144800_esp=20000.m3u8
 
 #EXTINF:29,group-title="Cable",HBO 2
 #EXTVLCOPT:network-caching=10000
-https://edge-live15-sl.cvattv.com.ar/live/c6eds/HBO_2/SA_SAGEMCOM/HBO_2-avc1_1480000=10002-mp4a_144800_spa=20000.m3u8
+https://edge6-hr.cvattv.com.ar/live/c6eds/HBO_2/SA_SAGEMCOM/HBO_2-avc1_1480000=10002-mp4a_144800_spa=20000.m3u8
 
 #EXTINF:29,group-title="Cable",HBO Plus
 #EXTVLCOPT:network-caching=10000
-https://edge-live15-sl.cvattv.com.ar/live/c6eds/HBO_Plus/SA_SAGEMCOM/HBO_Plus-avc1_899968=10003-mp4a_145200_esp=20001.m3u8
+https://edge6-hr.cvattv.com.ar/live/c6eds/HBO_Plus/SA_SAGEMCOM/HBO_Plus-avc1_899968=10003-mp4a_145200_esp=20001.m3u8
 
 #EXTINF:29,group-title="Cable",HBO Family
 #EXTVLCOPT:network-caching=10000
-https://edge-live15-sl.cvattv.com.ar/live/c6eds/HBO_Family/SA_SAGEMCOM/HBO_Family-avc1_1480000=10002-mp4a_144800_esp=20000.m3u8
+https://edge6-hr.cvattv.com.ar/live/c6eds/HBO_Family/SA_SAGEMCOM/HBO_Family-avc1_1480000=10002-mp4a_144800_esp=20000.m3u8
 
 #EXTINF:29,group-title="Cable",HBO Signature
 #EXTVLCOPT:network-caching=10000
@@ -547,7 +547,7 @@ https://edge-live12-hr.cvattv.com.ar/live/c6eds/Tooncast/SA_SAGEMCOM/Tooncast-av
 
 #EXTINF:29,group-title="Cable",Cartoonito
 #EXTVLCOPT:network-caching=10000
-https://edge-live15-sl.cvattv.com.ar/live/c7eds/Boomerang/SA_SAGEMCOM/Boomerang-avc1_2100000=10003-mp4a_144800_spa=20000.m3u8
+https://edge6-hr.cvattv.com.ar/live/c7eds/Boomerang/SA_SAGEMCOM/Boomerang-avc1_2100000=10003-mp4a_144800_spa=20000.m3u8
 
 
 
