@@ -79,9 +79,9 @@ http://www.trimi.com.ar/provincial/streaming/mystreamProvincialHSMed.m3u8
 #EXTVLCOPT:network-caching=10000
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0050
 
-#EXTINF:660,group-title="AMBA",GEN TV CABA
+#EXTINF:660,group-title="AMBA",Canal de la Ciudad CABA
 #EXTVLCOPT:network-caching=10000
-https://videohd.live:19360/8010/8010.m3u8
+https://www.youtube.com/watch?v=DZhzVHsXqbo&ab_channel=CanaldelaCiudad
 
 #EXTINF:660,group-title="AMBA",Ciudad Magazine CABA
 #EXTVLCOPT:network-caching=10000
