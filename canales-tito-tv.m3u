@@ -59,57 +59,53 @@ https://sonic.dattalive.com/8072/stream
 
 
 
-#EXTINF:29,group-title="AMBA",Quilmes Visión - 29 TV - Quilmes - GB Gran Bs As
+#EXTINF:29,group-title="Buenos Aires",On Radio - Quilmes - GB Gran Bs As
 #EXTVLCOPT:network-caching=10000
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0067
 
-#EXTINF:29,group-title="AMBA",Canal 5 de Lanus
+#EXTINF:29,group-title="Buenos Aires",Canal 5 de Lanus
 #EXTVLCOPT:network-caching=10000
 https://panel.dattalive.com/8012/8012/chunklist_w1483566101.m3u8
 
-#EXTINF:120,group-title="AMBA",Canal Provincial San Miguel
+#EXTINF:120,group-title="Buenos Aires",Canal Provincial San Miguel
 #EXTVLCOPT:network-caching=10000
 http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
 
-#EXTINF:120,group-title="AMBA",Canal Provincial San Miguel
+#EXTINF:120,group-title="Buenos Aires",Canal Provincial San Miguel
 #EXTVLCOPT:network-caching=10000
 http://www.trimi.com.ar/provincial/streaming/mystreamProvincialHSMed.m3u8
 
-#EXTINF:660,group-title="AMBA",IP TV
+#EXTINF:660,group-title="Buenos Aires",IP TV
 #EXTVLCOPT:network-caching=10000
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0050
+https://octubre-live.cdn.vustreams.com/live/ip/live.isml/live-audio_1=128000-video=2800000.m3u8
 
-#EXTINF:660,group-title="AMBA",Canal de la Ciudad CABA
+#EXTINF:660,group-title="Buenos Aires",Canal de la Ciudad CABA
 #EXTVLCOPT:network-caching=10000
 https://www.youtube.com/watch?v=DZhzVHsXqbo&ab_channel=CanaldelaCiudad
 
-#EXTINF:660,group-title="AMBA",Ciudad Magazine CABA
+#EXTINF:660,group-title="Buenos Aires",Ciudad Magazine CABA
 #EXTVLCOPT:network-caching=10000
 https://edge-live12-hr.cvattv.com.ar/live/c3eds/Magazine/SA_SAGEMCOM/Magazine-avc1_2499968=10007-mp4a_145200_spa=20001.m3u8
 
-#EXTINF:660,group-title="AMBA",Canal 4 Teleaire San Martin
+#EXTINF:660,group-title="Buenos Aires",Canal 4 Teleaire San Martin
 #EXTVLCOPT:network-caching=10000
 https://stmvideo2.livecastv.com/canal4/canal4/playlist.m3u8
 
-#EXTINF:660,group-title="AMBA",Canal 6 Moreno
-#EXTVLCOPT:network-caching=10000
-https://5975e06a1f292.streamlock.net:4443/canal6moreno/canal6moreno/.m3u8
-
-#EXTINF:31,group-title="AMBA",Unq TV
+#EXTINF:31,group-title="Buenos Aires",Unq TV
 #EXTVLCOPT:network-caching=10000
 https://www.youtube.com/watch?v=uyg50p7psUY&ab_channel=UNQtv
 
-#EXTINF:30,group-title="AMBA",FM SER TV - Tristan Suarez - GB Gran Bs As
+#EXTINF:31,group-title="Buenos Aires",XFN Television Gral Pueyrredon
+#EXTVLCOPT:network-caching=10000
+https://streamconex.com:1936/canalxfn/canalxfn/chunklist_w2129852156.m3u8
+
+#EXTINF:30,group-title="Buenos Aires",NEO TV - Tristan Suarez - GB Gran Bs As
 #EXTVLCOPT:network-caching=10000
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0072
 
-#EXTINF:30,group-title="AMBA",UAI Conexion Abierta
+#EXTINF:30,group-title="Buenos Aires",UAI Conexion Abierta
 #EXTVLCOPT:network-caching=10000
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/af2996eb4205409d96f4072871b1cc9e/chunklist_b4628000.m3u8?p=79&s=1647178250&e=1647178370&h=818dba680dfa32d875d8cea48e9ae710
-
-#EXTINF:20,group-title="AMBA",Radio Jai - La radio Judia de Latinoamerica
-#EXTVLCOPT:network-caching=10000
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0005
 
 
 
@@ -128,11 +124,11 @@ https://edge4-hr.cvattv.com.ar/live/c3eds/AmericaTV/SA_SAGEMCOM/AmericaTV-avc1_1
 
 #EXTINF:30,group-title="Nacionales",Tv Publica Argentina
 #EXTVLCOPT:network-caching=10000
-https://cntlnk-main-edge-access.secure.footprint.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_720p.m3u8
+https://edge-mix02-cen.cvattv.com.ar/live/c3eds/Canal7/SA_SAGEMCOM/Canal7-avc1_2499968=10007-mp4a_145200_eng=20004.m3u8
 
 #EXTINF:30,group-title="SD",Tv Publica Argentina SD
 #EXTVLCOPT:network-caching=10000
-https://cntlnk-main-edge-access.secure.footprint.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_480p.m3u8
+https://edge-mix02-cen.cvattv.com.ar/live/c3eds/Canal7/SA_SAGEMCOM/Canal7-avc1_2499968=10009-mp4a_145200_eng=20004.m3u8
 
 #EXTINF:30,group-title="Nacionales",Canal 9
 #EXTVLCOPT:network-caching=10000
@@ -166,17 +162,21 @@ https://edge-live12-hr.cvattv.com.ar/live/c3eds/ArtearHD/SA_SAGEMCOM/ArtearHD-av
 #EXTVLCOPT:network-caching=10000
 https://edge4-hr.cvattv.com.ar/live/c3eds/ArtearHD/SA_SAGEMCOM/ArtearHD-avc1_2499968=10007-mp4a_145200_spa=20003.m3u8
 
+#EXTINF:30,group-title="SD",Canal 13 SD
+#EXTVLCOPT:network-caching=10000
+https://edge4-hr.cvattv.com.ar/live/c3eds/ArtearHD/SA_SAGEMCOM/ArtearHD-avc1_2499968=10014-mp4a_145200_spa=20003.m3u8
+
 #EXTINF:27,group-title="Nacionales",CineAr
 #EXTVLCOPT:network-caching=10
-https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
+https://edge-mix02-cen.cvattv.com.ar/live/c6eds/INCAA_Tv/SA_SAGEMCOM/INCAA_Tv-avc1_3000000=10004-mp4a_144800_spa=20000.m3u8
+
+#EXTINF:27,group-title="SD",CineAr SD
+#EXTVLCOPT:network-caching=10
+https://edge-mix02-cen.cvattv.com.ar/live/c6eds/INCAA_Tv/SA_SAGEMCOM/INCAA_Tv-avc1_3000000=10002-mp4a_144800_spa=20000.m3u8
 
 #EXTINF:27,group-title="Nacionales",Encuentro
 #EXTVLCOPT:network-caching=10
 https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/chunklist.m3u8
-
-#EXTINF:27,group-title="Nacionales",Mirador
-#EXTVLCOPT:network-caching=10
-https://5fb24b460df87.streamlock.net/live-cont.ar/mirador/chunklist_w35816343.m3u8
 
 #EXTINF:30,group-title="Nacionales",Argentinísima Satelital
 #EXTVLCOPT:network-caching=10000
@@ -201,10 +201,6 @@ http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 #EXTINF:27,group-title="Nacionales",Telemax
 #EXTVLCOPT:network-caching=10000
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?iptvgratis?chile.m3u8
-
-#EXTINF:29,group-title="Nacionales",Tierramia TV
-#EXTVLCOPT:network-caching=10000
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0029
 
 #EXTINF:27,group-title="Nacionales",Music Top
 #EXTVLCOPT:network-caching=10000
@@ -252,7 +248,15 @@ https://cdn.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/Fox_Sport
 
 #EXTINF:120,group-title="Deportes",Fox Sports
 #EXTVLCOPT:network-caching=10000
+https://edge4-sl.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports-avc1_1499968=10008-mp4a_145200_spa=20001.m3u8
+
+#EXTINF:120,group-title="Deportes",Fox Sports
+#EXTVLCOPT:network-caching=10000
 https://cdn.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8
+
+#EXTINF:120,group-title="SD",Fox Sports SD
+#EXTVLCOPT:network-caching=10000
+https://edge4-sl.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports-avc1_1499968=10009-mp4a_145200_spa=20001.m3u8
 
 #EXTINF:120,group-title="Deportes",Fox Sports 2
 #EXTVLCOPT:network-caching=10000
@@ -280,7 +284,15 @@ https://edge4-hr.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_SAGEMCOM/FoxSports3HD-
 
 #EXTINF:120,group-title="Deportes",ESPN
 #EXTVLCOPT:network-caching=10000
+https://edge4-sl.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD-avc1_2499968=10007-mp4a_145200_eng=20002.m3u8
+
+#EXTINF:120,group-title="Deportes",ESPN
+#EXTVLCOPT:network-caching=10000
 https://cdn.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
+
+#EXTINF:120,group-title="SD",ESPN SD
+#EXTVLCOPT:network-caching=10000
+https://edge4-sl.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD-avc1_2499968=10009-mp4a_145200_eng=20002.m3u8
 
 #EXTINF:120,group-title="Deportes",ESPN 2
 #EXTVLCOPT:network-caching=10000
@@ -320,19 +332,11 @@ https://edge-live12-hr.cvattv.com.ar/live/c7eds/ESPN4/SA_SAGEMCOM/ESPN4-avc1_249
 
 #EXTINF:120,group-title="Deportes",ESPN Extra
 #EXTVLCOPT:network-caching=10000
-https://edge9-hr.cvattv.com.ar/live/c3eds/ESPNHD/SA_SAGEMCOM/ESPNHD-avc1_3450000=10004-mp4a_144800_spa=20000.m3u8
-
-#EXTINF:120,group-title="Deportes",ESPN Extra
-#EXTVLCOPT:network-caching=10000
-https://edge4-hr.cvattv.com.ar/live/c3eds/ESPNHD/SA_SAGEMCOM/ESPNHD-avc1_3450000=10004-mp4a_144800_spa=20000.m3u8
-
-#EXTINF:120,group-title="Deportes",ESPN Extra
-#EXTVLCOPT:network-caching=10000
 https://edge-live12-hr.cvattv.com.ar/live/c3eds/ESPNHD/SA_SAGEMCOM/ESPNHD-avc1_3450000=10004-mp4a_144800_spa=20000.m3u8
 
 #EXTINF:120,group-title="SD",ESPN Extra SD
 #EXTVLCOPT:network-caching=10000
-https://edge9-hr.cvattv.com.ar/live/c3eds/ESPNHD/SA_SAGEMCOM/ESPNHD-avc1_3450000=10002-mp4a_144800_spa=20000.m3u8
+https://edge-live12-hr.cvattv.com.ar/live/c3eds/ESPNHD/SA_SAGEMCOM/ESPNHD-avc1_3450000=10002-mp4a_144800_spa=20000.m3u8
 
 #EXTINF:29,group-title="Deportes",DeporTV
 #EXTVLCOPT:network-caching=10000
