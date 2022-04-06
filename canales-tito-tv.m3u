@@ -589,11 +589,11 @@ https://edge6-hr.cvattv.com.ar/live/c6eds/ISAT/SA_SAGEMCOM/ISAT-avc1_1532000=100
 
 #EXTINF:29,group-title="Peliculas y Series",Comedy Central
 #EXTVLCOPT:network-caching=10000
-https://edge6-hr.cvattv.com.ar/live/c7eds/ComedyCentral/SA_SAGEMCOM/ComedyCentral-avc1_1480000=10004-mp4a_144800_esp=20001.m3u8
+https://edge6-hr.cvattv.com.ar/live/c7eds/ComedyCentral/SA_SAGEMCOM/ComedyCentral-avc1_1480000=10004-mp4a_144800_esp=20003.m3u8
 
 #EXTINF:29,group-title="SD",Comedy Central SD
 #EXTVLCOPT:network-caching=10000
-https://edge6-hr.cvattv.com.ar/live/c7eds/ComedyCentral/SA_SAGEMCOM/ComedyCentral-avc1_1480000=10002-mp4a_144800_esp=20001.m3u8
+https://edge6-hr.cvattv.com.ar/live/c7eds/ComedyCentral/SA_SAGEMCOM/ComedyCentral-avc1_1480000=10002-mp4a_144800_esp=20003.m3u8
 
 #EXTINF:29,group-title="Peliculas y Series",Studio Universal
 #EXTVLCOPT:network-caching=10000
