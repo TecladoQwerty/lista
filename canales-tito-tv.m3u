@@ -69,15 +69,15 @@ https://panel.dattalive.com/8012/8012/chunklist_w1483566101.m3u8
 
 #EXTINF:120,group-title="Buenos Aires",Canal Provincial San Miguel
 #EXTVLCOPT:network-caching=10000
-http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
-
-#EXTINF:120,group-title="Buenos Aires",Canal Provincial San Miguel
-#EXTVLCOPT:network-caching=10000
 http://www.trimi.com.ar/provincial/streaming/mystreamProvincialHSMed.m3u8
 
 #EXTINF:660,group-title="Buenos Aires",IP TV
 #EXTVLCOPT:network-caching=10000
 https://octubre-live.cdn.vustreams.com/live/ip/live.isml/live-audio_1=128000-video=2800000.m3u8
+
+#EXTINF:660,group-title="Buenos Aires",Gen TV
+#EXTVLCOPT:network-caching=10000
+https://videohd.live:19360/8010/8010.m3u8
 
 #EXTINF:660,group-title="Buenos Aires",Canal de la Ciudad CABA
 #EXTVLCOPT:network-caching=10000
@@ -87,6 +87,18 @@ https://www.youtube.com/watch?v=DZhzVHsXqbo&ab_channel=CanaldelaCiudad
 #EXTVLCOPT:network-caching=10000
 https://edge-live12-hr.cvattv.com.ar/live/c3eds/Magazine/SA_SAGEMCOM/Magazine-avc1_2499968=10007-mp4a_145200_spa=20001.m3u8
 
+#EXTINF:660,group-title="Buenos Aires",NET TV
+#EXTVLCOPT:network-caching=10000
+https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8?nimblesessionid=17207313
+
+#EXTINF:660,group-title="Buenos Aires",NET TV SD
+#EXTVLCOPT:network-caching=10000
+https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8?nimblesessionid=17207313
+
+#EXTINF:30,group-title="Buenos Aires",UAI Conexion Abierta
+#EXTVLCOPT:network-caching=10000
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/af2996eb4205409d96f4072871b1cc9e/chunklist_b4628000.m3u8?p=79&s=1647178250&e=1647178370&h=818dba680dfa32d875d8cea48e9ae710
+
 #EXTINF:660,group-title="Buenos Aires",Canal 4 Teleaire San Martin
 #EXTVLCOPT:network-caching=10000
 https://stmvideo2.livecastv.com/canal4/canal4/playlist.m3u8
@@ -95,17 +107,21 @@ https://stmvideo2.livecastv.com/canal4/canal4/playlist.m3u8
 #EXTVLCOPT:network-caching=10000
 https://www.youtube.com/watch?v=uyg50p7psUY&ab_channel=UNQtv
 
-#EXTINF:31,group-title="Buenos Aires",XFN Television Gral Pueyrredon
-#EXTVLCOPT:network-caching=10000
-https://streamconex.com:1936/canalxfn/canalxfn/chunklist_w2129852156.m3u8
-
 #EXTINF:30,group-title="Buenos Aires",NEO TV - Tristan Suarez - GB Gran Bs As
 #EXTVLCOPT:network-caching=10000
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0072
 
-#EXTINF:30,group-title="Buenos Aires",UAI Conexion Abierta
+#EXTINF:31,group-title="Buenos Aires",XFN Television Gral Pueyrredon
 #EXTVLCOPT:network-caching=10000
-https://dacastmmd.mmdlive.lldns.net/dacastmmd/af2996eb4205409d96f4072871b1cc9e/chunklist_b4628000.m3u8?p=79&s=1647178250&e=1647178370&h=818dba680dfa32d875d8cea48e9ae710
+https://streamconex.com:1936/canalxfn/canalxfn/chunklist_w2129852156.m3u8
+
+#EXTINF:30,group-title="Buenos Aires",Universidad de Mar del Plata
+#EXTVLCOPT:network-caching=10000
+https://stream-04.nyc.dailymotion.com/sec(SCEOt4M5U0fVbrIPRLL541HDu7sJ5mpI-rAxkBK6JMM)/dm/3/x7kvvgi/s/live-1.m3u8#cell=lnyc
+
+#EXTINF:30,group-title="Buenos Aires",Canal 2 Telpin Pinamar
+#EXTVLCOPT:network-caching=10000
+https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/chunklist_w1715552190_b1344100_sleng.m3u8
 
 
 
@@ -384,6 +400,10 @@ https://youtu.be/wHn1_QVoXGM
 
 #EXTINF:31,group-title="Noticias",A24
 #EXTVLCOPT:network-caching=10000
+https://edge4-hr.cvattv.com.ar/live/c7eds/America24/SA_SAGEMCOM/America24-avc1_899968=10001-mp4a_145200_spa=20000.m3u8
+
+#EXTINF:31,group-title="SD",A24 SD
+#EXTVLCOPT:network-caching=10000
 https://edge4-hr.cvattv.com.ar/live/c7eds/America24/SA_SAGEMCOM/America24-avc1_899968=10003-mp4a_145200_spa=20000.m3u8
 
 #EXTINF:31,group-title="Noticias",C5N
@@ -433,6 +453,21 @@ http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w1700708876_b1
 #EXTINF:30,group-title="Noticias",19 Canal 26 | HD
 #EXTVLCOPT:network-caching=10000
 http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
+
+
+
+
+
+
+#EXTINF:30,group-title="Interior",Canal 7 Mendoza Youtube
+#EXTVLCOPT:network-caching=10000
+https://www.youtube.com/watch?v=8m4raPVM3Cw&ab_channel=ElSieteTV
+
+#EXTINF:30,group-title="Interior",
+#EXTVLCOPT:network-caching=10000
+
+
+
 
 
 
