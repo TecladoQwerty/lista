@@ -194,37 +194,18 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/chunklist.m3u8
 #EXTVLCOPT:network-caching=10000
 http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/playlist.m3u8
 
-#EXTINF:29,group-title="Nacionales",Telemax HD Argentina
+#EXTINF:29,group-title="Nacionales",Telemax Argentina
 #EXTVLCOPT:network-caching=10000
 http://live-edge01.telecentro.net.ar/live/tlxhd-720/playlist.m3u8
-
-#EXTINF:0,group-title="Nacionales",Telemax
-#EXTVLCOPT:network-caching=10000
-http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?iptvgratis?chile.m3u8
-
-#EXTINF:28,group-title="Nacionales",Telemax
-#EXTVLCOPT:network-caching=10000
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0057
-
-#EXTINF:28,group-title="Nacionales",Telemax
-#EXTVLCOPT:network-caching=10000
-http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
-
-#EXTINF:27,group-title="Nacionales",Telemax
-#EXTVLCOPT:network-caching=10000
-http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?iptvgratis?chile.m3u8
 
 #EXTINF:27,group-title="Nacionales",Music Top
 #EXTVLCOPT:network-caching=10000
 http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
 
-#EXTINF:34,group-title="Nacionales",Music Top
-#EXTVLCOPT:network-caching=10000
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0025
 
-#EXTINF:30,group-title="Nacionales",Music Top (ARG)
-#EXTVLCOPT:network-caching=10000
-http://live-edge01.telecentro.net.ar:1935/live/msctphd-720/playlist.m3u8
+
+
+
 
 
 
@@ -378,6 +359,14 @@ https://edge4-hr.cvattv.com.ar/live/c7eds/CronicaTV/SA_SAGEMCOM/CronicaTV-avc1_8
 #EXTVLCOPT:network-caching=10000
 https://www.youtube.com/watch?v=InSydaLSSlw
 
+#EXTINF:31,group-title="Noticias",Canal 26
+#EXTVLCOPT:network-caching=10000
+https://edge-vod02-hr.cvattv.com.ar/live/c6eds/26_TV_HD/SA_SAGEMCOM/26_TV_HD-avc1_3000000=10004-mp4a_144800_spa=20000.m3u8
+
+#EXTINF:31,group-title="Noticias",Canal 26 SD
+#EXTVLCOPT:network-caching=10000
+https://edge-vod02-hr.cvattv.com.ar/live/c6eds/26_TV_HD/SA_SAGEMCOM/26_TV_HD-avc1_3000000=10002-mp4a_144800_spa=20000.m3u8
+
 #EXTINF:31,group-title="Noticias",TN
 #EXTVLCOPT:network-caching=10000
 https://edge4-hr.cvattv.com.ar/live/c3eds/TodoNoticias/SA_SAGEMCOM/TodoNoticias-avc1_899968=10001-mp4a_145200_spa=20001.m3u8
@@ -422,29 +411,12 @@ https://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTVLCOPT:network-caching=10000
 https://www.youtube.com/watch?v=XDJPzMznAjU&ab_channel=FRANCE24Espa%C3%B1ol
 
-#EXTINF:31,group-title="Noticias",Canal 26 HD
-#EXTVLCOPT:network-caching=10000
-http://200.115.193.177/live/26hd-720/.m3u8
 
-#EXTINF:29,group-title="Noticias",Canal 26
-#EXTVLCOPT:network-caching=10000
-http://live-edge01.telecentro.net.ar:1935/live/26hd-720/livestream.m3u8
 
-#EXTINF:0,group-title="Noticias",Canal 26 1
-#EXTVLCOPT:network-caching=10000
-http://200.115.193.177/live/26hd-480/.m3u8?iptvgratis?chile.m3u8
 
-#EXTINF:0,group-title="Noticias",Canal 26 2
-#EXTVLCOPT:network-caching=10000
-http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w188793591_b1864000_sleng.m3u8?iptvgratis?chile.m3u8
 
-#EXTINF:0,group-title="Noticias",Canal 26 3
-#EXTVLCOPT:network-caching=10000
-http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w1700708876_b1264000_sleng.m3u8?iptvgratis?chile.m3u8
 
-#EXTINF:30,group-title="Noticias",19 Canal 26 | HD
-#EXTVLCOPT:network-caching=10000
-http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
+
 
 
 
