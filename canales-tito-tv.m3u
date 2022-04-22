@@ -385,6 +385,14 @@ https://edge-live13-hr.cvattv.com.ar/live/c6eds/Tooncast/SA_SAGEMCOM/Tooncast-av
 #EXTVLCOPT:network-caching=10000
 https://edge-live13-hr.cvattv.com.ar/live/c6eds/Tooncast/SA_SAGEMCOM/Tooncast-avc1_1532000=10004-mp4a_144800_spa=20001.m3u8
 
+#EXTINF:29,group-title="Cable",Disney Channel
+#EXTVLCOPT:network-caching=10000
+https://edge-live13-hr.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_SAGEMCOM/DisneyChannelHD-avc1_1532000=10010-mp4a_144800_spa=20001.m3u8
+
+#EXTINF:29,group-title="SD",Disney Channel SD
+#EXTVLCOPT:network-caching=10000
+https://edge-live13-hr.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_SAGEMCOM/DisneyChannelHD-avc1_1532000=10008-mp4a_144800_spa=20001.m3u8
+
 #EXTINF:60,group-title="Cable",Gourmet
 #EXTVLCOPT:network-caching=10000
 https://edge6-hr.cvattv.com.ar/live/c3eds/Gourmet/SA_SAGEMCOM/Gourmet-avc1_3000000=10004-mp4a_144800_spa=20000.m3u8
@@ -392,6 +400,14 @@ https://edge6-hr.cvattv.com.ar/live/c3eds/Gourmet/SA_SAGEMCOM/Gourmet-avc1_30000
 #EXTINF:60,group-title="SD",Gourmet SD
 #EXTVLCOPT:network-caching=10000
 https://edge6-hr.cvattv.com.ar/live/c3eds/Gourmet/SA_SAGEMCOM/Gourmet-avc1_3000000=10002-mp4a_144800_spa=20000.m3u8
+
+#EXTINF:60,group-title="Cable",Telemundo
+#EXTVLCOPT:network-caching=10000
+https://edge-live13-hr.cvattv.com.ar/live/c7eds/Telemundo_HD/SA_SAGEMCOM/Telemundo_HD-avc1_1532000=10004-mp4a_144800_spa=20000.m3u8
+
+#EXTINF:60,group-title="Cable SD",Telemundo SD
+#EXTVLCOPT:network-caching=10000
+https://edge-live13-hr.cvattv.com.ar/live/c7eds/Telemundo_HD/SA_SAGEMCOM/Telemundo_HD-avc1_1532000=10002-mp4a_144800_spa=20000.m3u8
 
 #EXTINF:29,group-title="Cable",Animal Planet
 #EXTVLCOPT:network-caching=10000
@@ -493,7 +509,9 @@ https://edge4-hr.cvattv.com.ar/live/c6eds/Lifetime/SA_SAGEMCOM/Lifetime-avc1_249
 
 
 
-
+#EXTINF:29,group-title="Peliculas y Series",Volver
+#EXTVLCOPT:network-caching=10000
+https://edge-live13-hr.cvattv.com.ar/live/c6eds/Volver/SA_SAGEMCOM/Volver-avc1_1532000=10004-mp4a_144800_spa=20000.m3u8
 
 #EXTINF:29,group-title="Peliculas y Series",TCM
 #EXTVLCOPT:network-caching=10000
@@ -518,6 +536,14 @@ https://edge6-hr.cvattv.com.ar/live/c6eds/Studio_Universal/SA_SAGEMCOM/Studio_Un
 #EXTINF:29,group-title="SD",Studio Universal SD
 #EXTVLCOPT:network-caching=10000
 https://edge6-hr.cvattv.com.ar/live/c6eds/Studio_Universal/SA_SAGEMCOM/Studio_Universal-avc1_3000000=10002-mp4a_144800_spa=20000.m3u8
+
+#EXTINF:29,group-title="Peliculas y Series",TNT Series
+#EXTVLCOPT:network-caching=10000
+https://edge-vod04-hr.cvattv.com.ar/live/c3eds/TNTSeries/SA_SAGEMCOM/TNTSeries-avc1_1532000=10002-mp4a_144800_spa=20003.m3u8
+
+#EXTINF:29,group-title="SD",TNT Series SD
+#EXTVLCOPT:network-caching=10000
+https://edge-vod04-hr.cvattv.com.ar/live/c3eds/TNTSeries/SA_SAGEMCOM/TNTSeries-avc1_1532000=10004-mp4a_144800_spa=20003.m3u8
 
 #EXTINF:29,group-title="Peliculas y Series",Warner
 #EXTVLCOPT:network-caching=10000
@@ -550,6 +576,22 @@ https://edge10-hr.cvattv.com.ar/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD-avc1_2499968=
 #EXTINF:29,group-title="SD",Star Channel SD
 #EXTVLCOPT:network-caching=10000
 https://edge10-hr.cvattv.com.ar/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD-avc1_2499968=10009-mp4a_145200_spa=20002.m3u8
+
+#EXTINF:29,group-title="Peliculas y Series",SyFy
+#EXTVLCOPT:network-caching=10000
+https://edge-live13-hr.cvattv.com.ar/live/c6eds/SyFy/SA_SAGEMCOM/SyFy-avc1_1532000=10000-mp4a_144800_spa=20003.m3u8
+
+#EXTINF:29,group-title="SD",SyFy SD
+#EXTVLCOPT:network-caching=10000
+https://edge-live13-hr.cvattv.com.ar/live/c6eds/SyFy/SA_SAGEMCOM/SyFy-avc1_1532000=10001-mp4a_144800_spa=20003.m3u8
+
+#EXTINF:29,group-title="Peliculas y Series",Sony
+#EXTVLCOPT:network-caching=10000
+https://edge-live13-hr.cvattv.com.ar/live/c7eds/SonyHD/SA_SAGEMCOM/SonyHD-avc1_1532000=10008-mp4a_144800_spa=20000.m3u8
+
+#EXTINF:29,group-title="SD",Sony SD
+#EXTVLCOPT:network-caching=10000
+https://edge-live13-hr.cvattv.com.ar/live/c7eds/SonyHD/SA_SAGEMCOM/SonyHD-avc1_1532000=10006-mp4a_144800_spa=20000.m3u8
 
 #EXTINF:29,group-title="Peliculas y Series",Space
 #EXTVLCOPT:network-caching=10000
