@@ -401,6 +401,30 @@ https://edge6-hr.cvattv.com.ar/live/c3eds/Gourmet/SA_SAGEMCOM/Gourmet-avc1_30000
 #EXTVLCOPT:network-caching=10000
 https://edge6-hr.cvattv.com.ar/live/c3eds/Gourmet/SA_SAGEMCOM/Gourmet-avc1_3000000=10002-mp4a_144800_spa=20000.m3u8
 
+#EXTINF:60,group-title="Cable",Food Network
+#EXTVLCOPT:network-caching=10000
+https://edge5-sl.cvattv.com.ar/live/c6eds/Food_Network/SA_SAGEMCOM/Food_Network-avc1_3000000=10004-mp4a_144800_spa=20000.m3u8
+
+#EXTINF:60,group-title="SD",Food Network SD
+#EXTVLCOPT:network-caching=10000
+https://edge5-sl.cvattv.com.ar/live/c6eds/Food_Network/SA_SAGEMCOM/Food_Network-avc1_3000000=10002-mp4a_144800_spa=20000.m3u8
+
+#EXTINF:60,group-title="Cable",True TV
+#EXTVLCOPT:network-caching=10000
+https://edge5-sl.cvattv.com.ar/live/c3eds/TruTV/SA_SAGEMCOM/TruTV-avc1_3000000=10004-mp4a_144800_spa=20000.m3u8
+
+#EXTINF:60,group-title="SD",True TV SD
+#EXTVLCOPT:network-caching=10000
+https://edge5-sl.cvattv.com.ar/live/c3eds/TruTV/SA_SAGEMCOM/TruTV-avc1_3000000=10002-mp4a_144800_spa=20000.m3u8
+
+#EXTINF:60,group-title="Cable",Home and Garden
+#EXTVLCOPT:network-caching=10000
+https://edge5-sl.cvattv.com.ar/live/c7eds/Home_and_Garden/SA_SAGEMCOM/Home_and_Garden-avc1_2499968=10006-mp4a_145200_spa=20002.m3u8
+
+#EXTINF:60,group-title="SD",Home and Garden SD
+#EXTVLCOPT:network-caching=10000
+https://edge5-sl.cvattv.com.ar/live/c7eds/Home_and_Garden/SA_SAGEMCOM/Home_and_Garden-avc1_2499968=10008-mp4a_145200_spa=20002.m3u8
+
 #EXTINF:60,group-title="Cable",Telemundo
 #EXTVLCOPT:network-caching=10000
 https://edge-live13-hr.cvattv.com.ar/live/c7eds/Telemundo_HD/SA_SAGEMCOM/Telemundo_HD-avc1_1532000=10004-mp4a_144800_spa=20000.m3u8
@@ -508,7 +532,6 @@ https://edge4-hr.cvattv.com.ar/live/c6eds/Lifetime/SA_SAGEMCOM/Lifetime-avc1_249
 
 
 
-
 #EXTINF:29,group-title="Peliculas y Series",Volver
 #EXTVLCOPT:network-caching=10000
 https://edge-live13-hr.cvattv.com.ar/live/c6eds/Volver/SA_SAGEMCOM/Volver-avc1_1532000=10004-mp4a_144800_spa=20000.m3u8
@@ -592,6 +615,22 @@ https://edge-live13-hr.cvattv.com.ar/live/c7eds/SonyHD/SA_SAGEMCOM/SonyHD-avc1_1
 #EXTINF:29,group-title="SD",Sony SD
 #EXTVLCOPT:network-caching=10000
 https://edge-live13-hr.cvattv.com.ar/live/c7eds/SonyHD/SA_SAGEMCOM/SonyHD-avc1_1532000=10006-mp4a_144800_spa=20000.m3u8
+
+#EXTINF:29,group-title="Peliculas y Series",Sony Comedia
+#EXTVLCOPT:network-caching=10000
+https://spt-comedias-1-us.samsung.wurl.tv/3000.m3u8
+
+#EXTINF:29,group-title="SD",Sony Comedia SD
+#EXTVLCOPT:network-caching=10000
+https://spt-comedias-1-us.samsung.wurl.tv/2000.m3u8
+
+#EXTINF:29,group-title="Peliculas y Series",Sony Novelas
+#EXTVLCOPT:network-caching=10000
+https://spt-novelas-1-us.samsung.wurl.tv/3000.m3u8
+
+#EXTINF:29,group-title="SD",Sony Novelas SD
+#EXTVLCOPT:network-caching=10000
+https://spt-novelas-1-us.samsung.wurl.tv/2000.m3u8
 
 #EXTINF:29,group-title="Peliculas y Series",AMC
 #EXTVLCOPT:network-caching=10000
