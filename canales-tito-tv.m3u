@@ -273,11 +273,11 @@ https://edge9-hr.cvattv.com.ar/live/c3eds/ESPN3/SA_SAGEMCOM/ESPN3-avc1_3900000=1
 
 #EXTINF:120,group-title="Deportes",ESPN 4
 #EXTVLCOPT:network-caching=10000
-https://edge-live12-hr.cvattv.com.ar/live/c7eds/ESPN4/SA_SAGEMCOM/ESPN4-avc1_2499968=10001-mp4a_145200_spa=20000.m3u8
+https://edge-live12-hr.cvattv.com.ar/live/c7eds/ESPN4/SA_SAGEMCOM/ESPN4-avc1_2499968=10009-mp4a_145200_spa=20000.m3u8
 
 #EXTINF:120,group-title="SD",ESPN 4 SD
 #EXTVLCOPT:network-caching=10000
-https://edge-live12-hr.cvattv.com.ar/live/c7eds/ESPN4/SA_SAGEMCOM/ESPN4-avc1_2499968=10003-mp4a_145200_spa=20000.m3u8
+https://edge-live12-hr.cvattv.com.ar/live/c7eds/ESPN4/SA_SAGEMCOM/ESPN4-avc1_2499968=10006-mp4a_145200_spa=20000.m3u8
 
 #EXTINF:120,group-title="Deportes",ESPN Extra
 #EXTVLCOPT:network-caching=10000
@@ -293,11 +293,11 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/chunklist_w1891726586.
 
 #EXTINF:29,group-title="Deportes",America Sports
 #EXTVLCOPT:network-caching=10000
-https://edge-live11-sl.cvattv.com.ar/live/c6eds/America_Sports/SA_SAGEMCOM/America_Sports-avc1_2499968=10001-mp4a_145200_spa=20000.m3u8
+https://edge-live11-sl.cvattv.com.ar/live/c6eds/America_Sports/SA_SAGEMCOM/America_Sports-avc1_2499968=10007-mp4a_145200_spa=20000.m3u8
 
 #EXTINF:29,group-title="SD",America Sports SD
 #EXTVLCOPT:network-caching=10000
-https://edge-live11-sl.cvattv.com.ar/live/c6eds/America_Sports/SA_SAGEMCOM/America_Sports-avc1_2499968=10003-mp4a_145200_spa=20000.m3u8
+https://edge-live11-sl.cvattv.com.ar/live/c6eds/America_Sports/SA_SAGEMCOM/America_Sports-avc1_2499968=10010-mp4a_145200_spa=20000.m3u8
 
 
 
@@ -310,10 +310,6 @@ https://edge4-hr.cvattv.com.ar/live/c7eds/CronicaTV/SA_SAGEMCOM/CronicaTV-avc1_8
 #EXTINF:31,group-title="SD",Cronica TV SD
 #EXTVLCOPT:network-caching=10000
 https://edge4-hr.cvattv.com.ar/live/c7eds/CronicaTV/SA_SAGEMCOM/CronicaTV-avc1_899968=10003-mp4a_145200_spa=20000.m3u8
-
-#EXTINF:31,group-title="Noticias",Cronica TV Youtube
-#EXTVLCOPT:network-caching=10000
-https://www.youtube.com/watch?v=InSydaLSSlw
 
 #EXTINF:31,group-title="Noticias",Canal 26
 #EXTVLCOPT:network-caching=10000
@@ -330,10 +326,6 @@ https://edge4-hr.cvattv.com.ar/live/c3eds/TodoNoticias/SA_SAGEMCOM/TodoNoticias-
 #EXTINF:31,group-title="SD",TN SD
 #EXTVLCOPT:network-caching=10000
 https://edge4-hr.cvattv.com.ar/live/c3eds/TodoNoticias/SA_SAGEMCOM/TodoNoticias-avc1_899968=10000-mp4a_145200_spa=20001.m3u8
-
-#EXTINF:31,group-title="Noticias",TN Youtube
-#EXTVLCOPT:network-caching=10000
-https://youtu.be/wHn1_QVoXGM
 
 #EXTINF:31,group-title="Noticias",A24
 #EXTVLCOPT:network-caching=10000
@@ -379,19 +371,19 @@ https://www.youtube.com/watch?v=XDJPzMznAjU&ab_channel=FRANCE24Espa%C3%B1ol
 
 #EXTINF:29,group-title="Cable",Cartoonito
 #EXTVLCOPT:network-caching=10000
-https://edge6-hr.cvattv.com.ar/live/c7eds/Boomerang/SA_SAGEMCOM/Boomerang-avc1_2100000=10003-mp4a_144800_spa=20000.m3u8
+https://edge6-hr.cvattv.com.ar/live/c7eds/Boomerang/SA_SAGEMCOM/Boomerang-avc1_2100000=10004-mp4a_144800_spa=20000.m3u8
 
 #EXTINF:29,group-title="SD",Cartoonito SD
 #EXTVLCOPT:network-caching=10000
-https://edge6-hr.cvattv.com.ar/live/c7eds/Boomerang/SA_SAGEMCOM/Boomerang-avc1_2100000=10003-mp4a_144800_spa=20000.m3u8
+https://edge6-hr.cvattv.com.ar/live/c7eds/Boomerang/SA_SAGEMCOM/Boomerang-avc1_2100000=10002-mp4a_144800_spa=20000.m3u8
 
 #EXTINF:29,group-title="Cable",Tooncast
 #EXTVLCOPT:network-caching=10000
-https://edge10-hr.cvattv.com.ar/live/c6eds/Tooncast/SA_SAGEMCOM/Tooncast-avc1_1532000=10004-mp4a_144800_spa=20000.m3u8
+https://edge-live13-hr.cvattv.com.ar/live/c6eds/Tooncast/SA_SAGEMCOM/Tooncast-avc1_1532000=10004-mp4a_144800_spa=20001.m3u8
 
 #EXTINF:29,group-title="SD",Tooncast SD
 #EXTVLCOPT:network-caching=10000
-https://edge10-hr.cvattv.com.ar/live/c6eds/Tooncast/SA_SAGEMCOM/Tooncast-avc1_1532000=10004-mp4a_144800_spa=20000.m3u8
+https://edge-live13-hr.cvattv.com.ar/live/c6eds/Tooncast/SA_SAGEMCOM/Tooncast-avc1_1532000=10004-mp4a_144800_spa=20001.m3u8
 
 #EXTINF:60,group-title="Cable",Gourmet
 #EXTVLCOPT:network-caching=10000
@@ -404,10 +396,6 @@ https://edge6-hr.cvattv.com.ar/live/c3eds/Gourmet/SA_SAGEMCOM/Gourmet-avc1_30000
 #EXTINF:29,group-title="Cable",Animal Planet
 #EXTVLCOPT:network-caching=10000
 https://edge-live12-hr.cvattv.com.ar/live/c7eds/AnimalPlanet/SA_SAGEMCOM/AnimalPlanet-avc1_3000000=10004-mp4a_144800_spa=20000.m3u8
-
-#EXTINF:29,group-title="Cable",Animal Planet
-#EXTVLCOPT:network-caching=10000
-https://edge4-hr.cvattv.com.ar/live/c7eds/AnimalPlanet/SA_SAGEMCOM/AnimalPlanet-avc1_2100000=10003-mp4a_144800_spa=20000.m3u8
 
 #EXTINF:29,group-title="SD",Animal Planet SD
 #EXTVLCOPT:network-caching=10000
@@ -645,11 +633,11 @@ https://edge-live12-hr.cvattv.com.ar/live/c6eds/HBO_Family/SA_SAGEMCOM/HBO_Famil
 
 #EXTINF:29,group-title="Peliculas y Series",HBO Signature
 #EXTVLCOPT:network-caching=10000
-https://edge-live12-hr.cvattv.com.ar/live/c6eds/HBO_Signature/SA_SAGEMCOM/HBO_Signature-avc1_2499968=10001-mp4a_145200_spa=20001.m3u8
+https://edge-live12-hr.cvattv.com.ar/live/c6eds/HBO_Signature/SA_SAGEMCOM/HBO_Signature-avc1_2499968=10010-mp4a_145200_spa=20001.m3u8
 
 #EXTINF:29,group-title="SD",HBO Signature SD
 #EXTVLCOPT:network-caching=10000
-https://edge-live12-hr.cvattv.com.ar/live/c6eds/HBO_Signature/SA_SAGEMCOM/HBO_Signature-avc1_2499968=10003-mp4a_145200_spa=20001.m3u8
+https://edge-live12-hr.cvattv.com.ar/live/c6eds/HBO_Signature/SA_SAGEMCOM/HBO_Signature-avc1_2499968=10007-mp4a_145200_spa=20001.m3u8
 
 #EXTINF:29,group-title="Peliculas y Series",HBO Extreme
 #EXTVLCOPT:network-caching=10000
