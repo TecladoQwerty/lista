@@ -115,13 +115,77 @@ https://www.youtube.com/watch?v=mu0vaUxhQ1Q
 #EXTVLCOPT:network-caching=10000
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0072
 
-#EXTINF:31,group-title="Buenos Aires",XFN Television Gral Pueyrredon
+
+
+
+
+
+
+
+#EXTINF:30,group-title="Interior",Canal 2 Telpin Pinamar
+#EXTVLCOPT:network-caching=10000
+https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/chunklist_w1715552190_b1344100_sleng.m3u8
+
+#EXTINF:30,group-title="Interior",TV 2 - Salta
+#EXTVLCOPT:network-caching=10000
+https://vivo.solumedia.com:19360/tv2salta/tv2salta.m3u8
+
+#EXTINF:30,group-title="Interior",Canal 4 - Bahia Blanca
+#EXTVLCOPT:network-caching=10000
+https://vivo.solumedia.com:19360/bvconline/bvconline.m3u8
+
+#EXTINF:30,group-title="Interior",Canal 5 - Santa Fe
+#EXTVLCOPT:network-caching=10000
+https://5975e06a1f292.streamlock.net:4443/c5sf/c5sf/chunklist_w326914665.m3u8
+
+#EXTINF:30,group-title="Interior",Canal 5 Telesol - San Juan
+#EXTVLCOPT:network-caching=10000
+https://cnnsanjuan.com:9999/live/telesol/woplay/telesoludp2_720p/chunks.m3u8
+
+#EXTINF:30,group-title="Interior",Canal 9 Televida - Mendoza
+#EXTVLCOPT:network-caching=10000
+https://5b3050bb1b2d8.streamlock.net/viviloendirecto2/canal9/chunklist_w1903708090.m3u8
+
+#EXTINF:30,group-title="Interior",Canal 10 - Mar del Plata
+#EXTVLCOPT:network-caching=10000
+https://cdn2.zencast.tv:30443/live/canal10smil/live/canal10/chunks.m3u8
+
+#EXTINF:30,group-title="Interior",Canal 10 - Rio Negro
+#EXTVLCOPT:network-caching=10000
+https://panel.dattalive.com/8204/8204/chunklist_w980908067.m3u8
+
+#EXTINF:30,group-title="Interior",Canal 10 - Cordoba
+#EXTVLCOPT:network-caching=10000
+https://vcp.myplaytv.com/canal10cba/smil:canal10cba.smil/chunklist_w528867161_b1000000_slen.m3u8
+
+#EXTINF:30,group-title="Interior",Canal 13 Max - Corrientes
+#EXTVLCOPT:network-caching=10000
+http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/playlist.m3u8
+
+#EXTINF:30,group-title="Interior",Canal 13 - San Luis
+#EXTVLCOPT:network-caching=10000
+https://stream.arcast.live/sanluistv/ngrp:sanluistv_all/chunklist_w217714266_b799152.m3u8
+
+#EXTINF:30,group-title="Interior",Canal 13 - Rio Cuarto
+#EXTVLCOPT:network-caching=10000
+https://mediacp.hostradios.com.ar:19360/telediario/telediario.m3u8
+
+#EXTINF:30,group-title="Interior",24/7 CN - Neuquen
+#EXTVLCOPT:network-caching=10000
+https://panel.dattalive.com/6605140/6605140/chunklist_w1726883584.m3u8
+
+#EXTINF:30,group-title="Interior",TV Publica Fueguina - Tierra del Fuego
+#EXTVLCOPT:network-caching=10000
+https://vivo.solumedia.com:19360/tvpublicafueguina/tvpublicafueguina.m3u8
+
+#EXTINF:30,group-title="Interior",Chaco TV - Resistencia
+#EXTVLCOPT:network-caching=10000
+https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/chunklist_w320343694.m3u8
+
+#EXTINF:31,group-title="Interior",XFN Television Gral Pueyrredon
 #EXTVLCOPT:network-caching=10000
 https://streamconex.com:1936/canalxfn/canalxfn/chunklist_w2129852156.m3u8
 
-#EXTINF:30,group-title="Buenos Aires",Canal 2 Telpin Pinamar
-#EXTVLCOPT:network-caching=10000
-https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/chunklist_w1715552190_b1344100_sleng.m3u8
 
 
 
@@ -173,6 +237,14 @@ https://edge-mix02-cen.cvattv.com.ar/live/c6eds/INCAA_Tv/SA_SAGEMCOM/INCAA_Tv-av
 #EXTINF:27,group-title="SD",CineAr SD
 #EXTVLCOPT:network-caching=10
 https://edge-mix02-cen.cvattv.com.ar/live/c6eds/INCAA_Tv/SA_SAGEMCOM/INCAA_Tv-avc1_3000000=10002-mp4a_144800_spa=20000.m3u8
+
+#EXTINF:27,group-title="Nacionales",Nueva Imagen Television
+#EXTVLCOPT:network-caching=10
+https://edge1-sl.cvattv.com.ar/live/c6eds/Nueva_Imagen/SA_SAGEMCOM/Nueva_Imagen-avc1_1532000=10004-mp4a_144800_spa=20000.m3u8
+
+#EXTINF:27,group-title="SD",Nueva Imagen Television SD
+#EXTVLCOPT:network-caching=10
+https://edge1-sl.cvattv.com.ar/live/c6eds/Nueva_Imagen/SA_SAGEMCOM/Nueva_Imagen-avc1_1532000=10004-mp4a_144800_spa=20000.m3u8
 
 #EXTINF:27,group-title="Nacionales",Encuentro
 #EXTVLCOPT:network-caching=10
