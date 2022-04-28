@@ -998,6 +998,9 @@ http://edge2-hr.cvattv.com.ar/live/c4eds/SNT_C4/SA_SAGEMCOM/SNT_C4-avc1_1532000=
 #EXTVLCOPT:network-caching=10000
 http://edge2-hr.cvattv.com.ar/live/c4eds/SNT_C4/SA_SAGEMCOM/SNT_C4-avc1_1532000=10002-mp4a_144800_spa=20000.m3u8
 
+#EXTINF:29,group-title="Otros",Caracol TV Colombia
+#EXTVLCOPT:network-caching=10000
+http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
 
 
 
