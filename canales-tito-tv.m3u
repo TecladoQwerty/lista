@@ -456,10 +456,6 @@ https://edge2-hr.cvattv.com.ar/live/c6eds/CNN_en_Espanol/SA_SAGEMCOM/CNN_en_Espa
 #EXTVLCOPT:network-caching=10000
 https://edge2-hr.cvattv.com.ar/live/c6eds/CNN_en_Espanol/SA_SAGEMCOM/CNN_en_Espanol-avc1_1532000=10002-mp4a_144800_spa=20000.m3u8
 
-#EXTINF:29,group-title="Noticias",France 24 Francia en Español Youtube
-#EXTVLCOPT:network-caching=10000
-https://www.youtube.com/watch?v=XDJPzMznAjU&ab_channel=FRANCE24Espa%C3%B1ol
-
 
 
 
@@ -544,11 +540,11 @@ http://edge2-hr.cvattv.com.ar/live/c6eds/E_Entertainment_Television/SA_SAGEMCOM/
 
 #EXTINF:60,group-title="Cable",Home and Garden
 #EXTVLCOPT:network-caching=10000
-https://edge5-sl.cvattv.com.ar/live/c7eds/Home_and_Garden/SA_SAGEMCOM/Home_and_Garden-avc1_2499968=10006-mp4a_145200_spa=20002.m3u8
+https://edge1-hr.cvattv.com.ar/live/c7eds/Home_and_Garden/SA_SAGEMCOM/Home_and_Garden-avc1_2499968=10002-mp4a_145200_spa=20002.m3u8
 
 #EXTINF:60,group-title="SD",Home and Garden SD
 #EXTVLCOPT:network-caching=10000
-https://edge5-sl.cvattv.com.ar/live/c7eds/Home_and_Garden/SA_SAGEMCOM/Home_and_Garden-avc1_2499968=10008-mp4a_145200_spa=20002.m3u8
+https://edge1-hr.cvattv.com.ar/live/c7eds/Home_and_Garden/SA_SAGEMCOM/Home_and_Garden-avc1_2499968=10003-mp4a_145200_spa=20002.m3u8
 
 #EXTINF:60,group-title="Cable",A&E
 #EXTVLCOPT:network-caching=10000
@@ -932,11 +928,11 @@ https://edge2-hr.cvattv.com.ar/live/c4eds/Canal10_URU/SA_SAGEMCOM/Canal10_URU-av
 
 #EXTINF:29,group-title="Otros",Hola TV Latino España
 #EXTVLCOPT:network-caching=10000
-http://edge2-hr.cvattv.com.ar/live/c7eds/Hola_TV/SA_SAGEMCOM/Hola_TV-avc1_1532000=10004-mp4a_144800_spa=20000.m3u8
+http://edge5-sl.cvattv.com.ar/live/c7eds/Hola_TV/SA_SAGEMCOM/Hola_TV-avc1_3000000=10004-mp4a_144800_spa=20001.m3u8
 
 #EXTINF:29,group-title="SD",Hola TV Latino España SD
 #EXTVLCOPT:network-caching=10000
-http://edge2-hr.cvattv.com.ar/live/c7eds/Hola_TV/SA_SAGEMCOM/Hola_TV-avc1_1532000=10002-mp4a_144800_spa=20000.m3u8
+http://edge5-sl.cvattv.com.ar/live/c7eds/Hola_TV/SA_SAGEMCOM/Hola_TV-avc1_3000000=10002-mp4a_144800_spa=20001.m3u8
 
 #EXTINF:29,group-title="Otros",El canal de las estrellas Mexico
 #EXTVLCOPT:network-caching=10000
