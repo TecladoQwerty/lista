@@ -1,17 +1,9 @@
 #KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=video/mpd
+#KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.ffmpegdirect.program_number=2154
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #EXTINF:-1,Canal 2
 https://edge-live16-hr.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_enc_2A/AmericaTV.mpd
-
-
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://edge4-sl.cvattv.com.ar/live/c3eds/Gourmet/SA_Live_dash_enc_2A/Gourmet.mpd
-
-
 
 
 
