@@ -4,3 +4,16 @@
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTINF:-1 group-title="Nacionales" tvg-logo="https://elgourmet.com/theme/assets/logo.png" group-title="Nacionales",Canal 2
 https://edge4-sl.cvattv.com.ar/live/c3eds/Gourmet/SA_Live_dash_enc_2A/Gourmet.mpd
+
+
+
+
+
+#KODIPROP:inputstream.adaptive.license_key=https://wv.megatelevisionhd.com/megatv.php
+#EXTINF:-1 group-title="Cine Premium" tvg-logo="https://1.bp.blogspot.com/-Z8FAsWD08ZQ/XW3IoSYo9AI/AAAAAAAAAOg/RNqqkg9lOw8-wIFiBeNRIOLTS8TXCBLdgCLcBGAs/s1600/tbs.png",TBS
+https://edge-vod01-hr.cvattv.com.ar//live/c2live/TBS/SA_Live_dash_enc_2A/TBS.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://wv.megatelevisionhd.com/megatv.php
+#EXTINF:-1 group-title="Argentina" tvg-logo="https://1.bp.blogspot.com/-MSr8cwUl3Pc/XW3HiTkLeHI/AAAAAAAAAEM/FohpdX9XghAnyWIAg9N66djfH1GXFKZoQCLcBGAs/s1600/america-tv-argentina.png",AMERICA
+https://edge-vod01-hr.cvattv.com.ar//live/c3eds/AmericaTV/SA_Live_dash_enc_2A/AmericaTV.mpd
+#EXTINF:-1 tvg-logo="https://servidor10.xyz/images/redpat.png" group-title="Bolivia",PAT
+https://tvlavoz.herokuapp.com/iptv-query?streaming-ip=https://master.tucableip.com/pat/index.m3u8
