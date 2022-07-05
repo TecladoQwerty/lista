@@ -872,19 +872,19 @@ https://edge-live12-hr.cvattv.com.ar/live/c7eds/HBO_POP/SA_SAGEMCOM/HBO_POP-avc1
 
 #EXTINF:29,group-title="Otros",Telefuturo Paraguay
 #EXTVLCOPT:network-caching=10000
-http://edge2-hr.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_SAGEMCOM/TELEFUTURO_C4-avc1_1532000=10004-mp4a_144800_spa=20000.m3u8
+http://edge2-hr.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_SAGEMCOM/TELEFUTURO_C4-avc1_1532000=10007-mp4a_144800_spa=20000.m3u8
 
 #EXTINF:29,group-title="SD",Telefuturo Paraguay SD
 #EXTVLCOPT:network-caching=10000
-http://edge-live16-hr.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_SAGEMCOM/TELEFUTURO_C4-avc1_1532000=10002-mp4a_144800_spa=20000.m3u8
+http://edge-live16-hr.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_SAGEMCOM/TELEFUTURO_C4-avc1_1532000=10007-mp4a_144800_spa=20000.m3u8
 
 #EXTINF:29,group-title="Otros",La Tele Paraguay
 #EXTVLCOPT:network-caching=10000
-http://edge-live16-hr.cvattv.com.ar/live/c4eds/LA_TELE_C4/SA_SAGEMCOM/LA_TELE_C4-avc1_1532000=10004-mp4a_144800_spa=20000.m3u8
+http://edge-live16-hr.cvattv.com.ar/live/c4eds/LA_TELE_C4/SA_SAGEMCOM/LA_TELE_C4-avc1_1532000=10005-mp4a_144800_spa=20000.m3u8
 
 #EXTINF:29,group-title="SD",La Tele Paraguay SD
 #EXTVLCOPT:network-caching=10000
-http://edge-live16-hr.cvattv.com.ar/live/c4eds/LA_TELE_C4/SA_SAGEMCOM/LA_TELE_C4-avc1_1532000=10004-mp4a_144800_spa=20000.m3u8
+http://edge-live16-hr.cvattv.com.ar/live/c4eds/LA_TELE_C4/SA_SAGEMCOM/LA_TELE_C4-avc1_1532000=10005-mp4a_144800_spa=20000.m3u8
 
 #EXTINF:29,group-title="Otros",Canal 4 Uruguay
 #EXTVLCOPT:network-caching=10000
@@ -952,19 +952,19 @@ http://edge-live16-hr.cvattv.com.ar/live/c7eds/Pasiones/SA_SAGEMCOM/Pasiones-avc
 
 #EXTINF:29,group-title="Otros",Canal 13 Paraguay
 #EXTVLCOPT:network-caching=10000
-http://edge-live16-hr.cvattv.com.ar/live/c4eds/RPC_C4/SA_SAGEMCOM/RPC_C4-avc1_1532000=10004-mp4a_144800_spa=20000.m3u8
+http://edge-live16-hr.cvattv.com.ar/live/c4eds/RPC_C4/SA_SAGEMCOM/RPC_C4-avc1_1532000=10007-mp4a_144800_spa=20000.m3u8
 
 #EXTINF:29,group-title="SD",Canal 13 Paraguay SD
 #EXTVLCOPT:network-caching=10000
-http://edge-live16-hr.cvattv.com.ar/live/c4eds/RPC_C4/SA_SAGEMCOM/RPC_C4-avc1_1532000=10002-mp4a_144800_spa=20000.m3u8
+http://edge-live16-hr.cvattv.com.ar/live/c4eds/RPC_C4/SA_SAGEMCOM/RPC_C4-avc1_1532000=10007-mp4a_144800_spa=20000.m3u8
 
 #EXTINF:29,group-title="Otros",SNT Paraguay
 #EXTVLCOPT:network-caching=10000
-http://edge-live16-hr.cvattv.com.ar/live/c4eds/SNT_C4/SA_SAGEMCOM/SNT_C4-avc1_1532000=10004-mp4a_144800_spa=20000.m3u8
+http://edge-live16-hr.cvattv.com.ar/live/c4eds/SNT_C4/SA_SAGEMCOM/SNT_C4-avc1_1532000=10007-mp4a_144800_spa=20000.m3u8
 
 #EXTINF:29,group-title="SD",SNT Paraguay SD
 #EXTVLCOPT:network-caching=10000
-http://edge-live16-hr.cvattv.com.ar/live/c4eds/SNT_C4/SA_SAGEMCOM/SNT_C4-avc1_1532000=10002-mp4a_144800_spa=20000.m3u8
+http://edge-live16-hr.cvattv.com.ar/live/c4eds/SNT_C4/SA_SAGEMCOM/SNT_C4-avc1_1532000=10009-mp4a_144800_spa=20000.m3u8
 
 #EXTINF:29,group-title="Otros",Caracol TV Colombia
 #EXTVLCOPT:network-caching=10000
