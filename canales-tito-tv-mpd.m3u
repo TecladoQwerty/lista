@@ -1,6 +1,5 @@
 #EXTM3U
 
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTINF:-1,Cinecanal
