@@ -265,7 +265,7 @@ https://edge-live13-hr.cvattv.com.ar/live/c3eds/TyCSport/SA_SAGEMCOM/TyCSport-av
 
 #EXTINF:120,group-title="Deportes",TNT Sports
 #EXTVLCOPT:network-caching=10000
-https://edge-vod04-sl.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD-avc1_2499968=10007-mp4a_145200_spa=20001.m3u8
+https://latamlive.warnermediacdn.com/hls/live/2042062/arg_tnt_sports/master.m3u8
 
 #EXTINF:120,group-title="SD",TNT Sports SD
 #EXTVLCOPT:network-caching=10000
