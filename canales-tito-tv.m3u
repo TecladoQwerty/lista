@@ -991,6 +991,16 @@ https://1118-vos.dtvott.com/DASH/manifest.mpd?&ck=eyI3NmJlODEwNDFlNzEzM2EzODQ1N2
 https://1125-vos.dtvott.com/DASH/manifest.mpd
 
 
+#EXTINF:29,group-title="PRUEBA",OTRO MPD 2
+#EXTVLCOPT:network-caching=10000
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://1125-vos.dtvott.com/DASH/manifest.mpd
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://1125-vos.dtvott.com/DASH/manifest.mpd
 
 
 
