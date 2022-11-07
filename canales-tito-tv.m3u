@@ -61,7 +61,7 @@ https://sonic.dattalive.com/8072/stream
 
 #EXTINF:31,group-title="OTROS",CANALES GITHUB
 #EXTVLCOPT:network-caching=10000
-https://github.com/iptv-org/iptv/blob/master/streams/ar.m3u
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ar.m3u
 
 
 
