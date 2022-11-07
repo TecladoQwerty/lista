@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:31,group-title="OTROS",CANALES GITHUB
-#EXTVLCOPT:network-caching=10000
-https://iptv-org.github.io/iptv/countries/ar.m3u
-
 #EXTINF:31,group-title="Entre Rios",RemansoTV
 #EXTVLCOPT:network-caching=10000
 https://stmvideo1.livecastv.com/remansotv/remansotv/chunklist_w931496501.m3u8
@@ -60,7 +56,9 @@ http://node-07.zeno.fm/bnhvyvxn64zuv?zs=52xm2PmHQweRiJNWGRLEeg&rj-tok=AAABf35jab
 #EXTVLCOPT:network-caching=10000
 https://sonic.dattalive.com/8072/stream
 
-
+#EXTINF:31,group-title="Todos",Todos
+#EXTVLCOPT:network-caching=10000
+https://iptv-org.github.io/iptv/countries/ar.m3u
 
 
 
