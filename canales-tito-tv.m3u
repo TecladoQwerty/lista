@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:31,group-title="Entre Rios",PRUEBA
+#EXTVLCOPT:network-caching=10000
+https://iptv-org.github.io/iptv/countries/ar.m3u
 
 #EXTINF:31,group-title="Entre Rios",RemansoTV
 #EXTVLCOPT:network-caching=10000
@@ -42,7 +45,7 @@ https://ssl.xcast.com.br:7480/;
 
 #EXTINF:31,group-title="Entre Rios",FM Siglo 21 Hasenkamp Entre Rios
 #EXTVLCOPT:network-caching=10000
-https://proxy01.servidorenlinea.net/streaming1/8070/;
+https://server6.hostradios.com/8210/stream
 
 #EXTINF:31,group-title="Entre Rios",FM Municipal Hasenkamp Entre Rios
 #EXTVLCOPT:network-caching=10000
@@ -73,11 +76,7 @@ https://octubre-live.cdn.vustreams.com/live/ip/live.isml/live-audio_1=128000-vid
 
 #EXTINF:660,group-title="Buenos Aires",Gen TV
 #EXTVLCOPT:network-caching=10000
-https://videohd.live:19360/8010/8010.m3u8
-
-#EXTINF:660,group-title="Buenos Aires",Canal de la Ciudad CABA
-#EXTVLCOPT:network-caching=10000
-https://www.youtube.com/watch?v=DZhzVHsXqbo&ab_channel=CanaldelaCiudad
+https://inliveserver.com:1936/14056/14056/chunklist_w703326582.m3u8
 
 #EXTINF:660,group-title="Buenos Aires",Ciudad Magazine CABA
 #EXTVLCOPT:network-caching=10000
