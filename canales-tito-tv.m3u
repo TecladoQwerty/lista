@@ -61,9 +61,41 @@ https://sonic.dattalive.com/8072/stream
 
 
 
-#EXTINF:31,group-title="Otros",13 Max Digital Buenos Aires
+#EXTINF:31,group-title="Otros", Cine Ar Buenos Aires
 #EXTVLCOPT:network-caching=10000
-http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/playlist.m3u8
+https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
+
+#EXTINF:31,group-title="Otros", Depor TV Buenos Aires
+#EXTVLCOPT:network-caching=10000
+https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
+
+#EXTINF:31,group-title="Otros", El 9 Buenos Aires
+#EXTVLCOPT:network-caching=10000
+https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8
+
+#EXTINF:31,group-title="Otros", El Trece Buenos Aires
+#EXTVLCOPT:network-caching=10000
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
+
+#EXTINF:31,group-title="Otros", Encuentro Buenos Aires
+#EXTVLCOPT:network-caching=10000
+https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/.m3u8
+
+#EXTINF:31,group-title="Otros", Tv Publica Buenos Aires
+#EXTVLCOPT:network-caching=10000
+https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
+
+#EXTINF:31,group-title="Otros", Telefe Internacional Buenos Aires
+#EXTVLCOPT:network-caching=10000
+https://siloh.pluto.tv/lilo/production/TelefePluto/master.m3u8
+
+#EXTINF:31,group-title="Otros", NET TV Buenos Aires CABA
+#EXTVLCOPT:network-caching=10000
+https://unlimited6-cl.dps.live/nettv/nettv.smil/playlist.m3u8
+
+#EXTINF:31,group-title="Otros", Gen TV Buenos Aires CABA
+#EXTVLCOPT:network-caching=10000
+https://inliveserver.com:1936/14056/14056/playlist.m3u8
 
 #EXTINF:31,group-title="Otros",A24 Buenos Aires
 #EXTVLCOPT:network-caching=10000
@@ -72,6 +104,10 @@ https://ythls.onrender.com/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
 #EXTINF:31,group-title="Otros", Argentinisima Satelital Buenos Aires
 #EXTVLCOPT:network-caching=10000
 https://stream1.sersat.com/hls/argentinisima.m3u8
+
+#EXTINF:31,group-title="Otros",13 Max Digital Buenos Aires
+#EXTVLCOPT:network-caching=10000
+http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/playlist.m3u8
 
 #EXTINF:31,group-title="Otros", Bayres TV Buenos Aires CABA
 #EXTVLCOPT:network-caching=10000
@@ -109,33 +145,9 @@ https://s8.stweb.tv/chacra/live/playlist.m3u8
 #EXTVLCOPT:network-caching=10000
 https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
 
-#EXTINF:31,group-title="Otros", Cine Ar Buenos Aires
-#EXTVLCOPT:network-caching=10000
-https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
-
-#EXTINF:31,group-title="Otros", Depor TV Buenos Aires
-#EXTVLCOPT:network-caching=10000
-https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
-
 #EXTINF:31,group-title="Otros", El Histonauta Buenos Aires
 #EXTVLCOPT:network-caching=10000
 https://stmv1.cnarlatam.com/elhistonauta/elhistonauta/playlist.m3u8
-
-#EXTINF:31,group-title="Otros", El 9 Buenos Aires
-#EXTVLCOPT:network-caching=10000
-https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8
-
-#EXTINF:31,group-title="Otros", El Trece Buenos Aires
-#EXTVLCOPT:network-caching=10000
-https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
-
-#EXTINF:31,group-title="Otros", Encuentro Buenos Aires
-#EXTVLCOPT:network-caching=10000
-https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/.m3u8
-
-#EXTINF:31,group-title="Otros", Gen TV Buenos Aires CABA
-#EXTVLCOPT:network-caching=10000
-https://inliveserver.com:1936/14056/14056/playlist.m3u8
 
 #EXTINF:31,group-title="Otros", IP TV Buenos Aires
 #EXTVLCOPT:network-caching=10000
@@ -145,25 +157,13 @@ https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e
 #EXTVLCOPT:network-caching=10000
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
-#EXTINF:31,group-title="Otros", NET TV Buenos Aires CABA
-#EXTVLCOPT:network-caching=10000
-https://unlimited6-cl.dps.live/nettv/nettv.smil/playlist.m3u8
-
 #EXTINF:31,group-title="Otros", TEC TV Buenos Aires
 #EXTVLCOPT:network-caching=10000
 https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8
 
-#EXTINF:31,group-title="Otros", Telefe Internacional Buenos Aires
-#EXTVLCOPT:network-caching=10000
-https://siloh.pluto.tv/lilo/production/TelefePluto/master.m3u8
-
 #EXTINF:31,group-title="Otros", Tele Junin Buenos Aires
 #EXTVLCOPT:network-caching=10000
 https://videostream.shockmedia.com.ar:19360/telejunin/telejunin.m3u8
-
-#EXTINF:31,group-title="Otros", Tv Publica Buenos Aires
-#EXTVLCOPT:network-caching=10000
-https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
 
 #EXTINF:31,group-title="Otros", Canal 22 Buenos Aires CABA
 #EXTVLCOPT:network-caching=10000
