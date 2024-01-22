@@ -6,7 +6,7 @@ https://stmvideo1.livecastv.com/remansotv/remansotv/chunklist_w931496501.m3u8
 
 #EXTINF:31,group-title="Entre_Rios",Canal 2 Gualeguay Entre Rios
 #EXTVLCOPT:network-caching=10000
-https://59d52c5a5ce5e.streamlock.net:4443/gualeguay/gualeguay/chunklist_w1633951586.m3u8
+https://stream.arcast.host:8443/gualeguay/gualeguay/chunklist_w1280904504.m3u8
 
 #EXTINF:31,group-title="Entre_Rios",Canal 5 Colonia Avellaneda Entre Rios
 #EXTVLCOPT:network-caching=10000
@@ -18,7 +18,7 @@ https://ythls.onrender.com/channel/UCgj6Vesuxfr_fVEp-rG5sxQ.m3u8
 
 #EXTINF:31,group-title="Entre_Rios",Canal 9 Litoral Entre Rios
 #EXTVLCOPT:network-caching=10000
-https://stream.arcast.live/ahora/ahora/chunklist_w1616138585.m3u8
+https://stream.arcast.live/canal9litoral/ngrp:canal9litoral_all/chunklist_w1017635116_b1430528.m3u8
 
 #EXTINF:31,group-title="Entre_Rios",ItelTV Chajari Entre Rios
 #EXTVLCOPT:network-caching=10000
