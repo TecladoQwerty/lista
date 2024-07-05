@@ -1,9 +1,5 @@
 #EXTM3U
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0123456789abcdef0123456789abcdef:fedcba9876543210fedcba9876543210
-#EXTINF:-1 tvg-logo="https://dominio1.com/logos/canal1.png" group-title="Noticias",Canal 1
-https://chrome.google.com/webstore/detail/opmeopcambhfimffbomjgemehjkbbmji
 
 #EXTINF:31,group-title="Entre_Rios",RemansoTV
 #EXTVLCOPT:network-caching=10000
