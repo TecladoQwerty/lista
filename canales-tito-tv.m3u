@@ -3,7 +3,7 @@
 
 #EXTINF:31,group-title="Entre_Rios",RemansoTV
 #EXTVLCOPT:network-caching=10000
-https://stmvideo3.livecastv.com/remansotv/remansotv/chunklist_w1531870396.m3u8
+https://stmv5.livecastv.com/remansotv/remansotv/chunklist_w447208573.m3u8
 
 #EXTINF:31,group-title="Entre_Rios",Canal 2 Gualeguay Entre Rios
 #EXTVLCOPT:network-caching=10000
@@ -11,15 +11,15 @@ https://stream.arcast.host:8443/gualeguay/gualeguay/chunklist_w1280904504.m3u8
 
 #EXTINF:31,group-title="Entre_Rios",Canal 5 Colonia Avellaneda Entre Rios
 #EXTVLCOPT:network-caching=10000
-https://srv3.zcast.com.br/carlosr/carlosr/chunklist_w1101071630.m3u8
+#https://srv3.zcast.com.br/carlosr/carlosr/chunklist_w1101071630.m3u8
 
 #EXTINF:31,group-title="Entre_Rios",Canal 6 Entre Rios
 #EXTVLCOPT:network-caching=10000
-https://ythls.onrender.com/channel/UCgj6Vesuxfr_fVEp-rG5sxQ.m3u8
+https://www.youtube.com/watch?v=B2mjTgXEBqc
 
 #EXTINF:31,group-title="Entre_Rios",Canal 9 Litoral Entre Rios
 #EXTVLCOPT:network-caching=10000
-https://stream.arcast.live/canal9litoral/ngrp:canal9litoral_all/chunklist_w1017635116_b1430528.m3u8
+https://stream.arcast.live/ahora/ahora/playlist.m3u8
 
 #EXTINF:31,group-title="Entre_Rios",ItelTV Chajari Entre Rios
 #EXTVLCOPT:network-caching=10000
@@ -27,27 +27,27 @@ http://66.128.32.245/output/iteltv/track_2_4500/playlist.m3u8
 
 #EXTINF:31,group-title="Entre_Rios",FM 103.1 Litoral
 #EXTVLCOPT:network-caching=10000
-https://stmv1.srvstm.com/litoral2/litoral2/playlist.m3u8
+https://cs1.xcast.com.br/7798/7798/chunklist_w1062943464.m3u8
 
 #EXTINF:31,group-title="Entre_Rios",Canal de las Aldeas Alemanas FM Brasilera Entre Rios
 #EXTVLCOPT:network-caching=10000
-https://stmv1.srvstm.com/brasil/brasil/playlist.m3u8
+#https://stmv1.srvstm.com/brasil/brasil/playlist.m3u8
 
 #EXTINF:31,group-title="Entre_Rios",FM Brisas Santa Elena Entre Rios
 #EXTVLCOPT:network-caching=10000
-https://server7.hostradios.com/8072/stream
+#https://server7.hostradios.com/8072/stream
 
 #EXTINF:31,group-title="Entre_Rios",FM Sol Santa Elena Entre Rios
 #EXTVLCOPT:network-caching=10000
-https://ssl.xcast.com.br:7480/;
+#https://ssl.xcast.com.br:7480/;
 
 #EXTINF:31,group-title="Entre_Rios",FM Municipal Hasenkamp Entre Rios
 #EXTVLCOPT:network-caching=10000
-https://5cbda9ff89c34.streamlock.net/fmhasenkamp/fmhasenkamp.stream/chunklist_w642270655.m3u8
+#https://5cbda9ff89c34.streamlock.net/fmhasenkamp/fmhasenkamp.stream/chunklist_w642270655.m3u8
 
 #EXTINF:31,group-title="Entre_Rios",FM Nuevo Sol Hernandarias Entre Rios
 #EXTVLCOPT:network-caching=10000
-http://node-07.zeno.fm/bnhvyvxn64zuv?zs=52xm2PmHQweRiJNWGRLEeg&rj-tok=AAABf35jabcA1NGjUxsMMc0waw&rj-ttl=5
+#http://node-07.zeno.fm/bnhvyvxn64zuv?zs=52xm2PmHQweRiJNWGRLEeg&rj-tok=AAABf35jabcA1NGjUxsMMc0waw&rj-ttl=5
 
 #EXTINF:31,group-title="Entre_Rios",FM 92.1 Radio Municipal Piedras Blancas
 #EXTVLCOPT:network-caching=10000
