@@ -11,7 +11,7 @@ https://stream.arcast.host:8443/gualeguay/gualeguay/chunklist_w1280904504.m3u8
 
 #EXTINF:31,group-title="Entre_Rios",Canal 5 Colonia Avellaneda Entre Rios
 #EXTVLCOPT:network-caching=10000
-#https://srv3.zcast.com.br/carlosr/carlosr/chunklist_w1101071630.m3u8
+#--------#https://srv3.zcast.com.br/carlosr/carlosr/chunklist_w1101071630.m3u8
 
 #EXTINF:31,group-title="Entre_Rios",Canal 6 Entre Rios
 #EXTVLCOPT:network-caching=10000
@@ -31,27 +31,27 @@ https://cs1.xcast.com.br/7798/7798/chunklist_w1062943464.m3u8
 
 #EXTINF:31,group-title="Entre_Rios",Canal de las Aldeas Alemanas FM Brasilera Entre Rios
 #EXTVLCOPT:network-caching=10000
-#https://stmv1.srvstm.com/brasil/brasil/playlist.m3u8
+#--------#https://stmv1.srvstm.com/brasil/brasil/playlist.m3u8
 
 #EXTINF:31,group-title="Entre_Rios",FM Brisas Santa Elena Entre Rios
 #EXTVLCOPT:network-caching=10000
-#https://server7.hostradios.com/8072/stream
+#--------#https://server7.hostradios.com/8072/stream
 
 #EXTINF:31,group-title="Entre_Rios",FM Sol Santa Elena Entre Rios
 #EXTVLCOPT:network-caching=10000
-#https://ssl.xcast.com.br:7480/;
+#--------#https://ssl.xcast.com.br:7480/;
 
 #EXTINF:31,group-title="Entre_Rios",FM Municipal Hasenkamp Entre Rios
 #EXTVLCOPT:network-caching=10000
-#https://5cbda9ff89c34.streamlock.net/fmhasenkamp/fmhasenkamp.stream/chunklist_w642270655.m3u8
+#--------#https://5cbda9ff89c34.streamlock.net/fmhasenkamp/fmhasenkamp.stream/chunklist_w642270655.m3u8
 
 #EXTINF:31,group-title="Entre_Rios",FM Nuevo Sol Hernandarias Entre Rios
 #EXTVLCOPT:network-caching=10000
-#http://node-07.zeno.fm/bnhvyvxn64zuv?zs=52xm2PmHQweRiJNWGRLEeg&rj-tok=AAABf35jabcA1NGjUxsMMc0waw&rj-ttl=5
+#--------#http://node-07.zeno.fm/bnhvyvxn64zuv?zs=52xm2PmHQweRiJNWGRLEeg&rj-tok=AAABf35jabcA1NGjUxsMMc0waw&rj-ttl=5
 
 #EXTINF:31,group-title="Entre_Rios",FM 92.1 Radio Municipal Piedras Blancas
 #EXTVLCOPT:network-caching=10000
-https://sonic.host-live.com/8072/stream 
+#--------#https://sonic.host-live.com/8072/stream 
 
 
 
@@ -62,15 +62,15 @@ https://sonic.host-live.com/8072/stream
 
 #EXTINF:31,group-title="Nacionales_y_AMBA", Cine Ar Buenos Aires
 #EXTVLCOPT:network-caching=10000
-https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
+#--------#https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 
 #EXTINF:31,group-title="Nacionales_y_AMBA", Depor TV Buenos Aires
 #EXTVLCOPT:network-caching=10000
-https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
+#--------#https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 
 #EXTINF:31,group-title="Nacionales_y_AMBA", El 9 Buenos Aires
 #EXTVLCOPT:network-caching=10000
-https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CqsFGD9Q33ywPuYv705LNfiO3ZGIUpM-ZSrVdHVGgMvLhw67X_K1x1litpd-1afYSUVUpvdKBZxV6foaPG8ECbq4qZaOsa8eWuf7v2ntfJTCxLBXmUP4G3d3TOOk2jGb4c5A5DlBhCzmrhv5t8oqdyZsSphthE6opchVklq2TCDdJnytius7Kz1_kEanJYzHT97rStmVegzwWcP8wC0xxC2EymLMETyvLEPsM652ON0s9JqUAL61obiL3IPBPhqs7tpzT2K7dHeT5ifP5sZld8QnnKBwFhqw91Wcf53jon6c4zWTEd7Tjvdk8DItyQCxq6Ml02CBnA7x_tCAdzQsP1bzOXjiLUN4YKxO0J_Gsrn-cjS5ANnwGMtOF_EYVU_vkpZQXu1SUW2bbXEdR9Hp1QbCMLRuf6taFjx7JboFvp1b7gJsubGcK4ShhXQrrwOG3FTeTRCcLEQ9hcRj-Are7EHyeBBirlbRRzQXlfny6jen1XVe5lLjJeEicGvcng2X7UCKtXliffUOYeCMXqjgWYO6mWZ6bT-xyGLQthaENciMi8v1BSFZy3dEPCs5Q3N-TOHkPAw3djdkXxWfIE1_MOxy2BqcM0nn_K_EPTCYiQfY-Q3miEIW2JpzSw6Q91mPk6qgDLa3u8BGsIbF66i0s32O0OxhTcVFjgEiiFAx0IfrZJcYYt07eVBzQaVKXpoHH5uABms9O32bA1WjSNqY-echd5TCJvGvH8Zm2hlYEkJU8UX65fPA2cmLB-ViudeIFsL6vRJDIqVy-HPizn29hHPZrUji_XNsGg2krba0TiXupH-05INKr0gWr6yaedg157uugOiUPCfvBg0fkNPn-FBd5Pgonf7spoNXTGONlCvvllrBSL_2BujLP92vJ5hp2PDzP1ZkKf3mQcpmFWMaDAGld197vJ5c-tSi9iABKgl1cy1lYXN0LTIwwwg.m3u8
+#--------#https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CqsFGD9Q33ywPuYv705LNfiO3ZGIUpM-ZSrVdHVGgMvLhw67X_K1x1litpd-1afYSUVUpvdKBZxV6foaPG8ECbq4qZaOsa8eWuf7v2ntfJTCxLBXmUP4G3d3TOOk2jGb4c5A5DlBhCzmrhv5t8oqdyZsSphthE6opchVklq2TCDdJnytius7Kz1_kEanJYzHT97rStmVegzwWcP8wC0xxC2EymLMETyvLEPsM652ON0s9JqUAL61obiL3IPBPhqs7tpzT2K7dHeT5ifP5sZld8QnnKBwFhqw91Wcf53jon6c4zWTEd7Tjvdk8DItyQCxq6Ml02CBnA7x_tCAdzQsP1bzOXjiLUN4YKxO0J_Gsrn-cjS5ANnwGMtOF_EYVU_vkpZQXu1SUW2bbXEdR9Hp1QbCMLRuf6taFjx7JboFvp1b7gJsubGcK4ShhXQrrwOG3FTeTRCcLEQ9hcRj-Are7EHyeBBirlbRRzQXlfny6jen1XVe5lLjJeEicGvcng2X7UCKtXliffUOYeCMXqjgWYO6mWZ6bT-xyGLQthaENciMi8v1BSFZy3dEPCs5Q3N-TOHkPAw3djdkXxWfIE1_MOxy2BqcM0nn_K_EPTCYiQfY-Q3miEIW2JpzSw6Q91mPk6qgDLa3u8BGsIbF66i0s32O0OxhTcVFjgEiiFAx0IfrZJcYYt07eVBzQaVKXpoHH5uABms9O32bA1WjSNqY-echd5TCJvGvH8Zm2hlYEkJU8UX65fPA2cmLB-ViudeIFsL6vRJDIqVy-HPizn29hHPZrUji_XNsGg2krba0TiXupH-05INKr0gWr6yaedg157uugOiUPCfvBg0fkNPn-FBd5Pgonf7spoNXTGONlCvvllrBSL_2BujLP92vJ5hp2PDzP1ZkKf3mQcpmFWMaDAGld197vJ5c-tSi9iABKgl1cy1lYXN0LTIwwwg.m3u8
 
 #EXTINF:31,group-title="Nacionales_y_AMBA", El Trece Buenos Aires
 #EXTVLCOPT:network-caching=10000
@@ -78,15 +78,15 @@ https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
 #EXTINF:31,group-title="Nacionales_y_AMBA", Encuentro Buenos Aires
 #EXTVLCOPT:network-caching=10000
-https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/.m3u8
+#--------#https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/.m3u8
 
 #EXTINF:31,group-title="Nacionales_y_AMBA", Tv Publica Buenos Aires
 #EXTVLCOPT:network-caching=10000
-https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
+#--------#https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
 
 #EXTINF:31,group-title="Nacionales_y_AMBA", Telefe Internacional Buenos Aires
 #EXTVLCOPT:network-caching=10000
-https://siloh-mcdn.plutotv.net/lilo/production/TelefePluto/master.m3u8
+#--------#https://siloh-mcdn.plutotv.net/lilo/production/TelefePluto/master.m3u8
 
 #EXTINF:31,group-title="Nacionales_y_AMBA", NET TV Buenos Aires CABA
 #EXTVLCOPT:network-caching=10000
@@ -94,15 +94,15 @@ https://unlimited6-cl.dps.live/nettv/nettv.smil/playlist.m3u8
 
 #EXTINF:31,group-title="Nacionales_y_AMBA", Gen TV Buenos Aires CABA
 #EXTVLCOPT:network-caching=10000
-https://inliveserver.com:1936/14056/14056/playlist.m3u8
+#--------#https://inliveserver.com:1936/14056/14056/playlist.m3u8
 
 #EXTINF:31,group-title="Nacionales_y_AMBA", A24 Buenos Aires
 #EXTVLCOPT:network-caching=10000
-https://ythls.armelin.one/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
+#--------#https://ythls.armelin.one/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
 
 #EXTINF:31,group-title="Nacionales_y_AMBA", TN
 #EXTVLCOPT:network-caching=10000
-https://ythls.onrender.com/channel/UCj6PcyLvpnIRT_2W_mwa9Aw.m3u8
+#--------#https://ythls.onrender.com/channel/UCj6PcyLvpnIRT_2W_mwa9Aw.m3u8
 
 #EXTINF:31,group-title="Nacionales_y_AMBA", Argentinisima Satelital Buenos Aires
 #EXTVLCOPT:network-caching=10000
