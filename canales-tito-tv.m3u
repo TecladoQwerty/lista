@@ -249,7 +249,7 @@ http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
 
 #EXTINF:31,group-title="Corrientes", Telenord Corrientes
 #EXTVLCOPT:network-caching=10000
-http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8
+#--------#http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8
 
 
 
@@ -275,7 +275,7 @@ https://5b7ecefab6325.streamlock.net/Streamtv/chacotv/playlist.m3u8
 
 #EXTINF:31,group-title="Chubut", Canal 12 Web Chubut
 #EXTVLCOPT:network-caching=10000
-https://5f700d5b2c46f.streamlock.net/madryntv/madryntv/playlist.m3u8
+https://nd106.republicaservers.com:4433/c7827.mp4
 
 
 
@@ -334,7 +334,7 @@ https://5f700d5b2c46f.streamlock.net/madryntv/madryntv/playlist.m3u8
 
 #EXTINF:31,group-title="Jujuy", Canal 7 Jujuy
 #EXTVLCOPT:network-caching=10000
-https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
+#--------#https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
 
 
 
@@ -581,30 +581,6 @@ https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8
 #EXTINF:31,group-title="Internacionales", Teleamazonas  Peru
 #EXTVLCOPT:network-caching=10000
 #--------#https://live.tvcontrolcp.com:1936/8054/8054/playlist.m3u8
-
-#EXTINF:31,group-title="Internacionales", AgroTV  Peru
-#EXTVLCOPT:network-caching=10000
-https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
-
-#EXTINF:31,group-title="Internacionales", Telesur Mollendo  Peru
-#EXTVLCOPT:network-caching=10000
-https://1667517699.rsc.cdn77.org/hls/mollendo.m3u8
-
-#EXTINF:31,group-title="Internacionales", Telesur Camana  Peru
-#EXTVLCOPT:network-caching=10000
-https://1667517699.rsc.cdn77.org/hls/camana.m3u8
-
-#EXTINF:31,group-title="Internacionales",Chincha TV  Peru
-#EXTVLCOPT:network-caching=10000
-#--------#https://tvdatta.com:3548/live/chinchatvlive.m3u8
-
-#EXTINF:31,group-title="Internacionales",Telesur Ilo [NO 24/7]  Peru
-#EXTVLCOPT:network-caching=10000
-https://1667517699.rsc.cdn77.org/hls/ilo.m3u8
-
-#EXTINF:31,group-title="Internacionales",Telesur Moquegua [NO 24/7]  Peru
-#EXTVLCOPT:network-caching=10000
-https://1667517699.rsc.cdn77.org/hls/moquegua.m3u8
 
 #EXTINF:31,group-title="Internacionales",RT en Español  Rusia
 #EXTVLCOPT:network-caching=10000
