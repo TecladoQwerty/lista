@@ -76,7 +76,7 @@ http://181.78.8.199:8000/play/a0cu/index.m3u8
 #EXTVLCOPT:network-caching=10000
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/10.m3u8
 
-#EXTINF:31 tvg-language="Spanish" audio-track="es",group-title="CABLE", Cinemax
+#EXTINF:31 tvg-language="Spanish" audio-track="aac spa a2 - [Español]",group-title="CABLE", Cinemax
 #EXTVLCOPT:network-caching=10000
 https://streaming.onnethn.com/CINEMAX/playlist.m3u8
 
