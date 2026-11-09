@@ -87,7 +87,12 @@ http://138.59.227.20:8000/play/a085/index.m3u8
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1552.m3u8
 
 #EXTINF:31,group-title="CABLE_Deportes", ESPN 5
+#EXTVLCOPT:network-caching=10000
 http://181.78.12.119:16123/play/ch19/index.m3u8
+
+#EXTINF:31,group-title="CABLE_Deportes", Red Bull Tv Es
+#EXTVLCOPT:network-caching=10000
+https://886bd3fbc782459f8de7555d32d7e9ce.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-957-WORBLATAMESFAST-WHALETVPLUS/957/whaletvplus/hls/master/playlist.m3u8
 
 
 
@@ -232,6 +237,10 @@ http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/37.m3u8
 #EXTVLCOPT:network-caching=10000
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/37.m3u8
 
+#EXTINF:31,group-title="CABLE_Documentales/Reality", Smithsonian Channel PlutoTV Latam
+#EXTVLCOPT:network-caching=10000
+https://jmp2.uk/plu-63a084934734f30007457b2c.m3u8
+
 
 
 
@@ -254,10 +263,6 @@ http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/37.m3u8
 #EXTVLCOPT:network-caching=10000
 http://158.172.155.130:8000/play/a09y/index.m3u8
 
-#EXTINF:31,group-title="Nacionales_y_AMBA", El 9 Buenos Aires
-#EXTVLCOPT:network-caching=10000
-#--------#https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CqsFGD9Q33ywPuYv705LNfiO3ZGIUpM-ZSrVdHVGgMvLhw67X_K1x1litpd-1afYSUVUpvdKBZxV6foaPG8ECbq4qZaOsa8eWuf7v2ntfJTCxLBXmUP4G3d3TOOk2jGb4c5A5DlBhCzmrhv5t8oqdyZsSphthE6opchVklq2TCDdJnytius7Kz1_kEanJYzHT97rStmVegzwWcP8wC0xxC2EymLMETyvLEPsM652ON0s9JqUAL61obiL3IPBPhqs7tpzT2K7dHeT5ifP5sZld8QnnKBwFhqw91Wcf53jon6c4zWTEd7Tjvdk8DItyQCxq6Ml02CBnA7x_tCAdzQsP1bzOXjiLUN4YKxO0J_Gsrn-cjS5ANnwGMtOF_EYVU_vkpZQXu1SUW2bbXEdR9Hp1QbCMLRuf6taFjx7JboFvp1b7gJsubGcK4ShhXQrrwOG3FTeTRCcLEQ9hcRj-Are7EHyeBBirlbRRzQXlfny6jen1XVe5lLjJeEicGvcng2X7UCKtXliffUOYeCMXqjgWYO6mWZ6bT-xyGLQthaENciMi8v1BSFZy3dEPCs5Q3N-TOHkPAw3djdkXxWfIE1_MOxy2BqcM0nn_K_EPTCYiQfY-Q3miEIW2JpzSw6Q91mPk6qgDLa3u8BGsIbF66i0s32O0OxhTcVFjgEiiFAx0IfrZJcYYt07eVBzQaVKXpoHH5uABms9O32bA1WjSNqY-echd5TCJvGvH8Zm2hlYEkJU8UX65fPA2cmLB-ViudeIFsL6vRJDIqVy-HPizn29hHPZrUji_XNsGg2krba0TiXupH-05INKr0gWr6yaedg157uugOiUPCfvBg0fkNPn-FBd5Pgonf7spoNXTGONlCvvllrBSL_2BujLP92vJ5hp2PDzP1ZkKf3mQcpmFWMaDAGld197vJ5c-tSi9iABKgl1cy1lYXN0LTIwwwg.m3u8
-
 #EXTINF:31,group-title="Nacionales_y_AMBA", El Trece Buenos Aires
 #EXTVLCOPT:network-caching=10000
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
@@ -265,10 +270,6 @@ https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:31,group-title="Nacionales_y_AMBA", Encuentro Buenos Aires
 #EXTVLCOPT:network-caching=10000
 http://138.59.227.20:8000/play/a05s/index.m3u8
-
-#EXTINF:31,group-title="Nacionales_y_AMBA", Tv Publica Buenos Aires
-#EXTVLCOPT:network-caching=10000
-#--------#https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
 
 #EXTINF:31,group-title="Nacionales_y_AMBA", Telefe
 http://45.173.231.22:8000/play/a053/index.m3u8
@@ -305,10 +306,6 @@ http://158.172.155.130:8000/play/a0dp/index.m3u8
 #EXTVLCOPT:network-caching=10000
 https://stream1.sersat.com/hls/argentinisima.m3u8
 
-#EXTINF:31,group-title="Nacionales_y_AMBA", 13 Max Digital Buenos Aires
-#EXTVLCOPT:network-caching=10000
-#--------#http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/playlist.m3u8
-
 #EXTINF:31,group-title="Nacionales_y_AMBA", Bayres TV Buenos Aires CABA
 #EXTVLCOPT:network-caching=10000
 https://streaming01.mikrolive.tv/bayrestv/live/playlist.m3u8
@@ -321,108 +318,26 @@ https://vivo.solumedia.com:19360/bvnet/bvnet.m3u8
 #EXTVLCOPT:network-caching=10000
 http://intelincloud01.com.ar/hls/cn3/index.m3u8
 
-#EXTINF:31,group-title="Nacionales_y_AMBA", Canal 6 Buenos Aires Mar del Plata
-#EXTVLCOPT:network-caching=10000
-#--------#https://panel.dattalive.com/8166/8166/playlist.m3u8
-
-#EXTINF:31,group-title="Nacionales_y_AMBA", Canal 6 Buenos Aires Moreno
-#EXTVLCOPT:network-caching=10000
-#--------#https://stream.arcast.com.ar/canal6moreno/canal6moreno/playlist.m3u8
-
 #EXTINF:31,group-title="Nacionales_y_AMBA", Celta TV Buenos Aires Tres Arroyos
 #EXTVLCOPT:network-caching=10000
 https://vivo.solumedia.com:19360/celta/celta.m3u8
-
-#EXTINF:31,group-title="Nacionales_y_AMBA", Chacra TV Buenos Aires
-#EXTVLCOPT:network-caching=10000
-#--------#https://s8.stweb.tv/chacra/live/playlist.m3u8
-
-#EXTINF:31,group-title="Nacionales_y_AMBA", Cinco TV Buenos Aires Tigre
-#EXTVLCOPT:network-caching=10000
-#--------#https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
-
-#EXTINF:31,group-title="Nacionales_y_AMBA", El Histonauta Buenos Aires
-#EXTVLCOPT:network-caching=10000
-#--------#https://stmv1.cnarlatam.com/elhistonauta/elhistonauta/playlist.m3u8
-
-#EXTINF:31,group-title="Nacionales_y_AMBA", IP TV Buenos Aires
-#EXTVLCOPT:network-caching=10000
-#--------#https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8
 
 #EXTINF:31,group-title="Nacionales_y_AMBA", Neo TV Buenos Aires Varela
 #EXTVLCOPT:network-caching=10000
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
-#EXTINF:31,group-title="Nacionales_y_AMBA", TEC TV Buenos Aires
-#EXTVLCOPT:network-caching=10000
-#--------#https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8
-
 #EXTINF:31,group-title="Nacionales_y_AMBA", Tele Junin Buenos Aires
 #EXTVLCOPT:network-caching=10000
 https://videostream.shockmedia.com.ar:19360/telejunin/telejunin.m3u8
-
-#EXTINF:31,group-title="Nacionales_y_AMBA", Canal 22 Buenos Aires CABA
-#EXTVLCOPT:network-caching=10000
-#--------#https://5f700d5b2c46f.streamlock.net/canal22/canal22/playlist.m3u8
 
 #EXTINF:31,group-title="Nacionales_y_AMBA", Canal 26 Buenos Aires
 #EXTVLCOPT:network-caching=10000
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 
-#EXTINF:31,group-title="Nacionales_y_AMBA", Canal 4 Buenos Aires Balcarce
-#EXTVLCOPT:network-caching=10000
-#--------#https://stmvideo2.livecastv.com/canal4/canal4/playlist.m3u8
-
-#EXTINF:31,group-title="Nacionales_y_AMBA", Canal 8 Buenos Aires Mar del Plata
-#EXTVLCOPT:network-caching=10000
-#--------#https://stream.arcast.com.ar/c8mdp/ngrp:c8mdp_all/playlist.m3u8
-
-#EXTINF:31,group-title="Nacionales_y_AMBA", XFN Buenos Aires Mar del Plata
-#EXTVLCOPT:network-caching=10000
-#--------#https://streamconex.com:1936/canalxfn/canalxfn/playlist.m3u8
 
 #EXTINF:31,group-title="Nacionales_y_AMBA", Xtrema Accion
 #EXTVLCOPT:network-caching=10000
 https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
-
-#EXTINF:31,group-title="Nacionales_y_AMBA", Xtrema Animal
-#EXTVLCOPT:network-caching=10000
-#--------#https://stmv1.cnarlatam.com/xtremaanimal/xtremaanimal/playlist.m3u8
-
-#EXTINF:31,group-title="Nacionales_y_AMBA", Xtrema Comedia
-#EXTVLCOPT:network-caching=10000
-#--------#https://stmv1.cnarlatam.com/cinecomedia/cinecomedia/playlist.m3u8
-
-#EXTINF:31,group-title="Nacionales_y_AMBA", Xtrema Drama
-#EXTVLCOPT:network-caching=10000
-#--------#https://stmv1.cnarlatam.com/cinedrama/cinedrama/playlist.m3u8
-
-#EXTINF:31,group-title="Nacionales_y_AMBA", Xtrema Family
-#EXTVLCOPT:network-caching=10000
-#--------#https://stmv1.cnarlatam.com/cinefamiliy/cinefamiliy/playlist.m3u8
-
-#EXTINF:31,group-title="Nacionales_y_AMBA", Xtrema Latina
-#EXTVLCOPT:network-caching=10000
-#--------#https://stmv1.cnarlatam.com/cinelatino/cinelatino/playlist.m3u8
-
-#EXTINF:31,group-title="Nacionales_y_AMBA", Xtrema Retro Series
-#EXTVLCOPT:network-caching=10000
-#--------#https://stmv1.cnarlatam.com/xtremaretroseries/xtremaretroseries/playlist.m3u8
-
-#EXTINF:31,group-title="Nacionales_y_AMBA", Xtrema Series
-#EXTVLCOPT:network-caching=10000
-#--------#https://stmv1.cnarlatam.com/xtremaseries/xtremaseries/playlist.m3u8
-
-#EXTINF:31,group-title="Nacionales_y_AMBA", Xtrema Suspenso
-#EXTVLCOPT:network-caching=10000
-#--------#https://stmv1.cnarlatam.com/cinesuspenso/cinesuspenso/playlist.m3u8
-
-#EXTINF:31,group-title="Nacionales_y_AMBA", Xtrema Terror
-#EXTVLCOPT:network-caching=10000
-#--------#https://stmv1.cnarlatam.com/cineterror/cineterror/playlist.m3u8
-
-
-
 
 
 
@@ -446,17 +361,21 @@ http://186.148.196.100:8000/play/a02z
 #EXTVLCOPT:network-caching=10000
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_00s/SA_LIVE_hls_enc/master.m3u8
 
+#EXTINF:31,group-title="Musica", RumbaMix Tv
+#EXTVLCOPT:network-caching=10000
+https://live-evg5.tv360.bitel.com.pe/bitel/mixtvSRT/playlist.m3u8
+
+#EXTINF:31,group-title="Musica", Retromusica Television
+#EXTVLCOPT:network-caching=10000
+https://vdochile.com:3864/stream/play.m3u8
+
+
+
 
 
 #EXTINF:31,group-title="Corrientes", Canal 5 Corrientes
 #EXTVLCOPT:network-caching=10000
 http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
-
-#EXTINF:31,group-title="Corrientes", Telenord Corrientes
-#EXTVLCOPT:network-caching=10000
-#--------#http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8
-
-
 
 
 
@@ -489,62 +408,6 @@ https://nd106.republicaservers.com:4433/c7827.mp4
 
 
 
-#EXTINF:31,group-title="Cordoba", Canal 10 Cordoba
-#EXTVLCOPT:network-caching=10000
-#--------#https://stream.arcast.live/canal10/ngrp:canal10_all/playlist.m3u8
-
-#EXTINF:31,group-title="Cordoba", Canal 20 Cordoba Villa Maria
-#EXTVLCOPT:network-caching=10000
-#--------#https://cronos.aldeaglobal.net.ar/hls/canal20.m3u8
-
-#EXTINF:31,group-title="Cordoba", Canal 4 Cordoba Morteros
-#EXTVLCOPT:network-caching=10000
-#--------#https://coopmorteros.online/canal50/vivo.m3u8
-
-#EXTINF:31,group-title="Cordoba", Canal 9 Cordoba Rio Cuarto
-#EXTVLCOPT:network-caching=10000
-#--------#ttps://streamcasthd.com:1936/canal9riocuartotv/canal9riocuartotv/playlist.m3u8
-
-#EXTINF:31,group-title="Cordoba", Canal Coop Cordoba
-#EXTVLCOPT:network-caching=10000
-#--------#https://panel.dattalive.com/8138/8138/playlist.m3u8
-
-#EXTINF:31,group-title="Cordoba", Telefe Cordoba
-#EXTVLCOPT:network-caching=10000
-#--------#https://ythls.onrender.com/channel/UC3OQ66wEJaOPHK25IBdWR_g.m3u8
-
-
-
-
-
-
-#EXTINF:31,group-title="Formosa", Canal 3 Formosa
-#EXTVLCOPT:network-caching=10000
-#--------#https://stmvideo2.livecastv.com/agenfor/agenfor/playlist.m3u8
-
-
-
-
-
-
-
-
-#EXTINF:31,group-title="Jujuy", Canal 13 Jujuy
-#EXTVLCOPT:network-caching=10000
-#--------#https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8
-
-#EXTINF:31,group-title="Jujuy", Canal 2 Jujuy
-#EXTVLCOPT:network-caching=10000
-#--------#https://api.new.livestream.com/accounts/679322/events/3782013/live.m3u8
-
-#EXTINF:31,group-title="Jujuy", Canal 7 Jujuy
-#EXTVLCOPT:network-caching=10000
-#--------#https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
-
-
-
-
-
 
 
 
@@ -559,81 +422,29 @@ https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8
 
 
 
-#EXTINF:31,group-title="La_Rioja", Canal 9 La Rioja
-#EXTVLCOPT:network-caching=10000
-#--------#https://inliveserver.com:1936/17012/17012/playlist.m3u8
-
 #EXTINF:31,group-title="La_Rioja", Canal 13 La Rioja
 #EXTVLCOPT:network-caching=10000
 http://arcast.net:1935/mp/mp/playlist.m3u8
 
-#EXTINF:31,group-title="La_Rioja", Fenix TV La Rioja
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:31,group-title="Neuquen", RTN (Argentina) Neuquen
 #EXTVLCOPT:network-caching=10000
-#--------#https://stmv1.questreaming.com/fenixlarioja/fenixlarioja/playlist.m3u8
+https://media.neuquen.gov.ar/rtn/television/media.m3u8
 
-
-
-
-
-
-
-
-#EXTINF:31,group-title="Mendoza", Canal 3 Mendoza Las Heras
+#EXTINF:31,group-title="Neuquen", Senillosa Tv Neuquen
 #EXTVLCOPT:network-caching=10000
-#--------#https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8
-
-
-
-
-
-
-
-
-#EXTINF:31,group-title="Misiones", Canal 21 Misiones Posadas
-#EXTVLCOPT:network-caching=10000
-#--------#https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
-
-#EXTINF:31,group-title="Misiones", Canal 2 Misiones
-#EXTVLCOPT:network-caching=10000
-https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8
-
-#EXTINF:31,group-title="Misiones", Canal 4 Misiones El Dorado
-#EXTVLCOPT:network-caching=10000
-#--------#https://stream.arcast.com.ar/canal4eldorado/canal4eldorado/playlist.m3u8
-
-#EXTINF:31,group-title="Misiones", Canal 4 Misiones Posadas
-#EXTVLCOPT:network-caching=10000
-#--------#https://iptv.ixfo.com.ar:30443/live/C4POS/playlist.m3u8
-
-#EXTINF:31,group-title="Misiones", Canal 6 Misiones Posadas
-#EXTVLCOPT:network-caching=10000
-#--------#https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8
-
-
-
-
-
-
-
-
-#EXTINF:31,group-title="Neuquen", Canal 10 Neuquen
-#EXTVLCOPT:network-caching=10000
-#--------#https://stmv1.srvstm.com/tv10/tv10/playlist.m3u8
-
-
-
-
-
-
-
-
-#EXTINF:31,group-title="Salta", Canal 10 Nortevision Salta
-#EXTVLCOPT:network-caching=10000
-#--------#https://vivo.solumedia.com:19360/nortevision/nortevision.m3u8
-
-#EXTINF:31,group-title="Salta", Telefe Salta
-#EXTVLCOPT:network-caching=10000
-#--------#https://ythls.onrender.com/channel/UCy-r-BQ5BQRU6rzGS73-WBQ.m3u8
+https://player.videohost.click/senillosatv/senillosatv/playlist.m3u8
 
 
 
@@ -656,49 +467,9 @@ https://cdn1.tvlin.net/open/telesol/playlist.m3u8
 
 
 
-
-#EXTINF:31,group-title="San_Luis", Canal 13 San Luis
-#EXTVLCOPT:network-caching=10000
-#--------#https://stream.arcast.live/sanluistv/ngrp:sanluistv_all/playlist.m3u8
-
-
-
-
-
-
-
-
-#EXTINF:31,group-title="Santa_Cruz", Canal 5 Santa Cruz Pico Truncado
-#EXTVLCOPT:network-caching=10000
-#--------#https://stream.arcast.com.ar/canal5picotruncado/canal5picotruncado/playlist.m3u8
-
-
-
-
-
-
-
-
 #EXTINF:31,group-title="Santa_Fe",Aire de Santa Fe
 #EXTVLCOPT:network-caching=10000
 https://unlimited1-us.dps.live/airedesantafetv/airedesantafetv.smil/playlist.m3u8
-
-#EXTINF:31,group-title="Santa_Fe", Canal 3 Santa Fe Rosario
-#EXTVLCOPT:network-caching=10000
-#--------#https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/playlist.m3u8
-
-#EXTINF:31,group-title="Santa_Fe", Canal TDC Santa Fe
-#EXTVLCOPT:network-caching=10000
-#--------#https://5e7cdf2370883.streamlock.net/tdconline/tdconline/playlist.m3u8
-
-#EXTINF:31,group-title="Santa_Fe", Telefe Santa Fe
-#EXTVLCOPT:network-caching=10000
-#--------#https://ythls.onrender.com/channel/UCOkh97CpojxaoUris4jkiRQ.m3u8
-
-#EXTINF:31,group-title="Santa_Fe", Telefe Rosario
-#EXTVLCOPT:network-caching=10000
-#--------#https://ythls.onrender.com/channel/UCPr0HEFKN8wtDIfcPsVB10Q.m3u8
-
 
 
 
@@ -716,16 +487,6 @@ https://stream.arcast.com.ar/envivo/castv/playlist.m3u8
 
 
 
-#EXTINF:31,group-title="Tucuman",America Tucuman
-#EXTVLCOPT:network-caching=10000
-#--------#https://ythls.onrender.com/channel/UCZ8sgVyD7HqDor8ujB-TZpg.m3u8
-
-#EXTINF:31,group-title="Tucuman",Cadena VIVO Tucuman
-#EXTVLCOPT:network-caching=10000
-#--------#https://stmv1.voxtvhd.com.br/cadenavivo/cadenavivo/playlist.m3u8
-
-
-
 
 
 
@@ -735,9 +496,13 @@ https://stream.arcast.com.ar/envivo/castv/playlist.m3u8
 #EXTVLCOPT:network-caching=10000
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
-#EXTINF:31,group-title="Internacionales", SEO TV Peliculas  BOLIVIA
+#EXTINF:31,group-title="Internacionales", Red America Tv  BOLIVIA
 #EXTVLCOPT:network-caching=10000
-#--------#https://live.seo.tv.bo/live/4SEO.m3u8
+https://edge.enhdtv.com/redamerica/index.m3u8
+
+#EXTINF:31,group-title="Internacionales", Red Rubi  BOLIVIA
+#EXTVLCOPT:network-caching=10000
+https://59d39900ebfb8.streamlock.net/asiesmipueblo/asiesmipueblo/playlist.m3u8
 
 #EXTINF:31,group-title="Internacionales", Upea TV  BOLIVIA
 #EXTVLCOPT:network-caching=10000
@@ -747,29 +512,37 @@ https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8
 #EXTVLCOPT:network-caching=10000
 https://solo.disfrutaenlared.com:1936/vtvcanal/vtvcanal/playlist.m3u8
 
-#EXTINF:31,group-title="Internacionales", Zuraca TV  BOLIVIA
+#EXTINF:31,group-title="Internacionales", Zuraca Tv  BOLIVIA
 #EXTVLCOPT:network-caching=10000
 https://tv3.bitstreaming.net:3680/live/zuracatvlive.m3u8
 
-#EXTINF:31,group-title="Internacionales", PlanetaTV Movies  CHILE
+#EXTINF:31,group-title="Internacionales", Ritoque Tv  CHILE
 #EXTVLCOPT:network-caching=10000
-#--------#https://scl.edge.grupoz.cl/movie/live/playlist.m3u8
+https://streaming.purum.cl/ritoquetv/index.m3u8
 
-#EXTINF:31,group-title="Internacionales", Retroplus 3  CHILE
+#EXTINF:31,group-title="Internacionales", Rocco Tv  CHILE
 #EXTVLCOPT:network-caching=10000
-#--------#https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/retroplussenal3/playlist.m3u8
+https://5ff3d9babae13.streamlock.net/wympnqeqts/wympnqeqts/playlist.m3u8
+
+#EXTINF:31,group-title="Internacionales", RTC Television  CHILE
+#EXTVLCOPT:network-caching=10000
+https://scl.edge.grupoz.cl/rtcstreaming/live/playlist.m3u8
+
+#EXTINF:31,group-title="Internacionales", Santa Maria Television  CHILE
+#EXTVLCOPT:network-caching=10000
+https://pantera1-100gb-cl-movistar.dps.live/smtv/smtv.smil/playlist.m3u8
 
 #EXTINF:31,group-title="Internacionales", UTalca TV  CHILE
 #EXTVLCOPT:network-caching=10000
 https://unlimited1-us.dps.live/campustv/campustv.smil/campustv/livestream1/chunks.m3u8
 
-#EXTINF:31,group-title="Internacionales", CGNT TV en Español  CHINA
-#EXTVLCOPT:network-caching=10000
-#--------#https://livees.cgtn.com/1000e/prog_index.m3u8
-
 #EXTINF:31,group-title="Internacionales", TV Golfo Uraba  COLOMBIA
 #EXTVLCOPT:network-caching=10000
 https://stmv7.voxtvhd.com.br/golfo/golfo/playlist.m3u8
+
+#EXTINF:31,group-title="Internacionales", Sarapiqui Tv  COSTA RICA
+#EXTVLCOPT:network-caching=10000
+http://tiquiciatv.com:1935/stv/web/playlist.m3u8
 
 #EXTINF:31,group-title="Internacionales", Super Cable  COSTA RICA
 #EXTVLCOPT:network-caching=10000
@@ -791,9 +564,25 @@ http://tv.ticosmedia.com:1935/TVSUR/TVSUR/playlist.m3u8
 #EXTVLCOPT:network-caching=10000
 https://k20.usastreams.com:8081/tvsur/index.m3u8
 
-#EXTINF:31,group-title="Internacionales", Cubavision Internacional [NO 24/7]  CUBA
+#EXTINF:31,group-title="Internacionales", Rocavision Tv  DOMINICANA
+#EXTVLCOPT:network-cac
+https://streamunoapp.com:3331/live/rocavisiontvlive.m3u8
+
+#EXTINF:31,group-title="Internacionales", Romana Tv Canal 42  DOMINICANA
+#EXTVLCOPT:network-cac
+https://videoserver.tmcreativos.com:19360/cvmhbyrcat/cvmhbyrcat.m3u8
+
+#EXTINF:31,group-title="Internacionales", Santa Cruz Tv  DOMINICANA
+#EXTVLCOPT:network-cac
+https://host.streamingnation.live/p/3345/hybrid/play.m3u8
+
+#EXTINF:31,group-title="Internacionales", Santiago Tv  DOMINICANA
+#EXTVLCOPT:network-cac
+https://edge.essastream.com/telemilenio/playlist.m3u8
+
+#EXTINF:31,group-title="Internacionales", Señal Digital Tv  DOMINICANA
 #EXTVLCOPT:network-caching=10000
-#--------#http://190.122.96.187:8888/http/010
+https://soportedvb.click:3494/live/senaldigitaltvlive.m3u8
 
 #EXTINF:31,group-title="Internacionales", Tele Dajabon TV  DOMINICANA
 #EXTVLCOPT:network-caching=10000
@@ -803,6 +592,10 @@ https://5790d294af2dc.streamlock.net/dajabon/dajabon/playlist.m3u8
 #EXTVLCOPT:network-caching=10000
 https://5790d294af2dc.streamlock.net/tvn/tvn/playlist.m3u8
 
+#EXTINF:31,group-title="Internacionales", RTRTV  ECUADOR
+#EXTVLCOPT:network-caching=10000
+https://tv3ecuador.site/hls/stream/index.m3u8
+
 #EXTINF:31,group-title="Internacionales", TV Oro  ECUADOR
 #EXTVLCOPT:network-caching=10000
 http://45.187.0.19:9090/tvusa/index.m3u8
@@ -810,10 +603,6 @@ http://45.187.0.19:9090/tvusa/index.m3u8
 #EXTINF:31,group-title="Internacionales", Vos y TV  ECUADOR
 #EXTVLCOPT:network-caching=10000
 https://cloud37.ecuatel.com/vostv/live/manifest.m3u8
-
-#EXTINF:31,group-title="Internacionales", Pluto TV Estrellas de Accion  EEUU
-#EXTVLCOPT:network-caching=10000
-#--------#https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e972a21ad709d00074195ba/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 
 #EXTINF:31,group-title="Internacionales", TV Hispanic  EEUU
 #EXTVLCOPT:network-caching=10000
@@ -823,13 +612,17 @@ https://livetv.305streamhd.com:3504/live/tvhispaniclive.m3u8
 #EXTVLCOPT:network-caching=10000
 https://livestream.telvue.com/yumaaz1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 
+#EXTINF:31,group-title="Internacionales", RTV Canal 57  EL SALVADOR
+#EXTVLCOPT:network-caching=10000
+https://stream.giostreaming.app/rtvcanal57/rtvcanal57.m3u8
+
 #EXTINF:31,group-title="Internacionales", TVC Network  EL SALVADOR
 #EXTVLCOPT:network-caching=10000
 https://stream.castr.com/643880749cf895435bf8eadf/live_d0b3cf70e24111ed8ed2951b4c7d1b75/index.m3u8
 
-#EXTINF:31,group-title="Internacionales", France 24 en Español  FRANCIA
+#EXTINF:31,group-title="Internacionales", Sil Tv  GUATEMALA
 #EXTVLCOPT:network-caching=10000
-#--------#https://ythls.onrender.com/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
+https://live20.bozztv.com/giatv/giatv-SilTvOnline/SilTvOnline/playlist.m3u8
 
 #EXTINF:31,group-title="Internacionales", Sol Tv  GUATEMALA
 #EXTVLCOPT:network-caching=10000
@@ -843,13 +636,13 @@ https://cdn.streamhispanatv.net:3819/live/tvflorecialive.m3u8
 #EXTVLCOPT:network-caching=10000
 https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
 
+#EXTINF:31,group-title="Internacionales", RSV  HONDURAS
+#EXTVLCOPT:network-caching=10000
+https://stmv2.srvif.com/rsvhonduras/rsvhonduras/playlist.m3u8
+
 #EXTINF:31,group-title="Internacionales", My Time Movie  MEXICO
 #EXTVLCOPT:network-caching=10000
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
-
-#EXTINF:31,group-title="Internacionales", Hipodromo de las Americas  MEXICO
-#EXTVLCOPT:network-caching=10000
-#--------#http://wms.tecnoxia.com:1935/8158/8158/playlist.m3u8
 
 #EXTINF:31,group-title="Internacionales", Las Estrellas Latinoamerica  MEXICO
 #EXTVLCOPT:network-caching=10000
@@ -863,10 +656,6 @@ https://58fe359775f31.streamlock.net/tvuv/myStream/playlist.m3u8
 #EXTVLCOPT:network-caching=10000
 http://181.78.121.15:8000/play/a001/index.m3u8
 
-#EXTINF:31,group-title="Internacionales", Somos del Este  PARAGUAY
-#EXTVLCOPT:network-caching=10000
-#--------#https://59ce1298bfb98.streamlock.net/somosdeleste/somosdeleste/playlist.m3u8
-
 #EXTINF:31,group-title="Internacionales", RCC TV  PARAGUAY
 #EXTVLCOPT:network-caching=10000
 #--------#https://59ce1298bfb98.streamlock.net/rcctv02/rcctv02/playlist.m3u8
@@ -879,6 +668,10 @@ https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8
 #EXTVLCOPT:network-caching=10000
 https://live-evg8.tv360.bitel.com.pe/bitel/nexSRT_TRA/playlist.m3u8
 
+#EXTINF:31,group-title="Internacionales", RSelvaTV  PERU
+#EXTVLCOPT:network-caching=10000
+https://live-evg11.tv360.bitel.com.pe/bitel/selvaticaSRT/playlist.m3u8
+
 #EXTINF:31,group-title="Internacionales", StudioTV Huanta  PERU
 #EXTVLCOPT:network-caching=10000
 https://live-evg8.tv360.bitel.com.pe/bitel/studiotvhuanta/playlist.m3u8
@@ -886,10 +679,6 @@ https://live-evg8.tv360.bitel.com.pe/bitel/studiotvhuanta/playlist.m3u8
 #EXTINF:31,group-title="Internacionales", Super Canal  PERU
 #EXTVLCOPT:network-caching=10000
 https://live-evg7.tv360.bitel.com.pe/bitel/supercanalSRT/playlist.m3u8
-
-#EXTINF:31,group-title="Internacionales", Teleamazonas  PERU
-#EXTVLCOPT:network-caching=10000
-#--------#https://live.tvcontrolcp.com:1936/8054/8054/playlist.m3u8
 
 #EXTINF:31,group-title="Internacionales", Teleselva  PERU
 #EXTVLCOPT:network-caching=10000
