@@ -334,10 +334,13 @@ https://videostream.shockmedia.com.ar:19360/telejunin/telejunin.m3u8
 #EXTVLCOPT:network-caching=10000
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 
-
 #EXTINF:31,group-title="Nacionales_y_AMBA", Xtrema Accion
 #EXTVLCOPT:network-caching=10000
 https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
+
+#EXTINF:31,group-title="Nacionales_y_AMBA", Radiocanal Buenos Aires
+#EXTVLCOPT:network-caching=10000
+http://204.199.3.2/.m3u8
 
 
 
@@ -516,6 +519,10 @@ https://solo.disfrutaenlared.com:1936/vtvcanal/vtvcanal/playlist.m3u8
 #EXTVLCOPT:network-caching=10000
 https://tv3.bitstreaming.net:3680/live/zuracatvlive.m3u8
 
+#EXTINF:31,group-title="Internacionales", Radio Zona 90.3  CHILE
+#EXTVLCOPT:network-caching=10000
+https://live.tvcontrolcp.com:8081/radiozona/index.m3u8
+
 #EXTINF:31,group-title="Internacionales", Ritoque Tv  CHILE
 #EXTVLCOPT:network-caching=10000
 https://streaming.purum.cl/ritoquetv/index.m3u8
@@ -535,6 +542,10 @@ https://pantera1-100gb-cl-movistar.dps.live/smtv/smtv.smil/playlist.m3u8
 #EXTINF:31,group-title="Internacionales", UTalca TV  CHILE
 #EXTVLCOPT:network-caching=10000
 https://unlimited1-us.dps.live/campustv/campustv.smil/campustv/livestream1/chunks.m3u8
+
+#EXTINF:31,group-title="Internacionales", RCN HD2  COLOMBIA
+#EXTVLCOPT:network-caching=10000
+http://181.78.14.26:4000/play/a07m/index.m3u8
 
 #EXTINF:31,group-title="Internacionales", TV Golfo Uraba  COLOMBIA
 #EXTVLCOPT:network-caching=10000
@@ -565,19 +576,23 @@ http://tv.ticosmedia.com:1935/TVSUR/TVSUR/playlist.m3u8
 https://k20.usastreams.com:8081/tvsur/index.m3u8
 
 #EXTINF:31,group-title="Internacionales", Rocavision Tv  DOMINICANA
-#EXTVLCOPT:network-cac
+#EXTVLCOPT:network-caching=10000
+https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/playlist.m3u8
+
+#EXTINF:31,group-title="Internacionales", Rocavision Tv  DOMINICANA
+#EXTVLCOPT:network-caching=10000
 https://streamunoapp.com:3331/live/rocavisiontvlive.m3u8
 
 #EXTINF:31,group-title="Internacionales", Romana Tv Canal 42  DOMINICANA
-#EXTVLCOPT:network-cac
+#EXTVLCOPT:network-caching=10000
 https://videoserver.tmcreativos.com:19360/cvmhbyrcat/cvmhbyrcat.m3u8
 
 #EXTINF:31,group-title="Internacionales", Santa Cruz Tv  DOMINICANA
-#EXTVLCOPT:network-cac
+#EXTVLCOPT:network-caching=10000
 https://host.streamingnation.live/p/3345/hybrid/play.m3u8
 
 #EXTINF:31,group-title="Internacionales", Santiago Tv  DOMINICANA
-#EXTVLCOPT:network-cac
+#EXTVLCOPT:network-caching=10000
 https://edge.essastream.com/telemilenio/playlist.m3u8
 
 #EXTINF:31,group-title="Internacionales", Señal Digital Tv  DOMINICANA
